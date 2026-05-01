@@ -3,15 +3,18 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>単語テスト</title>
-  <meta name="description" content="英単語四択テスト。日本語→英語、英語→日本語、混合に対応。" />
+  <title>単語トレーニング</title>
+  <meta name="description" content="英単語四択トレーニング。日本語→英語、英語→日本語、混合に対応。" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="site-header">
-    <div>
-      <p class="eyebrow">単語テスト</p>
-      <h1>単語テスト</h1>
+    <div class="brand">
+      <div class="brand-mark">W</div>
+      <div>
+        <p class="eyebrow">SYSTEM WORDS 1200</p>
+        <h1>単語トレーニング</h1>
+      </div>
     </div>
     <button id="theme-toggle" class="ghost small" type="button" aria-label="テーマ切替">ダーク</button>
   </header>
@@ -20,28 +23,29 @@
     <section id="setup-card" class="card setup-card">
       <div class="section-head">
         <div>
-          <h2>テスト設定</h2>
-          <p>問題数・出題方向・出題範囲を選択して開始します。</p>
+          <p class="section-kicker">SETUP</p>
+          <h2>出題設定</h2>
+          <p>問題数・方向・範囲を決めて開始します。選択肢は単語帳全体から作成します。</p>
         </div>
-        <div class="word-count"><span id="total-words">0</span>語</div>
+        <div class="word-count"><span id="total-words">0</span><small>words</small></div>
       </div>
 
       <div class="controls-grid">
         <fieldset>
           <legend>問題数</legend>
           <div class="segmented" role="radiogroup" aria-label="問題数">
-            <label><input type="radio" name="count" value="10" checked><span>10</span></label>
-            <label><input type="radio" name="count" value="30"><span>30</span></label>
-            <label><input type="radio" name="count" value="50"><span>50</span></label>
+            <label><input type="radio" name="count" value="10" checked><span>10問</span></label>
+            <label><input type="radio" name="count" value="30"><span>30問</span></label>
+            <label><input type="radio" name="count" value="50"><span>50問</span></label>
           </div>
         </fieldset>
 
         <fieldset>
           <legend>出題方向</legend>
           <div class="segmented wide" role="radiogroup" aria-label="出題方向">
-            <label><input type="radio" name="mode" value="en-ja" checked><span>英語→日本語</span></label>
-            <label><input type="radio" name="mode" value="ja-en"><span>日本語→英語</span></label>
-            <label><input type="radio" name="mode" value="mixed"><span>両方</span></label>
+            <label><input type="radio" name="mode" value="en-ja" checked><span>英語 → 日本語</span></label>
+            <label><input type="radio" name="mode" value="ja-en"><span>日本語 → 英語</span></label>
+            <label><input type="radio" name="mode" value="mixed"><span>両方ランダム</span></label>
           </div>
         </fieldset>
 
@@ -51,11 +55,11 @@
             <label>開始No.<input id="range-start" type="number" min="1" value="1" inputmode="numeric"></label>
             <label>終了No.<input id="range-end" type="number" min="1" value="1200" inputmode="numeric"></label>
           </div>
-          <p class="hint">例：1〜600だけ、601〜1200だけなどに分けられます。選択肢は単語帳全体から作成されます。</p>
+          <p class="hint">例：1〜600、601〜1200などに分けて出題できます。</p>
         </fieldset>
 
         <fieldset>
-          <legend>追加設定</legend>
+          <legend>復習設定</legend>
           <label class="check"><input id="wrong-only" type="checkbox"> 前回までのミスだけ出題</label>
           <label class="check"><input id="auto-next" type="checkbox" checked> 正解後に自動で次へ進む</label>
           <label class="check"><input id="hide-choices" type="checkbox" checked> 最初は選択肢を隠す</label>
@@ -89,12 +93,11 @@
       </article>
 
       <div id="choices-cover" class="choices-cover">
-        <p>選択肢はまだ表示されていません。</p>
+        <p>答えを思い出してから選択肢を表示します。</p>
         <button id="show-choices-btn" class="secondary" type="button">選択肢を表示</button>
       </div>
 
       <div id="choices" class="choices hidden"></div>
-
       <div id="feedback" class="feedback hidden"></div>
 
       <div class="action-row between">
@@ -109,11 +112,11 @@
     <section id="result-card" class="card result-card hidden">
       <div class="section-head">
         <div>
-          <p class="eyebrow">結果</p>
+          <p class="section-kicker">RESULT</p>
           <h2 id="result-title">0 / 0</h2>
           <p id="result-message"></p>
         </div>
-        <div class="result-rate"><span id="result-rate">0</span>%</div>
+        <div class="result-rate"><span id="result-rate">0</span><small>%</small></div>
       </div>
 
       <div class="result-grid">
@@ -135,19 +138,18 @@
     </section>
 
     <section class="card help-card">
-      <h2>使い方</h2>
-      <ul>
-        <li>問題文だけを見て答えを考え、必要になったら「選択肢を表示」を押します。</li>
-        <li>四択から選ぶと即時に正誤判定します。</li>
-        <li>ミスした単語はブラウザに保存され、「前回までのミスだけ出題」で復習できます。</li>
-        <li>キーボード操作：<kbd>Space</kbd>で選択肢表示、<kbd>1</kbd>〜<kbd>4</kbd>で回答、<kbd>Enter</kbd>で次へ。</li>
-      </ul>
+      <h2>操作メモ</h2>
+      <div class="help-grid">
+        <p><b>Space</b><span>選択肢を表示</span></p>
+        <p><b>1〜4</b><span>回答</span></p>
+        <p><b>Enter</b><span>次の問題へ</span></p>
+      </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <span>supported by chatGPT</span>
-    <span>Static quiz app for GitHub Pages</span>
+    <span>単語トレーニング</span>
+    <span>GitHub Pages対応・静的サイト</span>
   </footer>
 
   <script src="words.js"></script>

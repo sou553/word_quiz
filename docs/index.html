@@ -4,13 +4,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>単語テスト</title>
-  <meta name="description" content="CSVから作成した英単語四択テスト。日本語→英語、英語→日本語、混合に対応。" />
+  <meta name="description" content="英単語四択テスト。日本語→英語、英語→日本語、混合に対応。" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="site-header">
     <div>
-      <p class="eyebrow">サイト</p>
+      <p class="eyebrow">単語テスト</p>
       <h1>単語テスト</h1>
     </div>
     <button id="theme-toggle" class="ghost small" type="button" aria-label="テーマ切替">ダーク</button>
@@ -51,7 +51,7 @@
             <label>開始No.<input id="range-start" type="number" min="1" value="1" inputmode="numeric"></label>
             <label>終了No.<input id="range-end" type="number" min="1" value="1200" inputmode="numeric"></label>
           </div>
-          <p class="hint">例：1〜600だけ、601〜1200だけなどに分けられます。</p>
+          <p class="hint">例：1〜600だけ、601〜1200だけなどに分けられます。選択肢は単語帳全体から作成されます。</p>
         </fieldset>
 
         <fieldset>
@@ -146,6 +146,7 @@
   </main>
 
   <footer class="site-footer">
+    <span>supported by chatGPT</span>
     <span>Static quiz app for GitHub Pages</span>
   </footer>
 

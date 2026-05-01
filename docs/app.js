@@ -128,8 +128,15 @@
       pool = pool.filter(item => wrongIds.has(item.id));
     }
 
-    if (pool.length < 4) {
-      alert("四択問題を作るには、出題対象が最低4語必要です。範囲または設定を変更してください。");
+    if (pool.length < 1) {
+      alert("出題対象がありません。出題範囲または設定を変更してください。");
+      return;
+    }
+
+    const neededFields = state.settings.mode === "mixed" ? ["word", "meaning"] : [state.settings.mode === "en-ja" ? "meaning" : "word"];
+    const lacksChoices = neededFields.some(field => uniqueChoiceCount(words, field) < 4);
+    if (lacksChoices) {
+      alert("四択問題を作るには、単語帳全体に4種類以上の選択肢が必要です。");
       return;
     }
 
@@ -336,6 +343,8 @@
   }
 
   function makeChoices(answer, field, excludeId) {
+    // 選択肢は「出題範囲」ではなく、単語帳全体から作成する。
+    // これにより、No.1〜1 のような狭い範囲でも四択問題を作成できる。
     const seen = new Set([answer]);
     const distractors = [];
     const candidates = shuffle(words.filter(item => item.id !== excludeId));
@@ -347,6 +356,10 @@
       if (distractors.length === 3) break;
     }
     return shuffle([{ label: answer, correct: true }, ...distractors]);
+  }
+
+  function uniqueChoiceCount(source, field) {
+    return new Set(source.map(item => item[field]).filter(Boolean)).size;
   }
 
   function updateItemStats(id, correct) {

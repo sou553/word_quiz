@@ -420,3 +420,36 @@ button:active { transform: translate(0, 0); box-shadow: none; }
   .review-item { grid-template-columns: 48px 1fr; }
   .review-item em { grid-column: 2; }
 }
+
+
+.wide-field {
+  grid-column: 1 / -1;
+}
+
+.group-segmented {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.group-segmented span {
+  min-height: 72px;
+  display: grid;
+  place-items: center;
+  gap: 2px;
+}
+
+.group-segmented small {
+  display: block;
+  color: var(--muted);
+  font-size: .78rem;
+  font-weight: 800;
+}
+
+.group-segmented input:checked + span small {
+  color: inherit;
+}
+
+@media (max-width: 780px) {
+  .group-segmented {
+    grid-template-columns: 1fr;
+  }
+}

@@ -2,11 +2,12 @@
   "use strict";
 
   const STORAGE_KEY = "system-wordbook-quiz-v1";
-  const words = Array.isArray(window.WORDBOOK) ? window.WORDBOOK : [];
+  const allWords = Array.isArray(window.WORDBOOK) ? window.WORDBOOK : [];
+  const groups = Array.isArray(window.WORDBOOK_GROUPS) ? window.WORDBOOK_GROUPS : [{ id: "all", name: "全単語", count: allWords.length, rangeMax: allWords.length }];
 
   const $ = (id) => document.getElementById(id);
   const state = {
-    settings: { count: 10, mode: "en-ja", start: 1, end: words.length, wrongOnly: false, autoNext: true, hideChoices: true },
+    settings: { group: groups[0]?.id || "all", count: 10, mode: "en-ja", start: 1, end: allWords.length, wrongOnly: false, autoNext: true, hideChoices: true },
     queue: [],
     index: 0,
     score: 0,
@@ -23,6 +24,9 @@
 
   const els = {
     totalWords: $("total-words"),
+    groupOptions: $("group-options"),
+    groupNote: $("group-note"),
+    brandSubtitle: $("brand-subtitle"),
     rangeStart: $("range-start"),
     rangeEnd: $("range-end"),
     wrongOnly: $("wrong-only"),
@@ -65,13 +69,29 @@
   init();
 
   function init() {
-    els.totalWords.textContent = String(words.length);
-    els.rangeEnd.value = String(words.length);
-    els.rangeEnd.max = String(words.length);
-    els.rangeStart.max = String(words.length);
+    renderGroupOptions();
     restoreTheme();
     wireEvents();
+    updateGroupUi();
     updateWrongOnlyAvailability();
+  }
+
+  function renderGroupOptions() {
+    if (!els.groupOptions) return;
+    els.groupOptions.innerHTML = "";
+    groups.forEach((group, index) => {
+      const label = document.createElement("label");
+      const input = document.createElement("input");
+      const span = document.createElement("span");
+      input.type = "radio";
+      input.name = "group";
+      input.value = group.id;
+      input.checked = index === 0;
+      span.innerHTML = `${escapeHtml(group.name)}<small>${Number(group.count || 0).toLocaleString()}語</small>`;
+      label.appendChild(input);
+      label.appendChild(span);
+      els.groupOptions.appendChild(label);
+    });
   }
 
   function wireEvents() {
@@ -84,6 +104,14 @@
     els.retryWrongBtn.addEventListener("click", retryWrong);
     els.resetStatsBtn.addEventListener("click", resetStats);
     els.themeToggle.addEventListener("click", toggleTheme);
+
+    document.querySelectorAll('input[name="group"]').forEach(input => {
+      input.addEventListener("change", () => {
+        state.settings.group = input.value;
+        updateGroupUi(true);
+        updateWrongOnlyAvailability();
+      });
+    });
 
     document.addEventListener("keydown", (event) => {
       if (els.quizCard.classList.contains("hidden")) return;
@@ -103,11 +131,14 @@
   }
 
   function collectSettings() {
+    const group = document.querySelector('input[name="group"]:checked')?.value || groups[0]?.id || "all";
     const count = Number(document.querySelector('input[name="count"]:checked')?.value || 10);
     const mode = document.querySelector('input[name="mode"]:checked')?.value || "en-ja";
-    const start = clamp(Number(els.rangeStart.value || 1), 1, words.length);
-    const end = clamp(Number(els.rangeEnd.value || words.length), 1, words.length);
+    const maxNo = getRangeMax(group);
+    const start = clamp(Number(els.rangeStart.value || 1), 1, maxNo);
+    const end = clamp(Number(els.rangeEnd.value || maxNo), 1, maxNo);
     state.settings = {
+      group,
       count,
       mode,
       start: Math.min(start, end),
@@ -122,21 +153,24 @@
     clearTimeout(state.timer);
     collectSettings();
 
-    let pool = customSource || words.filter(item => item.id >= state.settings.start && item.id <= state.settings.end);
+    let pool = customSource || getActiveWords().filter(item => {
+      const no = getQuestionNo(item);
+      return no >= state.settings.start && no <= state.settings.end;
+    });
     if (state.settings.wrongOnly && !customSource) {
-      const wrongIds = new Set(Object.entries(state.stats).filter(([, v]) => v.wrong > 0).map(([k]) => Number(k)));
-      pool = pool.filter(item => wrongIds.has(item.id));
+      pool = pool.filter(item => getItemStats(item).wrong > 0);
     }
 
     if (pool.length < 1) {
-      alert("出題対象がありません。出題範囲または設定を変更してください。");
+      alert("出題対象がありません。単語群、出題範囲、復習設定を変更してください。");
       return;
     }
 
+    const choiceSource = getChoiceSource(customSource);
     const neededFields = state.settings.mode === "mixed" ? ["word", "meaning"] : [state.settings.mode === "en-ja" ? "meaning" : "word"];
-    const lacksChoices = neededFields.some(field => uniqueChoiceCount(words, field) < 4);
+    const lacksChoices = neededFields.some(field => uniqueChoiceCount(choiceSource, field) < 4);
     if (lacksChoices) {
-      alert("四択問題を作るには、単語帳全体に4種類以上の選択肢が必要です。");
+      alert("四択問題を作るには、選択中の単語群に4種類以上の選択肢が必要です。");
       return;
     }
 
@@ -171,9 +205,9 @@
     const answer = isEnJa ? item.meaning : item.word;
     const distractorField = isEnJa ? "meaning" : "word";
 
-    state.currentChoices = makeChoices(answer, distractorField, item.id);
+    state.currentChoices = makeChoices(answer, distractorField, item.uid);
 
-    els.modeLabel.textContent = modeText(item.direction);
+    els.modeLabel.textContent = `${modeText(item.direction)} / ${item.groupName}`;
     els.progressLabel.textContent = `${currentNo} / ${total}`;
     els.progressBar.style.width = `${((currentNo - 1) / total) * 100}%`;
     els.scoreNow.textContent = String(state.score);
@@ -181,7 +215,7 @@
     els.directionPill.textContent = isEnJa ? "英語を日本語に" : "日本語を英語に";
     els.questionText.textContent = isEnJa ? item.word : item.meaning;
     els.questionText.classList.toggle("japanese", !isEnJa);
-    els.questionSub.textContent = `No.${item.id}`;
+    els.questionSub.textContent = `${item.groupName} No.${item.id}`;
     els.feedback.className = "feedback hidden";
     els.feedback.textContent = "";
     els.nextBtn.classList.add("hidden");
@@ -236,7 +270,7 @@
       state.score += 1;
       state.streak += 1;
       state.bestStreak = Math.max(state.bestStreak, state.streak);
-      updateItemStats(item.id, true);
+      updateItemStats(item, true);
       showFeedback(true, "正解", item);
       if (state.settings.autoNext) {
         state.timer = setTimeout(() => nextQuestion(), 700);
@@ -245,7 +279,7 @@
       }
     } else {
       state.streak = 0;
-      updateItemStats(item.id, false);
+      updateItemStats(item, false);
       state.wrongItems.push({ ...item, selected: choice.label, correct: correctText });
       showFeedback(false, `不正解：正解は「${correctText}」`, item);
       els.nextBtn.classList.remove("hidden");
@@ -268,7 +302,7 @@
     state.skipped += 1;
     state.streak = 0;
     els.skipBtn.disabled = true;
-    updateItemStats(item.id, false);
+    updateItemStats(item, false);
     state.wrongItems.push({ ...item, selected: "スキップ", correct: correctText });
     showChoices();
     [...els.choices.querySelectorAll("button")].forEach(btn => {
@@ -323,14 +357,14 @@
     state.wrongItems.forEach(item => {
       const row = document.createElement("div");
       row.className = "review-item";
-      row.innerHTML = `<span>No.${item.id}</span><b>${escapeHtml(item.word)}</b><em>${escapeHtml(item.meaning)}</em>`;
+      row.innerHTML = `<span>${escapeHtml(item.groupName)} No.${item.id}</span><b>${escapeHtml(item.word)}</b><em>${escapeHtml(item.meaning)}</em>`;
       els.reviewList.appendChild(row);
     });
   }
 
   function retryWrong() {
     if (!state.wrongItems.length) return;
-    const unique = Array.from(new Map(state.wrongItems.map(item => [item.id, words.find(w => w.id === item.id) || item])).values());
+    const unique = Array.from(new Map(state.wrongItems.map(item => [item.uid, allWords.find(w => w.uid === item.uid) || item])).values());
     startQuiz(unique);
   }
 
@@ -339,15 +373,14 @@
     els.resultCard.classList.add("hidden");
     els.quizCard.classList.add("hidden");
     els.setupCard.classList.remove("hidden");
+    updateGroupUi(false);
     updateWrongOnlyAvailability();
   }
 
-  function makeChoices(answer, field, excludeId) {
-    // 選択肢は「出題範囲」ではなく、単語帳全体から作成する。
-    // これにより、No.1〜1 のような狭い範囲でも四択問題を作成できる。
+  function makeChoices(answer, field, excludeUid) {
     const seen = new Set([answer]);
     const distractors = [];
-    const candidates = shuffle(words.filter(item => item.id !== excludeId));
+    const candidates = shuffle(getChoiceSource().filter(item => item.uid !== excludeUid));
     for (const item of candidates) {
       const value = item[field];
       if (!value || seen.has(value)) continue;
@@ -358,13 +391,57 @@
     return shuffle([{ label: answer, correct: true }, ...distractors]);
   }
 
+  function getActiveWords(groupId = state.settings.group) {
+    if (groupId === "all") return allWords;
+    return allWords.filter(item => item.groupId === groupId);
+  }
+
+  function getChoiceSource() {
+    return getActiveWords(state.settings.group);
+  }
+
+  function getQuestionNo(item) {
+    return state.settings.group === "all" ? item.globalId : item.id;
+  }
+
+  function getRangeMax(groupId) {
+    const group = groups.find(g => g.id === groupId);
+    return Number(group?.rangeMax || group?.count || allWords.length || 1);
+  }
+
+  function updateGroupUi(resetRange = false) {
+    const selected = document.querySelector('input[name="group"]:checked')?.value || state.settings.group;
+    state.settings.group = selected;
+    const group = groups.find(g => g.id === selected) || groups[0];
+    const maxNo = getRangeMax(selected);
+    els.totalWords.textContent = String(Number(group?.count || 0));
+    els.rangeStart.max = String(maxNo);
+    els.rangeEnd.max = String(maxNo);
+    if (resetRange || Number(els.rangeEnd.value) > maxNo || Number(els.rangeEnd.value) === 0) {
+      els.rangeStart.value = "1";
+      els.rangeEnd.value = String(maxNo);
+    }
+    if (els.groupNote) {
+      els.groupNote.textContent = selected === "all"
+        ? `全${maxNo.toLocaleString()}語から出題します。No.は全単語の通し番号です。`
+        : `${group.name}から出題します。No.1〜${maxNo.toLocaleString()}を指定できます。`;
+    }
+    if (els.brandSubtitle) {
+      els.brandSubtitle.textContent = `${group.name.toUpperCase?.() || group.name} ${Number(group.count || 0).toLocaleString()} WORDS`;
+    }
+  }
+
   function uniqueChoiceCount(source, field) {
     return new Set(source.map(item => item[field]).filter(Boolean)).size;
   }
 
-  function updateItemStats(id, correct) {
-    const key = String(id);
-    const current = state.stats[key] || { correct: 0, wrong: 0, last: null };
+  function getItemStats(item) {
+    return state.stats[item.uid] || (item.groupId === "system" ? state.stats[String(item.id)] : null) || { correct: 0, wrong: 0, last: null };
+  }
+
+  function updateItemStats(item, correct) {
+    const key = item.uid;
+    const current = { ...getItemStats(item) };
     if (correct) {
       current.correct += 1;
       if (current.wrong > 0) current.wrong -= 1;
@@ -377,7 +454,7 @@
   }
 
   function updateWrongOnlyAvailability() {
-    const wrongCount = Object.values(state.stats).filter(v => v.wrong > 0).length;
+    const wrongCount = getActiveWords().filter(item => getItemStats(item).wrong > 0).length;
     els.wrongOnly.disabled = wrongCount === 0;
     if (wrongCount === 0) els.wrongOnly.checked = false;
     const label = els.wrongOnly.closest("label");

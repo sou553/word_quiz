@@ -342,7 +342,7 @@ window.WORDBOOK = [
     "id": 36,
     "globalId": 36,
     "word": "suffer",
-    "meaning": "経験する"
+    "meaning": "(苦痛を)経験する"
   },
   {
     "uid": "system-37",

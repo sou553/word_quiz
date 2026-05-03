@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>単語トレーニング</title>
+  <meta name="description" content="複数の単語群に対応した英単語四択トレーニング。日本語→英語、英語→日本語、混合に対応。" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <div class="brand-mark">W</div>
+      <div>
+        <p id="brand-subtitle" class="eyebrow">WORD TRAINING</p>
+        <h1>単語トレーニング</h1>
+      </div>
+    </div>
+    <button id="theme-toggle" class="ghost small" type="button" aria-label="テーマ切替">ダーク</button>
+  </header>
+
+  <main class="app-shell">
+    <section id="setup-card" class="card setup-card">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">SETUP</p>
+          <h2>出題設定</h2>
+          <p>単語群・問題数・方向・範囲を決めて開始します。選択肢は選択中の単語群全体から作成します。</p>
+        </div>
+        <div class="word-count"><span id="total-words">0</span><small>words</small></div>
+      </div>
+
+      <div class="controls-grid">
+        <fieldset class="wide-field">
+          <legend>単語群</legend>
+          <div id="group-options" class="segmented group-segmented" role="radiogroup" aria-label="単語群"></div>
+          <p id="group-note" class="hint">単語群を選ぶと、出題範囲の最大No.が切り替わります。</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>問題数</legend>
+          <div class="segmented" role="radiogroup" aria-label="問題数">
+            <label><input type="radio" name="count" value="10" checked><span>10問</span></label>
+            <label><input type="radio" name="count" value="30"><span>30問</span></label>
+            <label><input type="radio" name="count" value="50"><span>50問</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>出題方向</legend>
+          <div class="segmented wide" role="radiogroup" aria-label="出題方向">
+            <label><input type="radio" name="mode" value="en-ja" checked><span>英語 → 日本語</span></label>
+            <label><input type="radio" name="mode" value="ja-en"><span>日本語 → 英語</span></label>
+            <label><input type="radio" name="mode" value="mixed"><span>両方ランダム</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>出題範囲</legend>
+          <div class="range-row">
+            <label>開始No.<input id="range-start" type="number" min="1" value="1" inputmode="numeric"></label>
+            <label>終了No.<input id="range-end" type="number" min="1" value="1200" inputmode="numeric"></label>
+          </div>
+          <p class="hint">例：1〜600、601〜1200などに分けて出題できます。単語群が「全単語」の場合は通し番号です。</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>復習設定</legend>
+          <label class="check"><input id="wrong-only" type="checkbox"> 前回までのミスだけ出題</label>
+          <label class="check"><input id="auto-next" type="checkbox" checked> 正解後に自動で次へ進む</label>
+          <label class="check"><input id="hide-choices" type="checkbox" checked> 最初は選択肢を隠す</label>
+        </fieldset>
+      </div>
+
+      <div class="action-row">
+        <button id="start-btn" class="primary" type="button">テスト開始</button>
+        <button id="reset-stats-btn" class="ghost" type="button">学習履歴をリセット</button>
+      </div>
+    </section>
+
+
+
+    <section id="print-card" class="card print-card">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">PRINT</p>
+          <h2>小テスト作成・印刷</h2>
+          <p>現在の単語群・問題数・出題方向・範囲から、紙に印刷できる小テストを作成します。</p>
+        </div>
+      </div>
+
+      <div class="print-options">
+        <label class="check"><input id="print-shuffle" type="checkbox" checked> ランダムに並べる</label>
+        <label class="check"><input id="print-show-no" type="checkbox" checked> 単語No.を表示</label>
+      </div>
+
+      <div class="action-row">
+        <button id="build-print-btn" class="secondary" type="button">小テストを作成</button>
+        <button id="print-quiz-btn" class="primary" type="button" disabled>問題のみ印刷</button>
+        <button id="print-with-answer-btn" class="ghost" type="button" disabled>解答付き印刷</button>
+      </div>
+
+      <p id="print-status" class="hint">作成後、印刷前にプレビューを確認できます。</p>
+      <div id="print-preview" class="print-preview hidden" aria-live="polite"></div>
+    </section>
+
+    <section id="quiz-card" class="card quiz-card hidden" aria-live="polite">
+      <div class="quiz-topbar">
+        <div>
+          <p id="mode-label" class="eyebrow">英語→日本語</p>
+          <h2 id="progress-label">1 / 10</h2>
+        </div>
+        <div class="scorebox">
+          <span>正解 <b id="score-now">0</b></span>
+          <span>連続 <b id="streak-now">0</b></span>
+        </div>
+      </div>
+
+      <div class="progress" aria-hidden="true"><div id="progress-bar"></div></div>
+
+      <article class="question-panel">
+        <p id="direction-pill" class="pill">英語を日本語に</p>
+        <div id="question-text" class="question-text"></div>
+        <p id="question-sub" class="question-sub"></p>
+      </article>
+
+      <div id="choices-cover" class="choices-cover">
+        <p>選択肢はまだ表示されていません。</p>
+        <button id="show-choices-btn" class="secondary" type="button">選択肢を表示</button>
+      </div>
+
+      <div id="choices" class="choices hidden"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="action-row between">
+        <button id="quit-btn" class="ghost" type="button">終了</button>
+        <div class="right-actions">
+          <button id="skip-btn" class="ghost" type="button">スキップ</button>
+          <button id="next-btn" class="primary hidden" type="button">次へ</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="result-card" class="card result-card hidden">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">RESULT</p>
+          <h2 id="result-title">0 / 0</h2>
+          <p id="result-message"></p>
+        </div>
+        <div class="result-rate"><span id="result-rate">0</span>%</div>
+      </div>
+
+      <div class="result-grid">
+        <div class="metric"><span>正解数</span><b id="metric-correct">0</b></div>
+        <div class="metric"><span>ミス</span><b id="metric-wrong">0</b></div>
+        <div class="metric"><span>スキップ</span><b id="metric-skip">0</b></div>
+        <div class="metric"><span>最高連続正解</span><b id="metric-best-streak">0</b></div>
+      </div>
+
+      <div id="review-wrap" class="review-wrap hidden">
+        <h3>復習リスト</h3>
+        <div id="review-list" class="review-list"></div>
+      </div>
+
+      <div class="action-row">
+        <button id="retry-wrong-btn" class="secondary" type="button">ミスだけ再テスト</button>
+        <button id="back-setup-btn" class="primary" type="button">設定に戻る</button>
+      </div>
+    </section>
+
+    <section class="card help-card">
+      <h2>使い方</h2>
+      <ul>
+        <li>単語群を選び、範囲を指定して出題できます。</li>
+        <li>選択肢は出題範囲ではなく、選択中の単語群全体から作成されます。</li>
+        <li>ミスした単語はブラウザに保存され、「前回までのミスだけ出題」で復習できます。</li>
+        <li>キーボード操作：<kbd>Space</kbd>で選択肢表示、<kbd>1</kbd>〜<kbd>4</kbd>で回答、<kbd>Enter</kbd>で次へ。</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>Static quiz app for GitHub Pages</span>
+    <span>CSVから単語群を追加可能</span>
+  </footer>
+
+  <div id="print-area" class="print-area" aria-hidden="true"></div>
+
+  <script src="words.js"></script>
+  <script src="app.js"></script>
+  <script src="print.js"></script>
+</body>
+</html>

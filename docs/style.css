@@ -453,3 +453,208 @@ button:active { transform: translate(0, 0); box-shadow: none; }
     grid-template-columns: 1fr;
   }
 }
+
+
+/* =========================
+   小テスト作成・印刷
+========================= */
+.print-card .print-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin-top: -6px;
+}
+
+.print-preview {
+  margin-top: 18px;
+  padding: 14px;
+  border: 2px solid var(--line);
+  background: var(--paper-2);
+  color: #111;
+  max-height: 560px;
+  overflow: auto;
+}
+
+.print-preview .print-sheet {
+  width: auto;
+  min-height: auto;
+  margin: 0;
+  padding: 14px;
+  box-shadow: none;
+}
+
+.print-preview .answer-sheet {
+  margin-top: 14px;
+  page-break-before: auto;
+}
+
+.print-area {
+  display: none;
+}
+
+.print-sheet {
+  width: 210mm;
+  min-height: 297mm;
+  margin: 0 auto;
+  padding: 11mm;
+  background: #fff;
+  color: #111;
+  box-sizing: border-box;
+  font-family: Arial, "Yu Gothic", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.print-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding-bottom: 7px;
+  margin-bottom: 8px;
+  border-bottom: 2px solid #111;
+}
+
+.print-header h1 {
+  margin: 0 0 3px;
+  color: #111;
+  font-size: 20px;
+  line-height: 1.15;
+  letter-spacing: .08em;
+}
+
+.print-header p,
+.print-meta p {
+  margin: 1px 0;
+  color: #222;
+  font-size: 10.5px;
+  line-height: 1.45;
+}
+
+.print-meta {
+  min-width: 46mm;
+  text-align: left;
+}
+
+.print-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3.2px 7px;
+}
+
+.print-question {
+  display: grid;
+  grid-template-columns: 26px minmax(0, 1.08fr) minmax(0, .92fr);
+  min-height: 31px;
+  border: 1px solid #222;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  background: #fff;
+}
+
+.print-no {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid #222;
+  color: #555;
+  font-size: 10px;
+  line-height: 1.2;
+}
+
+.print-word {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  padding: 3px 5px;
+  border-right: 1px solid #222;
+  font-size: 12.5px;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+.print-dir {
+  flex: 0 0 auto;
+  padding: 1px 3px;
+  border: 1px solid #888;
+  color: #555;
+  font-size: 8.5px;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.print-blank {
+  min-width: 0;
+  padding: 3px 5px;
+  font-size: 11.5px;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+.answer-sheet {
+  page-break-before: always;
+}
+
+.answer-sheet h1 {
+  margin: 0 0 8px;
+  color: #111;
+  font-size: 18px;
+  letter-spacing: .08em;
+}
+
+.answer-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.answer-table th,
+.answer-table td {
+  border: 1px solid #222;
+  padding: 4px 5px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.answer-table th:first-child,
+.answer-table td:first-child {
+  width: 34px;
+  text-align: center;
+}
+
+@media (max-width: 780px) {
+  .print-card .print-options {
+    display: block;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+
+  html,
+  body {
+    width: 210mm;
+    min-height: 297mm;
+    background: #fff !important;
+  }
+
+  body.printing .site-header,
+  body.printing .app-shell,
+  body.printing .site-footer {
+    display: none !important;
+  }
+
+  body.printing .print-area {
+    display: block !important;
+  }
+
+  .print-sheet {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0;
+    box-shadow: none;
+  }
+}

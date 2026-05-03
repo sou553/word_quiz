@@ -78,6 +78,32 @@
       </div>
     </section>
 
+
+
+    <section id="print-card" class="card print-card">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">PRINT</p>
+          <h2>小テスト作成・印刷</h2>
+          <p>現在の単語群・問題数・出題方向・範囲から、紙に印刷できる小テストを作成します。</p>
+        </div>
+      </div>
+
+      <div class="print-options">
+        <label class="check"><input id="print-shuffle" type="checkbox" checked> ランダムに並べる</label>
+        <label class="check"><input id="print-show-no" type="checkbox" checked> 単語No.を表示</label>
+      </div>
+
+      <div class="action-row">
+        <button id="build-print-btn" class="secondary" type="button">小テストを作成</button>
+        <button id="print-quiz-btn" class="primary" type="button" disabled>問題のみ印刷</button>
+        <button id="print-with-answer-btn" class="ghost" type="button" disabled>解答付き印刷</button>
+      </div>
+
+      <p id="print-status" class="hint">作成後、印刷前にプレビューを確認できます。</p>
+      <div id="print-preview" class="print-preview hidden" aria-live="polite"></div>
+    </section>
+
     <section id="quiz-card" class="card quiz-card hidden" aria-live="polite">
       <div class="quiz-topbar">
         <div>
@@ -160,7 +186,10 @@
     <span>CSVから単語群を追加可能</span>
   </footer>
 
+  <div id="print-area" class="print-area" aria-hidden="true"></div>
+
   <script src="words.js"></script>
   <script src="app.js"></script>
+  <script src="print.js"></script>
 </body>
 </html>

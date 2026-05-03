@@ -12,10 +12,16 @@ window.WORDBOOK_GROUPS = [
     "rangeMax": 1900
   },
   {
+    "id": "word1900",
+    "name": "1900語リスト",
+    "count": 1900,
+    "rangeMax": 1900
+  },
+  {
     "id": "all",
     "name": "全単語",
-    "count": 3100,
-    "rangeMax": 3100
+    "count": 5000,
+    "rangeMax": 5000
   }
 ];
 
@@ -342,7 +348,7 @@ window.WORDBOOK = [
     "id": 36,
     "globalId": 36,
     "word": "suffer",
-    "meaning": "(苦痛を)経験する"
+    "meaning": "経験する"
   },
   {
     "uid": "system-37",
@@ -27919,5 +27925,17105 @@ window.WORDBOOK = [
     "globalId": 3100,
     "word": "wrap up ~",
     "meaning": "(仕事・交渉など)を滞りなく終える"
+  },
+  {
+    "uid": "word1900-1",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1,
+    "globalId": 3101,
+    "word": "create",
+    "meaning": "創り出す；引き起こす"
+  },
+  {
+    "uid": "word1900-2",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 2,
+    "globalId": 3102,
+    "word": "increase",
+    "meaning": "増加する；を増やす"
+  },
+  {
+    "uid": "word1900-3",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 3,
+    "globalId": 3103,
+    "word": "improve",
+    "meaning": "を向上させる；よくなる"
+  },
+  {
+    "uid": "word1900-4",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 4,
+    "globalId": 3104,
+    "word": "mean",
+    "meaning": "を意味する；（…する）つもりである（to do）"
+  },
+  {
+    "uid": "word1900-5",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 5,
+    "globalId": 3105,
+    "word": "own",
+    "meaning": "を所有している；（事実・罪など）を認める"
+  },
+  {
+    "uid": "word1900-6",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 6,
+    "globalId": 3106,
+    "word": "include",
+    "meaning": "を含む"
+  },
+  {
+    "uid": "word1900-7",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 7,
+    "globalId": 3107,
+    "word": "consider",
+    "meaning": "を見なす；について考える"
+  },
+  {
+    "uid": "word1900-8",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 8,
+    "globalId": 3108,
+    "word": "allow",
+    "meaning": "を許す；を与える；（～を）考慮に入れる（for）"
+  },
+  {
+    "uid": "word1900-9",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 9,
+    "globalId": 3109,
+    "word": "suggest",
+    "meaning": "を提案する；を暗示する"
+  },
+  {
+    "uid": "word1900-10",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 10,
+    "globalId": 3110,
+    "word": "produce",
+    "meaning": "を生産する；を取り出す"
+  },
+  {
+    "uid": "word1900-11",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 11,
+    "globalId": 3111,
+    "word": "decide",
+    "meaning": "を決める；に決着をつける"
+  },
+  {
+    "uid": "word1900-12",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 12,
+    "globalId": 3112,
+    "word": "offer",
+    "meaning": "を提供する，申し出る"
+  },
+  {
+    "uid": "word1900-13",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 13,
+    "globalId": 3113,
+    "word": "require",
+    "meaning": "を要求する；を必要とする"
+  },
+  {
+    "uid": "word1900-14",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 14,
+    "globalId": 3114,
+    "word": "share",
+    "meaning": "を共有する；を分担する"
+  },
+  {
+    "uid": "word1900-15",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 15,
+    "globalId": 3115,
+    "word": "store",
+    "meaning": "を保存する；を蓄える"
+  },
+  {
+    "uid": "word1900-16",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 16,
+    "globalId": 3116,
+    "word": "tend",
+    "meaning": "傾向がある；を世話する"
+  },
+  {
+    "uid": "word1900-17",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 17,
+    "globalId": 3117,
+    "word": "concern",
+    "meaning": "〔受身形で〕心配している；〔受身形で〕（～に）関係する（with）；に関連する"
+  },
+  {
+    "uid": "word1900-18",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 18,
+    "globalId": 3118,
+    "word": "describe",
+    "meaning": "について述べる，を説明する"
+  },
+  {
+    "uid": "word1900-19",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 19,
+    "globalId": 3119,
+    "word": "involve",
+    "meaning": "を関与させる；を伴う"
+  },
+  {
+    "uid": "word1900-20",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 20,
+    "globalId": 3120,
+    "word": "reduce",
+    "meaning": "を減らす；を（～に）変える（to）"
+  },
+  {
+    "uid": "word1900-21",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 21,
+    "globalId": 3121,
+    "word": "design",
+    "meaning": "を設計する；を計画する"
+  },
+  {
+    "uid": "word1900-22",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 22,
+    "globalId": 3122,
+    "word": "force",
+    "meaning": "に強いる；を強要する"
+  },
+  {
+    "uid": "word1900-23",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 23,
+    "globalId": 3123,
+    "word": "limit",
+    "meaning": "を制限［規制］する"
+  },
+  {
+    "uid": "word1900-24",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 24,
+    "globalId": 3124,
+    "word": "bear",
+    "meaning": "に耐える；を負う；を産む；を（心に）抱く"
+  },
+  {
+    "uid": "word1900-25",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 25,
+    "globalId": 3125,
+    "word": "affect",
+    "meaning": "に影響を及ぼす；を感動させる"
+  },
+  {
+    "uid": "word1900-26",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 26,
+    "globalId": 3126,
+    "word": "deal",
+    "meaning": "〔deal withで〕を処理する；〔deal inで〕を商う；を分配する"
+  },
+  {
+    "uid": "word1900-27",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 27,
+    "globalId": 3127,
+    "word": "avoid",
+    "meaning": "を避ける"
+  },
+  {
+    "uid": "word1900-28",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 28,
+    "globalId": 3128,
+    "word": "relate",
+    "meaning": "を関連づける；（～に）関連する（to）"
+  },
+  {
+    "uid": "word1900-29",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 29,
+    "globalId": 3129,
+    "word": "realize",
+    "meaning": "に気づく；を実現する"
+  },
+  {
+    "uid": "word1900-30",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 30,
+    "globalId": 3130,
+    "word": "encourage",
+    "meaning": "を奨励する；を励ます"
+  },
+  {
+    "uid": "word1900-31",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 31,
+    "globalId": 3131,
+    "word": "compare",
+    "meaning": "を比較する；を（～に）たとえる（to）"
+  },
+  {
+    "uid": "word1900-32",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 32,
+    "globalId": 3132,
+    "word": "measure",
+    "meaning": "を測る；を（比較して）評価する"
+  },
+  {
+    "uid": "word1900-33",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 33,
+    "globalId": 3133,
+    "word": "exist",
+    "meaning": "存在する；生存する"
+  },
+  {
+    "uid": "word1900-34",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 34,
+    "globalId": 3134,
+    "word": "mark",
+    "meaning": "に印をつける；を（記号で）示す；に汚れをつける"
+  },
+  {
+    "uid": "word1900-35",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 35,
+    "globalId": 3135,
+    "word": "challenge",
+    "meaning": "に異議を唱える；（人）に挑む"
+  },
+  {
+    "uid": "word1900-36",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 36,
+    "globalId": 3136,
+    "word": "depend",
+    "meaning": "頼る；～次第である"
+  },
+  {
+    "uid": "word1900-37",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 37,
+    "globalId": 3137,
+    "word": "object",
+    "meaning": "反対する；（…）と言って反対する（that節）"
+  },
+  {
+    "uid": "word1900-38",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 38,
+    "globalId": 3138,
+    "word": "demand",
+    "meaning": "を要求する"
+  },
+  {
+    "uid": "word1900-39",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 39,
+    "globalId": 3139,
+    "word": "found",
+    "meaning": "を設立する；（理論など）を（～に基づいて）築く（on）"
+  },
+  {
+    "uid": "word1900-40",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 40,
+    "globalId": 3140,
+    "word": "complete",
+    "meaning": "完成させる，仕上げる"
+  },
+  {
+    "uid": "word1900-41",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 41,
+    "globalId": 3141,
+    "word": "idea",
+    "meaning": "考え，思いつき；理解；見解；概念"
+  },
+  {
+    "uid": "word1900-42",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 42,
+    "globalId": 3142,
+    "word": "accord",
+    "meaning": "一致；合意，協定"
+  },
+  {
+    "uid": "word1900-43",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 43,
+    "globalId": 3143,
+    "word": "company",
+    "meaning": "会社；〔集合的に〕仲間；（仲間と）一緒にいること；一座"
+  },
+  {
+    "uid": "word1900-44",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 44,
+    "globalId": 3144,
+    "word": "interest",
+    "meaning": "興味；利子；利害"
+  },
+  {
+    "uid": "word1900-45",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 45,
+    "globalId": 3145,
+    "word": "research",
+    "meaning": "（～についての）研究，調査（into / on / in）"
+  },
+  {
+    "uid": "word1900-46",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 46,
+    "globalId": 3146,
+    "word": "cause",
+    "meaning": "原因；理由；大義"
+  },
+  {
+    "uid": "word1900-47",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 47,
+    "globalId": 3147,
+    "word": "reason",
+    "meaning": "理由；（…する）根拠（to do）；理性；分別"
+  },
+  {
+    "uid": "word1900-48",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 48,
+    "globalId": 3148,
+    "word": "effect",
+    "meaning": "影響，効果；結果"
+  },
+  {
+    "uid": "word1900-49",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 49,
+    "globalId": 3149,
+    "word": "influence",
+    "meaning": "影響（力）"
+  },
+  {
+    "uid": "word1900-50",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 50,
+    "globalId": 3150,
+    "word": "situation",
+    "meaning": "状況；（人の置かれた）立場"
+  },
+  {
+    "uid": "word1900-51",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 51,
+    "globalId": 3151,
+    "word": "environment",
+    "meaning": "環境"
+  },
+  {
+    "uid": "word1900-52",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 52,
+    "globalId": 3152,
+    "word": "skill",
+    "meaning": "技能；熟練"
+  },
+  {
+    "uid": "word1900-53",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 53,
+    "globalId": 3153,
+    "word": "matter",
+    "meaning": "事柄；問題；〔～s〕事態；〔the ～〕困難；物質"
+  },
+  {
+    "uid": "word1900-54",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 54,
+    "globalId": 3154,
+    "word": "view",
+    "meaning": "（～についての）見解（on / about）；（～に対する）（特定の）見方（of）；眺め"
+  },
+  {
+    "uid": "word1900-55",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 55,
+    "globalId": 3155,
+    "word": "value",
+    "meaning": "価値；価格；評価；〔～s〕価値観"
+  },
+  {
+    "uid": "word1900-56",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 56,
+    "globalId": 3156,
+    "word": "species",
+    "meaning": "（生物の）種；種類"
+  },
+  {
+    "uid": "word1900-57",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 57,
+    "globalId": 3157,
+    "word": "thought",
+    "meaning": "考え；思考"
+  },
+  {
+    "uid": "word1900-58",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 58,
+    "globalId": 3158,
+    "word": "knowledge",
+    "meaning": "知識；知っていること；認識"
+  },
+  {
+    "uid": "word1900-59",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 59,
+    "globalId": 3159,
+    "word": "memory",
+    "meaning": "記憶（力）；（～の）思い出（of）"
+  },
+  {
+    "uid": "word1900-60",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 60,
+    "globalId": 3160,
+    "word": "practice",
+    "meaning": "実践，実行；（社会の）慣習；練習"
+  },
+  {
+    "uid": "word1900-61",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 61,
+    "globalId": 3161,
+    "word": "benefit",
+    "meaning": "利益，恩恵；給付金"
+  },
+  {
+    "uid": "word1900-62",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 62,
+    "globalId": 3162,
+    "word": "theory",
+    "meaning": "学説；理論；原理；推測"
+  },
+  {
+    "uid": "word1900-63",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 63,
+    "globalId": 3163,
+    "word": "issue",
+    "meaning": "問題（点）；発行（物）；発表"
+  },
+  {
+    "uid": "word1900-64",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 64,
+    "globalId": 3164,
+    "word": "experiment",
+    "meaning": "（～を対象とする）実験（on）"
+  },
+  {
+    "uid": "word1900-65",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 65,
+    "globalId": 3165,
+    "word": "article",
+    "meaning": "記事；条項；品物"
+  },
+  {
+    "uid": "word1900-66",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 66,
+    "globalId": 3166,
+    "word": "focus",
+    "meaning": "焦点；関心の的"
+  },
+  {
+    "uid": "word1900-67",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 67,
+    "globalId": 3167,
+    "word": "subject",
+    "meaning": "話題；科目；主題；被験者"
+  },
+  {
+    "uid": "word1900-68",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 68,
+    "globalId": 3168,
+    "word": "project",
+    "meaning": "計画；事業；研究計画"
+  },
+  {
+    "uid": "word1900-69",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 69,
+    "globalId": 3169,
+    "word": "quality",
+    "meaning": "質；特質"
+  },
+  {
+    "uid": "word1900-70",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 70,
+    "globalId": 3170,
+    "word": "role",
+    "meaning": "役割；（俳優などの）役"
+  },
+  {
+    "uid": "word1900-71",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 71,
+    "globalId": 3171,
+    "word": "term",
+    "meaning": "（専門）用語；〔～s〕条件；〔～s〕間柄；学期"
+  },
+  {
+    "uid": "word1900-72",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 72,
+    "globalId": 3172,
+    "word": "statement",
+    "meaning": "声明；主張；明細書"
+  },
+  {
+    "uid": "word1900-73",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 73,
+    "globalId": 3173,
+    "word": "material",
+    "meaning": "材料，素材；資料；生地"
+  },
+  {
+    "uid": "word1900-74",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 74,
+    "globalId": 3174,
+    "word": "evidence",
+    "meaning": "証拠"
+  },
+  {
+    "uid": "word1900-75",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 75,
+    "globalId": 3175,
+    "word": "source",
+    "meaning": "（～の）源，根源（of）；出所，情報源"
+  },
+  {
+    "uid": "word1900-76",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 76,
+    "globalId": 3176,
+    "word": "community",
+    "meaning": "（共同）社会，～界；地域社会；地域住民"
+  },
+  {
+    "uid": "word1900-77",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 77,
+    "globalId": 3177,
+    "word": "technology",
+    "meaning": "科学技術；応用技術"
+  },
+  {
+    "uid": "word1900-78",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 78,
+    "globalId": 3178,
+    "word": "culture",
+    "meaning": "文化；教養；耕作；養殖；培養"
+  },
+  {
+    "uid": "word1900-79",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 79,
+    "globalId": 3179,
+    "word": "appropriate",
+    "meaning": "（～に）適切な（for / to）"
+  },
+  {
+    "uid": "word1900-80",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 80,
+    "globalId": 3180,
+    "word": "likely",
+    "meaning": "ありそうな"
+  },
+  {
+    "uid": "word1900-81",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 81,
+    "globalId": 3181,
+    "word": "possible",
+    "meaning": "可能な；可能性のある"
+  },
+  {
+    "uid": "word1900-82",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 82,
+    "globalId": 3182,
+    "word": "individual",
+    "meaning": "個々の；個人の"
+  },
+  {
+    "uid": "word1900-83",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 83,
+    "globalId": 3183,
+    "word": "public",
+    "meaning": "公の；公衆の；公開の"
+  },
+  {
+    "uid": "word1900-84",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 84,
+    "globalId": 3184,
+    "word": "common",
+    "meaning": "共通の；普通の；一般の"
+  },
+  {
+    "uid": "word1900-85",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 85,
+    "globalId": 3185,
+    "word": "certain",
+    "meaning": "確信して；確かな；ある；一定の"
+  },
+  {
+    "uid": "word1900-86",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 86,
+    "globalId": 3186,
+    "word": "similar",
+    "meaning": "似ている，類似した；同様の"
+  },
+  {
+    "uid": "word1900-87",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 87,
+    "globalId": 3187,
+    "word": "recent",
+    "meaning": "最近の"
+  },
+  {
+    "uid": "word1900-88",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 88,
+    "globalId": 3188,
+    "word": "major",
+    "meaning": "主要な；大きい（ほうの）；長調の"
+  },
+  {
+    "uid": "word1900-89",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 89,
+    "globalId": 3189,
+    "word": "patient",
+    "meaning": "忍耐強い；患者"
+  },
+  {
+    "uid": "word1900-90",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 90,
+    "globalId": 3190,
+    "word": "particular",
+    "meaning": "特定の；特別の；（～について）やかましい（about）"
+  },
+  {
+    "uid": "word1900-91",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 91,
+    "globalId": 3191,
+    "word": "physical",
+    "meaning": "身体の；物質的な；物理学の"
+  },
+  {
+    "uid": "word1900-92",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 92,
+    "globalId": 3192,
+    "word": "various",
+    "meaning": "さまざまな；いくつかの"
+  },
+  {
+    "uid": "word1900-93",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 93,
+    "globalId": 3193,
+    "word": "available",
+    "meaning": "手に入る；利用できる；手が空いている"
+  },
+  {
+    "uid": "word1900-94",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 94,
+    "globalId": 3194,
+    "word": "native",
+    "meaning": "出生地の；原産の；生得の"
+  },
+  {
+    "uid": "word1900-95",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 95,
+    "globalId": 3195,
+    "word": "political",
+    "meaning": "政治（上）の"
+  },
+  {
+    "uid": "word1900-96",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 96,
+    "globalId": 3196,
+    "word": "due",
+    "meaning": "予定された；（支払）期日で；しかるべき"
+  },
+  {
+    "uid": "word1900-97",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 97,
+    "globalId": 3197,
+    "word": "blank",
+    "meaning": "空白の；無表情な；がらんとした"
+  },
+  {
+    "uid": "word1900-98",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 98,
+    "globalId": 3198,
+    "word": "ancient",
+    "meaning": "古代の；昔からの"
+  },
+  {
+    "uid": "word1900-99",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 99,
+    "globalId": 3199,
+    "word": "correct",
+    "meaning": "正しい；適切な"
+  },
+  {
+    "uid": "word1900-100",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 100,
+    "globalId": 3200,
+    "word": "despite",
+    "meaning": "～にもかかわらず"
+  },
+  {
+    "uid": "word1900-101",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 101,
+    "globalId": 3201,
+    "word": "notice",
+    "meaning": "に気づく"
+  },
+  {
+    "uid": "word1900-102",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 102,
+    "globalId": 3202,
+    "word": "refer",
+    "meaning": "言及する，関連する；参照する"
+  },
+  {
+    "uid": "word1900-103",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 103,
+    "globalId": 3203,
+    "word": "approach",
+    "meaning": "に近づく；に取り組む"
+  },
+  {
+    "uid": "word1900-104",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 104,
+    "globalId": 3204,
+    "word": "wonder",
+    "meaning": "かなと思う；（に）驚く（at）"
+  },
+  {
+    "uid": "word1900-105",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 105,
+    "globalId": 3205,
+    "word": "imagine",
+    "meaning": "（を）想像する；（を）推測する"
+  },
+  {
+    "uid": "word1900-106",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 106,
+    "globalId": 3206,
+    "word": "recognize",
+    "meaning": "を識別できる；を認める"
+  },
+  {
+    "uid": "word1900-107",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 107,
+    "globalId": 3207,
+    "word": "solve",
+    "meaning": "を解く，解明する；（困難など）を解決する"
+  },
+  {
+    "uid": "word1900-108",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 108,
+    "globalId": 3208,
+    "word": "occur",
+    "meaning": "起こる；心に浮かぶ；現れる"
+  },
+  {
+    "uid": "word1900-109",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 109,
+    "globalId": 3209,
+    "word": "argue",
+    "meaning": "と主張する；議論する"
+  },
+  {
+    "uid": "word1900-110",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 110,
+    "globalId": 3210,
+    "word": "claim",
+    "meaning": "と主張する；を（自分のものとして）要求する"
+  },
+  {
+    "uid": "word1900-111",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 111,
+    "globalId": 3211,
+    "word": "express",
+    "meaning": "を表す，述べる"
+  },
+  {
+    "uid": "word1900-112",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 112,
+    "globalId": 3212,
+    "word": "draw",
+    "meaning": "を引き出す；を引く；を描く；近づく"
+  },
+  {
+    "uid": "word1900-113",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 113,
+    "globalId": 3213,
+    "word": "waste",
+    "meaning": "を浪費する，無駄にする"
+  },
+  {
+    "uid": "word1900-114",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 114,
+    "globalId": 3214,
+    "word": "advance",
+    "meaning": "を進歩させる；を進める；進歩する；進む"
+  },
+  {
+    "uid": "word1900-115",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 115,
+    "globalId": 3215,
+    "word": "spread",
+    "meaning": "を広める；広がる"
+  },
+  {
+    "uid": "word1900-116",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 116,
+    "globalId": 3216,
+    "word": "prepare",
+    "meaning": "を準備する；を調理する；（～のために）準備をする（for）"
+  },
+  {
+    "uid": "word1900-117",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 117,
+    "globalId": 3217,
+    "word": "gain",
+    "meaning": "を獲得する；（を）増す"
+  },
+  {
+    "uid": "word1900-118",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 118,
+    "globalId": 3218,
+    "word": "achieve",
+    "meaning": "を達成する；を成し遂げる"
+  },
+  {
+    "uid": "word1900-119",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 119,
+    "globalId": 3219,
+    "word": "establish",
+    "meaning": "を確立する；を設立する"
+  },
+  {
+    "uid": "word1900-120",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 120,
+    "globalId": 3220,
+    "word": "supply",
+    "meaning": "を供給する"
+  },
+  {
+    "uid": "word1900-121",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 121,
+    "globalId": 3221,
+    "word": "suppose",
+    "meaning": "と思う；と仮定する"
+  },
+  {
+    "uid": "word1900-122",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 122,
+    "globalId": 3222,
+    "word": "perform",
+    "meaning": "（を）行う；（を）演じる，（を）演奏する"
+  },
+  {
+    "uid": "word1900-123",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 123,
+    "globalId": 3223,
+    "word": "prefer",
+    "meaning": "のほうを好む"
+  },
+  {
+    "uid": "word1900-124",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 124,
+    "globalId": 3224,
+    "word": "determine",
+    "meaning": "を決定する；を正確に知る"
+  },
+  {
+    "uid": "word1900-125",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 125,
+    "globalId": 3225,
+    "word": "treat",
+    "meaning": "を扱う；を治療する"
+  },
+  {
+    "uid": "word1900-126",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 126,
+    "globalId": 3226,
+    "word": "prove",
+    "meaning": "を証明する；判明する，わかる"
+  },
+  {
+    "uid": "word1900-127",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 127,
+    "globalId": 3227,
+    "word": "apply",
+    "meaning": "を適用［応用］する；申し込む；（～に）適用される（to / in）"
+  },
+  {
+    "uid": "word1900-128",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 128,
+    "globalId": 3228,
+    "word": "mention",
+    "meaning": "に言及する；と言う"
+  },
+  {
+    "uid": "word1900-129",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 129,
+    "globalId": 3229,
+    "word": "communicate",
+    "meaning": "（～と）情報交換をする（with）；を伝達する"
+  },
+  {
+    "uid": "word1900-130",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 130,
+    "globalId": 3230,
+    "word": "contain",
+    "meaning": "を含む；を収容する；（感情など）を抑える"
+  },
+  {
+    "uid": "word1900-131",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 131,
+    "globalId": 3231,
+    "word": "contact",
+    "meaning": "と連絡を取る；接触する"
+  },
+  {
+    "uid": "word1900-132",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 132,
+    "globalId": 3232,
+    "word": "regard",
+    "meaning": "を見なす；を見る；を評価する"
+  },
+  {
+    "uid": "word1900-133",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 133,
+    "globalId": 3233,
+    "word": "respect",
+    "meaning": "を尊敬する；を尊重する"
+  },
+  {
+    "uid": "word1900-134",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 134,
+    "globalId": 3234,
+    "word": "search",
+    "meaning": "捜す；を捜索する；を詳しく調べる"
+  },
+  {
+    "uid": "word1900-135",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 135,
+    "globalId": 3235,
+    "word": "connect",
+    "meaning": "をつなぐ；を関連づける"
+  },
+  {
+    "uid": "word1900-136",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 136,
+    "globalId": 3236,
+    "word": "decline",
+    "meaning": "減少する；衰退する；を断る"
+  },
+  {
+    "uid": "word1900-137",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 137,
+    "globalId": 3237,
+    "word": "prevent",
+    "meaning": "を妨げる；を防ぐ"
+  },
+  {
+    "uid": "word1900-138",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 138,
+    "globalId": 3238,
+    "word": "suffer",
+    "meaning": "苦しむ；患う；（苦痛など）を経験する"
+  },
+  {
+    "uid": "word1900-139",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 139,
+    "globalId": 3239,
+    "word": "survive",
+    "meaning": "を切り抜けて生き残る；より長生きする；生き延びる"
+  },
+  {
+    "uid": "word1900-140",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 140,
+    "globalId": 3240,
+    "word": "publish",
+    "meaning": "を出版する；を公表する"
+  },
+  {
+    "uid": "word1900-141",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 141,
+    "globalId": 3241,
+    "word": "opportunity",
+    "meaning": "機会"
+  },
+  {
+    "uid": "word1900-142",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 142,
+    "globalId": 3242,
+    "word": "task",
+    "meaning": "（課せられた）仕事，作業；課題；タスク"
+  },
+  {
+    "uid": "word1900-143",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 143,
+    "globalId": 3243,
+    "word": "industry",
+    "meaning": "産業；勤勉"
+  },
+  {
+    "uid": "word1900-144",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 144,
+    "globalId": 3244,
+    "word": "medium",
+    "meaning": "（情報伝達の）媒体；手段"
+  },
+  {
+    "uid": "word1900-145",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 145,
+    "globalId": 3245,
+    "word": "economy",
+    "meaning": "経済（状態）；経済圏；節約"
+  },
+  {
+    "uid": "word1900-146",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 146,
+    "globalId": 3246,
+    "word": "policy",
+    "meaning": "政策，方針；（個人の）主義"
+  },
+  {
+    "uid": "word1900-147",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 147,
+    "globalId": 3247,
+    "word": "account",
+    "meaning": "説明；勘定；口座"
+  },
+  {
+    "uid": "word1900-148",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 148,
+    "globalId": 3248,
+    "word": "trade",
+    "meaning": "貿易；商売，取引"
+  },
+  {
+    "uid": "word1900-149",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 149,
+    "globalId": 3249,
+    "word": "model",
+    "meaning": "模範；モデル；模型；型"
+  },
+  {
+    "uid": "word1900-150",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 150,
+    "globalId": 3250,
+    "word": "figure",
+    "meaning": "数字；姿；人物；図表"
+  },
+  {
+    "uid": "word1900-151",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 151,
+    "globalId": 3251,
+    "word": "cell",
+    "meaning": "細胞；電池；小さい部屋；監房"
+  },
+  {
+    "uid": "word1900-152",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 152,
+    "globalId": 3252,
+    "word": "image",
+    "meaning": "イメージ；像；映像；肖像"
+  },
+  {
+    "uid": "word1900-153",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 153,
+    "globalId": 3253,
+    "word": "emotion",
+    "meaning": "感情；情動"
+  },
+  {
+    "uid": "word1900-154",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 154,
+    "globalId": 3254,
+    "word": "stress",
+    "meaning": "ストレス；圧力；アクセント"
+  },
+  {
+    "uid": "word1900-155",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 155,
+    "globalId": 3255,
+    "word": "decade",
+    "meaning": "10年間"
+  },
+  {
+    "uid": "word1900-156",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 156,
+    "globalId": 3256,
+    "word": "range",
+    "meaning": "範囲；（山などの）山脈；射程距離"
+  },
+  {
+    "uid": "word1900-157",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 157,
+    "globalId": 3257,
+    "word": "character",
+    "meaning": "性格；特性；登場人物；文字"
+  },
+  {
+    "uid": "word1900-158",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 158,
+    "globalId": 3258,
+    "word": "advantage",
+    "meaning": "利点；有利な点"
+  },
+  {
+    "uid": "word1900-159",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 159,
+    "globalId": 3259,
+    "word": "phrase",
+    "meaning": "フレーズ；句；表現"
+  },
+  {
+    "uid": "word1900-160",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 160,
+    "globalId": 3260,
+    "word": "damage",
+    "meaning": "損害；被害；ダメージ"
+  },
+  {
+    "uid": "word1900-161",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 161,
+    "globalId": 3261,
+    "word": "impact",
+    "meaning": "影響；衝撃"
+  },
+  {
+    "uid": "word1900-162",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 162,
+    "globalId": 3262,
+    "word": "method",
+    "meaning": "方法；方式"
+  },
+  {
+    "uid": "word1900-163",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 163,
+    "globalId": 3263,
+    "word": "resource",
+    "meaning": "資源；手段"
+  },
+  {
+    "uid": "word1900-164",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 164,
+    "globalId": 3264,
+    "word": "region",
+    "meaning": "地域；地方"
+  },
+  {
+    "uid": "word1900-165",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 165,
+    "globalId": 3265,
+    "word": "medicine",
+    "meaning": "医学；薬；医薬品"
+  },
+  {
+    "uid": "word1900-166",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 166,
+    "globalId": 3266,
+    "word": "detail",
+    "meaning": "詳細；細部"
+  },
+  {
+    "uid": "word1900-167",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 167,
+    "globalId": 3267,
+    "word": "feature",
+    "meaning": "特徴；特色"
+  },
+  {
+    "uid": "word1900-168",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 168,
+    "globalId": 3268,
+    "word": "function",
+    "meaning": "機能；役割；関数"
+  },
+  {
+    "uid": "word1900-169",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 169,
+    "globalId": 3269,
+    "word": "access",
+    "meaning": "アクセス；接近"
+  },
+  {
+    "uid": "word1900-170",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 170,
+    "globalId": 3270,
+    "word": "item",
+    "meaning": "項目；品目；物品"
+  },
+  {
+    "uid": "word1900-171",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 171,
+    "globalId": 3271,
+    "word": "income",
+    "meaning": "収入；所得"
+  },
+  {
+    "uid": "word1900-172",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 172,
+    "globalId": 3272,
+    "word": "attitude",
+    "meaning": "態度；姿勢"
+  },
+  {
+    "uid": "word1900-173",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 173,
+    "globalId": 3273,
+    "word": "site",
+    "meaning": "場所；サイト；用地"
+  },
+  {
+    "uid": "word1900-174",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 174,
+    "globalId": 3274,
+    "word": "aspect",
+    "meaning": "側面；観点"
+  },
+  {
+    "uid": "word1900-175",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 175,
+    "globalId": 3275,
+    "word": "structure",
+    "meaning": "構造；建造物"
+  },
+  {
+    "uid": "word1900-176",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 176,
+    "globalId": 3276,
+    "word": "habit",
+    "meaning": "習慣；癖"
+  },
+  {
+    "uid": "word1900-177",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 177,
+    "globalId": 3277,
+    "word": "link",
+    "meaning": "リンク；接続"
+  },
+  {
+    "uid": "word1900-178",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 178,
+    "globalId": 3278,
+    "word": "instance",
+    "meaning": "例；事例"
+  },
+  {
+    "uid": "word1900-179",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 179,
+    "globalId": 3279,
+    "word": "positive",
+    "meaning": "肯定的な；積極的な"
+  },
+  {
+    "uid": "word1900-180",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 180,
+    "globalId": 3280,
+    "word": "negative",
+    "meaning": "否定的な；消極的な"
+  },
+  {
+    "uid": "word1900-181",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 181,
+    "globalId": 3281,
+    "word": "complex",
+    "meaning": "複雑な；複合の"
+  },
+  {
+    "uid": "word1900-182",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 182,
+    "globalId": 3282,
+    "word": "current",
+    "meaning": "現在の；流通している"
+  },
+  {
+    "uid": "word1900-183",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 183,
+    "globalId": 3283,
+    "word": "mental",
+    "meaning": "精神の；知的な"
+  },
+  {
+    "uid": "word1900-184",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 184,
+    "globalId": 3284,
+    "word": "specific",
+    "meaning": "特定の；具体的な"
+  },
+  {
+    "uid": "word1900-185",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 185,
+    "globalId": 3285,
+    "word": "significant",
+    "meaning": "重要な；意義深い"
+  },
+  {
+    "uid": "word1900-186",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 186,
+    "globalId": 3286,
+    "word": "essential",
+    "meaning": "不可欠な；本質的な"
+  },
+  {
+    "uid": "word1900-187",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 187,
+    "globalId": 3287,
+    "word": "official",
+    "meaning": "公式の；公認の"
+  },
+  {
+    "uid": "word1900-188",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 188,
+    "globalId": 3288,
+    "word": "financial",
+    "meaning": "財務の；金融の"
+  },
+  {
+    "uid": "word1900-189",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 189,
+    "globalId": 3289,
+    "word": "academic",
+    "meaning": "学術の；学問的な"
+  },
+  {
+    "uid": "word1900-190",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 190,
+    "globalId": 3290,
+    "word": "aware",
+    "meaning": "気づいている；認識している"
+  },
+  {
+    "uid": "word1900-191",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 191,
+    "globalId": 3291,
+    "word": "worth",
+    "meaning": "（…する）に値する（doing）；の価値がある"
+  },
+  {
+    "uid": "word1900-192",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 192,
+    "globalId": 3292,
+    "word": "potential",
+    "meaning": "潜在的な；可能性を秘めた"
+  },
+  {
+    "uid": "word1900-193",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 193,
+    "globalId": 3293,
+    "word": "active",
+    "meaning": "積極的な；活動的な；効力のある"
+  },
+  {
+    "uid": "word1900-194",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 194,
+    "globalId": 3294,
+    "word": "digital",
+    "meaning": "デジタル方式の；デジタル［数字］表示の"
+  },
+  {
+    "uid": "word1900-195",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 195,
+    "globalId": 3295,
+    "word": "mobile",
+    "meaning": "可動［移動］式の；流動性のある"
+  },
+  {
+    "uid": "word1900-196",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 196,
+    "globalId": 3296,
+    "word": "novel",
+    "meaning": "斬新な，目新しい"
+  },
+  {
+    "uid": "word1900-197",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 197,
+    "globalId": 3297,
+    "word": "plastic",
+    "meaning": "柔軟な；プラスチックの，ビニールの"
+  },
+  {
+    "uid": "word1900-198",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 198,
+    "globalId": 3298,
+    "word": "chemical",
+    "meaning": "化学の，化学的な"
+  },
+  {
+    "uid": "word1900-199",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 199,
+    "globalId": 3299,
+    "word": "necessary",
+    "meaning": "必要な"
+  },
+  {
+    "uid": "word1900-200",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 200,
+    "globalId": 3300,
+    "word": "eventually",
+    "meaning": "結局（は）"
+  },
+  {
+    "uid": "word1900-201",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 201,
+    "globalId": 3301,
+    "word": "identify",
+    "meaning": "を特定する；を（～と）同一視する（with）"
+  },
+  {
+    "uid": "word1900-202",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 202,
+    "globalId": 3302,
+    "word": "represent",
+    "meaning": "を表す；を代表する；に相当する"
+  },
+  {
+    "uid": "word1900-203",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 203,
+    "globalId": 3303,
+    "word": "indicate",
+    "meaning": "を指し示す；を述べる"
+  },
+  {
+    "uid": "word1900-204",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 204,
+    "globalId": 3304,
+    "word": "manage",
+    "meaning": "をなんとか成し遂げる；を管理する"
+  },
+  {
+    "uid": "word1900-205",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 205,
+    "globalId": 3305,
+    "word": "attend",
+    "meaning": "に出席する；（を）世話する；（～に）対処［対応］する（to）"
+  },
+  {
+    "uid": "word1900-206",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 206,
+    "globalId": 3306,
+    "word": "maintain",
+    "meaning": "を維持する；と主張する；を養う"
+  },
+  {
+    "uid": "word1900-207",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 207,
+    "globalId": 3307,
+    "word": "survey",
+    "meaning": "を調査する；をじろじろ見る；を概観する"
+  },
+  {
+    "uid": "word1900-208",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 208,
+    "globalId": 3308,
+    "word": "replace",
+    "meaning": "に取って代わる；を取り替える"
+  },
+  {
+    "uid": "word1900-209",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 209,
+    "globalId": 3309,
+    "word": "sort",
+    "meaning": "を（～に）分類する（into）；を（～から）えり分ける（from）"
+  },
+  {
+    "uid": "word1900-210",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 210,
+    "globalId": 3310,
+    "word": "conduct",
+    "meaning": "（調査・実験など）を実施する；を導く"
+  },
+  {
+    "uid": "word1900-211",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 211,
+    "globalId": 3311,
+    "word": "associate",
+    "meaning": "を結び付けて考える；（～と）交際する（with）"
+  },
+  {
+    "uid": "word1900-212",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 212,
+    "globalId": 3312,
+    "word": "attempt",
+    "meaning": "を試みる，企てる"
+  },
+  {
+    "uid": "word1900-213",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 213,
+    "globalId": 3313,
+    "word": "promote",
+    "meaning": "を促進する；〔通例受身形で〕昇進する"
+  },
+  {
+    "uid": "word1900-214",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 214,
+    "globalId": 3314,
+    "word": "earn",
+    "meaning": "を稼ぐ；を得る；をもたらす"
+  },
+  {
+    "uid": "word1900-215",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 215,
+    "globalId": 3315,
+    "word": "unite",
+    "meaning": "を団結させる；（を）結合する；団結する"
+  },
+  {
+    "uid": "word1900-216",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 216,
+    "globalId": 3316,
+    "word": "feed",
+    "meaning": "に食べ物［乳］を与える；に（～を）供給［補給］する（with）；餌を食べる"
+  },
+  {
+    "uid": "word1900-217",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 217,
+    "globalId": 3317,
+    "word": "seek",
+    "meaning": "を追い求める；（助けなど）を要請する"
+  },
+  {
+    "uid": "word1900-218",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 218,
+    "globalId": 3318,
+    "word": "observe",
+    "meaning": "に気づく；を観察する；を遵守する"
+  },
+  {
+    "uid": "word1900-219",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 219,
+    "globalId": 3319,
+    "word": "reveal",
+    "meaning": "を明らかにする；を見せる"
+  },
+  {
+    "uid": "word1900-220",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 220,
+    "globalId": 3320,
+    "word": "estimate",
+    "meaning": "と推定する；を見積もる；を評価する"
+  },
+  {
+    "uid": "word1900-221",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 221,
+    "globalId": 3321,
+    "word": "reflect",
+    "meaning": "を反映する；（を）反射する；（を）熟考する"
+  },
+  {
+    "uid": "word1900-222",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 222,
+    "globalId": 3322,
+    "word": "attract",
+    "meaning": "を引きつける"
+  },
+  {
+    "uid": "word1900-223",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 223,
+    "globalId": 3323,
+    "word": "decrease",
+    "meaning": "減少する；を減らす"
+  },
+  {
+    "uid": "word1900-224",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 224,
+    "globalId": 3324,
+    "word": "ignore",
+    "meaning": "を無視する"
+  },
+  {
+    "uid": "word1900-225",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 225,
+    "globalId": 3325,
+    "word": "match",
+    "meaning": "（と）合う；に匹敵する；一致する"
+  },
+  {
+    "uid": "word1900-226",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 226,
+    "globalId": 3326,
+    "word": "define",
+    "meaning": "を定義する；を明確にする"
+  },
+  {
+    "uid": "word1900-227",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 227,
+    "globalId": 3327,
+    "word": "adapt",
+    "meaning": "適応する；を（～に）適合させる（to）"
+  },
+  {
+    "uid": "word1900-228",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 228,
+    "globalId": 3328,
+    "word": "contribute",
+    "meaning": "貢献する，一因となる；（を）寄付する；（を）寄稿する"
+  },
+  {
+    "uid": "word1900-229",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 229,
+    "globalId": 3329,
+    "word": "exchange",
+    "meaning": "（を）交換する；両替する"
+  },
+  {
+    "uid": "word1900-230",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 230,
+    "globalId": 3330,
+    "word": "display",
+    "meaning": "を示す；を発揮する；を展示［陳列］する"
+  },
+  {
+    "uid": "word1900-231",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 231,
+    "globalId": 3331,
+    "word": "respond",
+    "meaning": "反応する；答える"
+  },
+  {
+    "uid": "word1900-232",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 232,
+    "globalId": 3332,
+    "word": "hide",
+    "meaning": "を隠す；隠れる"
+  },
+  {
+    "uid": "word1900-233",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 233,
+    "globalId": 3333,
+    "word": "doubt",
+    "meaning": "ではないと思う；を疑う"
+  },
+  {
+    "uid": "word1900-234",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 234,
+    "globalId": 3334,
+    "word": "remove",
+    "meaning": "を取り除く；を解雇する"
+  },
+  {
+    "uid": "word1900-235",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 235,
+    "globalId": 3335,
+    "word": "wind",
+    "meaning": "（ねじなど）を巻く；（道などが）曲がりくねる；巻きつく"
+  },
+  {
+    "uid": "word1900-236",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 236,
+    "globalId": 3336,
+    "word": "assume",
+    "meaning": "を当然のことと思う，と仮定する；（権力など）を手に入れる；（責任など）を引き受ける"
+  },
+  {
+    "uid": "word1900-237",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 237,
+    "globalId": 3337,
+    "word": "relax",
+    "meaning": "くつろぐ；緩む；をくつろがせる；を緩める"
+  },
+  {
+    "uid": "word1900-238",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 238,
+    "globalId": 3338,
+    "word": "satisfy",
+    "meaning": "を満足させる；（条件など）を満たす"
+  },
+  {
+    "uid": "word1900-239",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 239,
+    "globalId": 3339,
+    "word": "desire",
+    "meaning": "を強く望む"
+  },
+  {
+    "uid": "word1900-240",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 240,
+    "globalId": 3340,
+    "word": "succeed",
+    "meaning": "（～に）成功する（in）；（～を）継承する（to）"
+  },
+  {
+    "uid": "word1900-241",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 241,
+    "globalId": 3341,
+    "word": "concept",
+    "meaning": "概念；考え；（商品・販売の）コンセプト"
+  },
+  {
+    "uid": "word1900-242",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 242,
+    "globalId": 3342,
+    "word": "fashion",
+    "meaning": "流行，ファッション；方法，流儀"
+  },
+  {
+    "uid": "word1900-243",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 243,
+    "globalId": 3343,
+    "word": "device",
+    "meaning": "装置，機器；方策；デバイス"
+  },
+  {
+    "uid": "word1900-244",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 244,
+    "globalId": 3344,
+    "word": "charge",
+    "meaning": "料金；世話；管理；告発"
+  },
+  {
+    "uid": "word1900-245",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 245,
+    "globalId": 3345,
+    "word": "contrast",
+    "meaning": "（～との）対照（with / to）"
+  },
+  {
+    "uid": "word1900-246",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 246,
+    "globalId": 3346,
+    "word": "colleague",
+    "meaning": "（職場の）同僚"
+  },
+  {
+    "uid": "word1900-247",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 247,
+    "globalId": 3347,
+    "word": "pain",
+    "meaning": "苦痛，痛み；苦悩；〔～s〕骨折り"
+  },
+  {
+    "uid": "word1900-248",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 248,
+    "globalId": 3348,
+    "word": "bill",
+    "meaning": "請求書；【英】勘定書；法案"
+  },
+  {
+    "uid": "word1900-249",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 249,
+    "globalId": 3349,
+    "word": "content",
+    "meaning": "内容，中身；コンテンツ"
+  },
+  {
+    "uid": "word1900-250",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 250,
+    "globalId": 3350,
+    "word": "section",
+    "meaning": "部門；部分；地区；欄"
+  },
+  {
+    "uid": "word1900-251",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 251,
+    "globalId": 3351,
+    "word": "audience",
+    "meaning": "〔集合的に〕聴衆，観客；視聴者"
+  },
+  {
+    "uid": "word1900-252",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 252,
+    "globalId": 3352,
+    "word": "surface",
+    "meaning": "表面；〔the ～〕外見"
+  },
+  {
+    "uid": "word1900-253",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 253,
+    "globalId": 3353,
+    "word": "crop",
+    "meaning": "〔しばしば～s〕作物；収穫高"
+  },
+  {
+    "uid": "word1900-254",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 254,
+    "globalId": 3354,
+    "word": "topic",
+    "meaning": "話題，トピック；主題"
+  },
+  {
+    "uid": "word1900-255",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 255,
+    "globalId": 3355,
+    "word": "technique",
+    "meaning": "技術；技巧；手法"
+  },
+  {
+    "uid": "word1900-256",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 256,
+    "globalId": 3356,
+    "word": "status",
+    "meaning": "地位；状態"
+  },
+  {
+    "uid": "word1900-257",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 257,
+    "globalId": 3357,
+    "word": "option",
+    "meaning": "選択（の自由）；選択肢"
+  },
+  {
+    "uid": "word1900-258",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 258,
+    "globalId": 3358,
+    "word": "reward",
+    "meaning": "報酬；報い"
+  },
+  {
+    "uid": "word1900-259",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 259,
+    "globalId": 3359,
+    "word": "race",
+    "meaning": "人種；民族；競争"
+  },
+  {
+    "uid": "word1900-260",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 260,
+    "globalId": 3360,
+    "word": "crime",
+    "meaning": "罪，犯罪；違法行為"
+  },
+  {
+    "uid": "word1900-261",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 261,
+    "globalId": 3361,
+    "word": "conflict",
+    "meaning": "争い；論争；不一致"
+  },
+  {
+    "uid": "word1900-262",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 262,
+    "globalId": 3362,
+    "word": "struggle",
+    "meaning": "闘い；懸命の努力"
+  },
+  {
+    "uid": "word1900-263",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 263,
+    "globalId": 3363,
+    "word": "context",
+    "meaning": "状況，背景；文脈"
+  },
+  {
+    "uid": "word1900-264",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 264,
+    "globalId": 3364,
+    "word": "debate",
+    "meaning": "討論，論争；討論会"
+  },
+  {
+    "uid": "word1900-265",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 265,
+    "globalId": 3365,
+    "word": "fuel",
+    "meaning": "燃料；勢いを増加させるもの"
+  },
+  {
+    "uid": "word1900-266",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 266,
+    "globalId": 3366,
+    "word": "pollution",
+    "meaning": "汚染，公害"
+  },
+  {
+    "uid": "word1900-267",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 267,
+    "globalId": 3367,
+    "word": "trend",
+    "meaning": "（～への）傾向（toward）；流行"
+  },
+  {
+    "uid": "word1900-268",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 268,
+    "globalId": 3368,
+    "word": "balance",
+    "meaning": "均衡，バランス；（体の）平衡；残高"
+  },
+  {
+    "uid": "word1900-269",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 269,
+    "globalId": 3369,
+    "word": "traffic",
+    "meaning": "交通；通行；交通［輸送］量；（不正）取引"
+  },
+  {
+    "uid": "word1900-270",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 270,
+    "globalId": 3370,
+    "word": "strategy",
+    "meaning": "戦略"
+  },
+  {
+    "uid": "word1900-271",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 271,
+    "globalId": 3371,
+    "word": "basis",
+    "meaning": "基礎；根拠；基準"
+  },
+  {
+    "uid": "word1900-272",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 272,
+    "globalId": 3372,
+    "word": "consequence",
+    "meaning": "〔通例～s〕結果；重大性"
+  },
+  {
+    "uid": "word1900-273",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 273,
+    "globalId": 3373,
+    "word": "aim",
+    "meaning": "目的，目標；狙い"
+  },
+  {
+    "uid": "word1900-274",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 274,
+    "globalId": 3374,
+    "word": "ancestor",
+    "meaning": "祖先；原型"
+  },
+  {
+    "uid": "word1900-275",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 275,
+    "globalId": 3375,
+    "word": "gene",
+    "meaning": "遺伝子"
+  },
+  {
+    "uid": "word1900-276",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 276,
+    "globalId": 3376,
+    "word": "track",
+    "meaning": "跡；軌道；【米】（鉄道の）番線；走路"
+  },
+  {
+    "uid": "word1900-277",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 277,
+    "globalId": 3377,
+    "word": "revolution",
+    "meaning": "革命；回転；（天体の）公転"
+  },
+  {
+    "uid": "word1900-278",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 278,
+    "globalId": 3378,
+    "word": "progress",
+    "meaning": "進歩；前進"
+  },
+  {
+    "uid": "word1900-279",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 279,
+    "globalId": 3379,
+    "word": "cognitive",
+    "meaning": "認知の"
+  },
+  {
+    "uid": "word1900-280",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 280,
+    "globalId": 3380,
+    "word": "ideal",
+    "meaning": "理想的な；観念的な"
+  },
+  {
+    "uid": "word1900-281",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 281,
+    "globalId": 3381,
+    "word": "efficient",
+    "meaning": "効率的な；有能な"
+  },
+  {
+    "uid": "word1900-282",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 282,
+    "globalId": 3382,
+    "word": "universal",
+    "meaning": "普遍的な；宇宙の；万能の"
+  },
+  {
+    "uid": "word1900-283",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 283,
+    "globalId": 3383,
+    "word": "vast",
+    "meaning": "莫大な；広大な"
+  },
+  {
+    "uid": "word1900-284",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 284,
+    "globalId": 3384,
+    "word": "extra",
+    "meaning": "追加の，余分の；別勘定の"
+  },
+  {
+    "uid": "word1900-285",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 285,
+    "globalId": 3385,
+    "word": "entire",
+    "meaning": "全体の，全部の；完全な"
+  },
+  {
+    "uid": "word1900-286",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 286,
+    "globalId": 3386,
+    "word": "familiar",
+    "meaning": "精通している；よく知られている"
+  },
+  {
+    "uid": "word1900-287",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 287,
+    "globalId": 3387,
+    "word": "obvious",
+    "meaning": "明らかな"
+  },
+  {
+    "uid": "word1900-288",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 288,
+    "globalId": 3388,
+    "word": "moral",
+    "meaning": "道徳（上）の，倫理的な；道徳的な"
+  },
+  {
+    "uid": "word1900-289",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 289,
+    "globalId": 3389,
+    "word": "ordinary",
+    "meaning": "一般の，普通の；並の"
+  },
+  {
+    "uid": "word1900-290",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 290,
+    "globalId": 3390,
+    "word": "equal",
+    "meaning": "（～に）等しい（to）；匹敵する；平等な"
+  },
+  {
+    "uid": "word1900-291",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 291,
+    "globalId": 3391,
+    "word": "previous",
+    "meaning": "以前の，前の"
+  },
+  {
+    "uid": "word1900-292",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 292,
+    "globalId": 3392,
+    "word": "false",
+    "meaning": "間違った；虚偽の；偽の"
+  },
+  {
+    "uid": "word1900-293",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 293,
+    "globalId": 3393,
+    "word": "rare",
+    "meaning": "まれな，珍しい；希少な"
+  },
+  {
+    "uid": "word1900-294",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 294,
+    "globalId": 3394,
+    "word": "legal",
+    "meaning": "法律の；合法の"
+  },
+  {
+    "uid": "word1900-295",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 295,
+    "globalId": 3395,
+    "word": "independent",
+    "meaning": "（～から）独立した（of / from）"
+  },
+  {
+    "uid": "word1900-296",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 296,
+    "globalId": 3396,
+    "word": "extreme",
+    "meaning": "極端な；極度の，過激な"
+  },
+  {
+    "uid": "word1900-297",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 297,
+    "globalId": 3397,
+    "word": "actual",
+    "meaning": "実際の，現実の"
+  },
+  {
+    "uid": "word1900-298",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 298,
+    "globalId": 3398,
+    "word": "willing",
+    "meaning": "いとわない，かまわないと思う"
+  },
+  {
+    "uid": "word1900-299",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 299,
+    "globalId": 3399,
+    "word": "urban",
+    "meaning": "都市の；都会的な"
+  },
+  {
+    "uid": "word1900-300",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 300,
+    "globalId": 3400,
+    "word": "whereas",
+    "meaning": "～するのに（対し），～する一方"
+  },
+  {
+    "uid": "word1900-301",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 301,
+    "globalId": 3401,
+    "word": "predict",
+    "meaning": "を予言［予測］する"
+  },
+  {
+    "uid": "word1900-302",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 302,
+    "globalId": 3402,
+    "word": "examine",
+    "meaning": "を調べる；を診察する；を尋問する"
+  },
+  {
+    "uid": "word1900-303",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 303,
+    "globalId": 3403,
+    "word": "trust",
+    "meaning": "を信頼する；を（信頼して）託す"
+  },
+  {
+    "uid": "word1900-304",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 304,
+    "globalId": 3404,
+    "word": "stick",
+    "meaning": "を動けなくする；を突き刺す；（～に）くっつく"
+  },
+  {
+    "uid": "word1900-305",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 305,
+    "globalId": 3405,
+    "word": "emerge",
+    "meaning": "現れる；明らかになる；台頭する"
+  },
+  {
+    "uid": "word1900-306",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 306,
+    "globalId": 3406,
+    "word": "vary",
+    "meaning": "さまざまである；変わる；を変える"
+  },
+  {
+    "uid": "word1900-307",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 307,
+    "globalId": 3407,
+    "word": "release",
+    "meaning": "を放出する；を解放する；を発表する"
+  },
+  {
+    "uid": "word1900-308",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 308,
+    "globalId": 3408,
+    "word": "divide",
+    "meaning": "を分ける；分かれる"
+  },
+  {
+    "uid": "word1900-309",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 309,
+    "globalId": 3409,
+    "word": "enable",
+    "meaning": "（人）が…できるようにする；を可能にする"
+  },
+  {
+    "uid": "word1900-310",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 310,
+    "globalId": 3410,
+    "word": "judge",
+    "meaning": "（を）判断する；に判決を下す"
+  },
+  {
+    "uid": "word1900-311",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 311,
+    "globalId": 3411,
+    "word": "rely",
+    "meaning": "頼る"
+  },
+  {
+    "uid": "word1900-312",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 312,
+    "globalId": 3412,
+    "word": "engage",
+    "meaning": "を従事させる；を（～として）雇う（as）；（～に）従事する（in / with）"
+  },
+  {
+    "uid": "word1900-313",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 313,
+    "globalId": 3413,
+    "word": "shift",
+    "meaning": "を変える，移す；変わる；移動する"
+  },
+  {
+    "uid": "word1900-314",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 314,
+    "globalId": 3414,
+    "word": "adopt",
+    "meaning": "を採用する；（態度など）をとる；を養子にする"
+  },
+  {
+    "uid": "word1900-315",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 315,
+    "globalId": 3415,
+    "word": "acquire",
+    "meaning": "を得る；を習得する"
+  },
+  {
+    "uid": "word1900-316",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 316,
+    "globalId": 3416,
+    "word": "expand",
+    "meaning": "（を）拡大する；（を）詳説する"
+  },
+  {
+    "uid": "word1900-317",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 317,
+    "globalId": 3417,
+    "word": "refuse",
+    "meaning": "を拒む；を断る；拒絶する"
+  },
+  {
+    "uid": "word1900-318",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 318,
+    "globalId": 3418,
+    "word": "strike",
+    "meaning": "の心を打つ；を襲う；を打つ；（に）ぶつかる"
+  },
+  {
+    "uid": "word1900-319",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 319,
+    "globalId": 3419,
+    "word": "repeat",
+    "meaning": "（を）繰り返す；を復唱する"
+  },
+  {
+    "uid": "word1900-320",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 320,
+    "globalId": 3420,
+    "word": "consume",
+    "meaning": "を消費する；を食べる，飲む"
+  },
+  {
+    "uid": "word1900-321",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 321,
+    "globalId": 3421,
+    "word": "confuse",
+    "meaning": "を混同する；を当惑させる"
+  },
+  {
+    "uid": "word1900-322",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 322,
+    "globalId": 3422,
+    "word": "select",
+    "meaning": "を選ぶ，えり抜く"
+  },
+  {
+    "uid": "word1900-323",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 323,
+    "globalId": 3423,
+    "word": "evolve",
+    "meaning": "（徐々に）発展する；進化する"
+  },
+  {
+    "uid": "word1900-324",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 324,
+    "globalId": 3424,
+    "word": "convince",
+    "meaning": "を納得［確信］させる"
+  },
+  {
+    "uid": "word1900-325",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 325,
+    "globalId": 3425,
+    "word": "recall",
+    "meaning": "を思い出す；を呼び戻す"
+  },
+  {
+    "uid": "word1900-326",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 326,
+    "globalId": 3426,
+    "word": "destroy",
+    "meaning": "を破壊する；（人）を破滅させる"
+  },
+  {
+    "uid": "word1900-327",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 327,
+    "globalId": 3427,
+    "word": "preserve",
+    "meaning": "を保存する；を保持する；を保護する"
+  },
+  {
+    "uid": "word1900-328",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 328,
+    "globalId": 3428,
+    "word": "organize",
+    "meaning": "を準備する；を組織する"
+  },
+  {
+    "uid": "word1900-329",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 329,
+    "globalId": 3429,
+    "word": "warn",
+    "meaning": "（人）に（～を）警告［注意］する（of / against）"
+  },
+  {
+    "uid": "word1900-330",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 330,
+    "globalId": 3430,
+    "word": "address",
+    "meaning": "（問題など）に対処する；に演説する；（手紙など）を（～宛てに）出す（to）"
+  },
+  {
+    "uid": "word1900-331",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 331,
+    "globalId": 3431,
+    "word": "operate",
+    "meaning": "を操作する；機能する；手術する"
+  },
+  {
+    "uid": "word1900-332",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 332,
+    "globalId": 3432,
+    "word": "participate",
+    "meaning": "参加する"
+  },
+  {
+    "uid": "word1900-333",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 333,
+    "globalId": 3433,
+    "word": "surround",
+    "meaning": "を取り巻く；にまつわる"
+  },
+  {
+    "uid": "word1900-334",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 334,
+    "globalId": 3434,
+    "word": "flow",
+    "meaning": "流れる；（～から）生じる（from）"
+  },
+  {
+    "uid": "word1900-335",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 335,
+    "globalId": 3435,
+    "word": "bore",
+    "meaning": "（人）を退屈させる，うんざりさせる"
+  },
+  {
+    "uid": "word1900-336",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 336,
+    "globalId": 3436,
+    "word": "complain",
+    "meaning": "（と）不平［苦情］を言う；訴える"
+  },
+  {
+    "uid": "word1900-337",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 337,
+    "globalId": 3437,
+    "word": "host",
+    "meaning": "を主催する；のホスト役を務める"
+  },
+  {
+    "uid": "word1900-338",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 338,
+    "globalId": 3438,
+    "word": "combine",
+    "meaning": "を（～と）結び付ける（with）；（～と）結び付く（with）"
+  },
+  {
+    "uid": "word1900-339",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 339,
+    "globalId": 3439,
+    "word": "extend",
+    "meaning": "を伸［延］ばす；伸びる；及ぶ"
+  },
+  {
+    "uid": "word1900-340",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 340,
+    "globalId": 3440,
+    "word": "appreciate",
+    "meaning": "を正当に評価する；を鑑賞する；を感謝する"
+  },
+  {
+    "uid": "word1900-341",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 341,
+    "globalId": 3441,
+    "word": "target",
+    "meaning": "（到達・攻撃）目標；的"
+  },
+  {
+    "uid": "word1900-342",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 342,
+    "globalId": 3442,
+    "word": "element",
+    "meaning": "要素，成分；元素；〔an / ofで〕少しの"
+  },
+  {
+    "uid": "word1900-343",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 343,
+    "globalId": 3443,
+    "word": "principle",
+    "meaning": "原則，原理；主義，信条"
+  },
+  {
+    "uid": "word1900-344",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 344,
+    "globalId": 3444,
+    "word": "phenomenon",
+    "meaning": "現象"
+  },
+  {
+    "uid": "word1900-345",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 345,
+    "globalId": 3445,
+    "word": "atmosphere",
+    "meaning": "〔the ～〕大気；雰囲気"
+  },
+  {
+    "uid": "word1900-346",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 346,
+    "globalId": 3446,
+    "word": "origin",
+    "meaning": "起源；源"
+  },
+  {
+    "uid": "word1900-347",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 347,
+    "globalId": 3447,
+    "word": "personality",
+    "meaning": "個性，性格"
+  },
+  {
+    "uid": "word1900-348",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 348,
+    "globalId": 3448,
+    "word": "capacity",
+    "meaning": "（最大）容量，収容能力；（潜在）能力"
+  },
+  {
+    "uid": "word1900-349",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 349,
+    "globalId": 3449,
+    "word": "profit",
+    "meaning": "利益；収益（率）；得"
+  },
+  {
+    "uid": "word1900-350",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 350,
+    "globalId": 3450,
+    "word": "circumstance",
+    "meaning": "〔通例～s〕状況，事情；境遇"
+  },
+  {
+    "uid": "word1900-351",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 351,
+    "globalId": 3451,
+    "word": "manner",
+    "meaning": "〔～s〕作法；方法；物腰"
+  },
+  {
+    "uid": "word1900-352",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 352,
+    "globalId": 3452,
+    "word": "threat",
+    "meaning": "脅威；（悪い）兆し；脅迫"
+  },
+  {
+    "uid": "word1900-353",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 353,
+    "globalId": 3453,
+    "word": "resident",
+    "meaning": "居住者；滞在者"
+  },
+  {
+    "uid": "word1900-354",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 354,
+    "globalId": 3454,
+    "word": "wealth",
+    "meaning": "富；資源；富裕"
+  },
+  {
+    "uid": "word1900-355",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 355,
+    "globalId": 3455,
+    "word": "institution",
+    "meaning": "機関；協会；施設；制度"
+  },
+  {
+    "uid": "word1900-356",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 356,
+    "globalId": 3456,
+    "word": "authority",
+    "meaning": "〔通例 the ～ties〕（関係）当局；権威；権限"
+  },
+  {
+    "uid": "word1900-357",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 357,
+    "globalId": 3457,
+    "word": "vote",
+    "meaning": "投票；投票結果；〔the ～〕選挙権"
+  },
+  {
+    "uid": "word1900-358",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 358,
+    "globalId": 3458,
+    "word": "sight",
+    "meaning": "光景；〔the ～s〕名所；見（え）ること；視野；視力"
+  },
+  {
+    "uid": "word1900-359",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 359,
+    "globalId": 3459,
+    "word": "campaign",
+    "meaning": "運動；軍事行動"
+  },
+  {
+    "uid": "word1900-360",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 360,
+    "globalId": 3460,
+    "word": "fund",
+    "meaning": "〔しばしば～s〕基金，資金"
+  },
+  {
+    "uid": "word1900-361",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 361,
+    "globalId": 3461,
+    "word": "web",
+    "meaning": "〔the W-〕ウェブ；（クモの）巣"
+  },
+  {
+    "uid": "word1900-362",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 362,
+    "globalId": 3462,
+    "word": "symbol",
+    "meaning": "象徴，シンボル；記号；標章"
+  },
+  {
+    "uid": "word1900-363",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 363,
+    "globalId": 3463,
+    "word": "analysis",
+    "meaning": "分析（結果）"
+  },
+  {
+    "uid": "word1900-364",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 364,
+    "globalId": 3464,
+    "word": "version",
+    "meaning": "（本・製品などの）版；解釈"
+  },
+  {
+    "uid": "word1900-365",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 365,
+    "globalId": 3465,
+    "word": "perspective",
+    "meaning": "観点，見方；大局観；遠近法"
+  },
+  {
+    "uid": "word1900-366",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 366,
+    "globalId": 3466,
+    "word": "crisis",
+    "meaning": "危機"
+  },
+  {
+    "uid": "word1900-367",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 367,
+    "globalId": 3467,
+    "word": "disaster",
+    "meaning": "災害；惨事"
+  },
+  {
+    "uid": "word1900-368",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 368,
+    "globalId": 3468,
+    "word": "lecture",
+    "meaning": "講義，講演；説教"
+  },
+  {
+    "uid": "word1900-369",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 369,
+    "globalId": 3469,
+    "word": "psychology",
+    "meaning": "心理学；心理（状態）"
+  },
+  {
+    "uid": "word1900-370",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 370,
+    "globalId": 3470,
+    "word": "gender",
+    "meaning": "（社会的・文化的）性，性別"
+  },
+  {
+    "uid": "word1900-371",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 371,
+    "globalId": 3471,
+    "word": "custom",
+    "meaning": "（社会的な）慣習；〔～s〕税関；〔～s〕関税"
+  },
+  {
+    "uid": "word1900-372",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 372,
+    "globalId": 3472,
+    "word": "court",
+    "meaning": "裁判所，法廷；裁判；宮廷；中庭"
+  },
+  {
+    "uid": "word1900-373",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 373,
+    "globalId": 3473,
+    "word": "desert",
+    "meaning": "砂漠；不毛の地"
+  },
+  {
+    "uid": "word1900-374",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 374,
+    "globalId": 3474,
+    "word": "soil",
+    "meaning": "土地，土壌；（悪事などの）温床"
+  },
+  {
+    "uid": "word1900-375",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 375,
+    "globalId": 3475,
+    "word": "agriculture",
+    "meaning": "農業；農学，畜産"
+  },
+  {
+    "uid": "word1900-376",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 376,
+    "globalId": 3476,
+    "word": "fossil",
+    "meaning": "化石；時代遅れの人［物］"
+  },
+  {
+    "uid": "word1900-377",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 377,
+    "globalId": 3477,
+    "word": "document",
+    "meaning": "（公）文書，書類；記録，資料"
+  },
+  {
+    "uid": "word1900-378",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 378,
+    "globalId": 3478,
+    "word": "vocabulary",
+    "meaning": "語彙"
+  },
+  {
+    "uid": "word1900-379",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 379,
+    "globalId": 3479,
+    "word": "intelligent",
+    "meaning": "聡明な；知能を有する"
+  },
+  {
+    "uid": "word1900-380",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 380,
+    "globalId": 3480,
+    "word": "conscious",
+    "meaning": "意識して，気づいて"
+  },
+  {
+    "uid": "word1900-381",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 381,
+    "globalId": 3481,
+    "word": "capable",
+    "meaning": "能力がある；有能な"
+  },
+  {
+    "uid": "word1900-382",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 382,
+    "globalId": 3482,
+    "word": "accurate",
+    "meaning": "正確な；精密な"
+  },
+  {
+    "uid": "word1900-383",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 383,
+    "globalId": 3483,
+    "word": "fundamental",
+    "meaning": "基本的な；必須の"
+  },
+  {
+    "uid": "word1900-384",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 384,
+    "globalId": 3484,
+    "word": "artificial",
+    "meaning": "人工の；不自然な"
+  },
+  {
+    "uid": "word1900-385",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 385,
+    "globalId": 3485,
+    "word": "firm",
+    "meaning": "確固たる；堅固な；安定した"
+  },
+  {
+    "uid": "word1900-386",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 386,
+    "globalId": 3486,
+    "word": "overall",
+    "meaning": "総合的な；全体的な"
+  },
+  {
+    "uid": "word1900-387",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 387,
+    "globalId": 3487,
+    "word": "rural",
+    "meaning": "田舎の，田園の"
+  },
+  {
+    "uid": "word1900-388",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 388,
+    "globalId": 3488,
+    "word": "military",
+    "meaning": "軍の，軍事（用）の"
+  },
+  {
+    "uid": "word1900-389",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 389,
+    "globalId": 3489,
+    "word": "nuclear",
+    "meaning": "核の，原子力の"
+  },
+  {
+    "uid": "word1900-390",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 390,
+    "globalId": 3490,
+    "word": "biological",
+    "meaning": "生物学（上）の"
+  },
+  {
+    "uid": "word1900-391",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 391,
+    "globalId": 3491,
+    "word": "constant",
+    "meaning": "絶え間ない；一定の"
+  },
+  {
+    "uid": "word1900-392",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 392,
+    "globalId": 3492,
+    "word": "severe",
+    "meaning": "（人・規律・事態・天気などが）厳しい；猛烈な"
+  },
+  {
+    "uid": "word1900-393",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 393,
+    "globalId": 3493,
+    "word": "visual",
+    "meaning": "視覚の；目に見える"
+  },
+  {
+    "uid": "word1900-394",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 394,
+    "globalId": 3494,
+    "word": "enormous",
+    "meaning": "莫大な，巨大な"
+  },
+  {
+    "uid": "word1900-395",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 395,
+    "globalId": 3495,
+    "word": "convenient",
+    "meaning": "便利な，都合のいい"
+  },
+  {
+    "uid": "word1900-396",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 396,
+    "globalId": 3496,
+    "word": "domestic",
+    "meaning": "家庭の；国内の；（動物が）飼いならされた"
+  },
+  {
+    "uid": "word1900-397",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 397,
+    "globalId": 3497,
+    "word": "mass",
+    "meaning": "大規模な，大量の；大衆（向け）の"
+  },
+  {
+    "uid": "word1900-398",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 398,
+    "globalId": 3498,
+    "word": "typical",
+    "meaning": "典型的な；（～に）特有の（of）"
+  },
+  {
+    "uid": "word1900-399",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 399,
+    "globalId": 3499,
+    "word": "overseas",
+    "meaning": "海外へ［に，で］"
+  },
+  {
+    "uid": "word1900-400",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 400,
+    "globalId": 3500,
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず"
+  },
+  {
+    "uid": "word1900-401",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 401,
+    "globalId": 3501,
+    "word": "demonstrate",
+    "meaning": "を論証［証明］する；デモをする"
+  },
+  {
+    "uid": "word1900-402",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 402,
+    "globalId": 3502,
+    "word": "behave",
+    "meaning": "振る舞う；作動する"
+  },
+  {
+    "uid": "word1900-403",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 403,
+    "globalId": 3503,
+    "word": "educate",
+    "meaning": "を教育する；に教える；（能力など）を養う"
+  },
+  {
+    "uid": "word1900-404",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 404,
+    "globalId": 3504,
+    "word": "purchase",
+    "meaning": "を購入する"
+  },
+  {
+    "uid": "word1900-405",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 405,
+    "globalId": 3505,
+    "word": "recommend",
+    "meaning": "を勧める"
+  },
+  {
+    "uid": "word1900-406",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 406,
+    "globalId": 3506,
+    "word": "admit",
+    "meaning": "（を）（しぶしぶ）認める；に（～への）入場［入学など］を認める（to / into）"
+  },
+  {
+    "uid": "word1900-407",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 407,
+    "globalId": 3507,
+    "word": "generate",
+    "meaning": "を生み出す；（電気など）を発生させる"
+  },
+  {
+    "uid": "word1900-408",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 408,
+    "globalId": 3508,
+    "word": "explore",
+    "meaning": "（を）調査［探究］する；（を）探検［探査］する"
+  },
+  {
+    "uid": "word1900-409",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 409,
+    "globalId": 3509,
+    "word": "amaze",
+    "meaning": "をびっくりさせる"
+  },
+  {
+    "uid": "word1900-410",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 410,
+    "globalId": 3510,
+    "word": "tear",
+    "meaning": "を引き裂く；裂ける"
+  },
+  {
+    "uid": "word1900-411",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 411,
+    "globalId": 3511,
+    "word": "settle",
+    "meaning": "を解決する；（に）移り住む；を落ち着かせる"
+  },
+  {
+    "uid": "word1900-412",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 412,
+    "globalId": 3512,
+    "word": "afford",
+    "meaning": "を持つ［する］余裕がある；を与える"
+  },
+  {
+    "uid": "word1900-413",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 413,
+    "globalId": 3513,
+    "word": "conclude",
+    "meaning": "と結論づける；を締めくくる；を締結する"
+  },
+  {
+    "uid": "word1900-414",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 414,
+    "globalId": 3514,
+    "word": "advertise",
+    "meaning": "を宣伝する；（～を求める）広告を出す（for）"
+  },
+  {
+    "uid": "word1900-415",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 415,
+    "globalId": 3515,
+    "word": "encounter",
+    "meaning": "に遭遇する；に（思いがけず）出会う"
+  },
+  {
+    "uid": "word1900-416",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 416,
+    "globalId": 3516,
+    "word": "remind",
+    "meaning": "に思い出させる"
+  },
+  {
+    "uid": "word1900-417",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 417,
+    "globalId": 3517,
+    "word": "locate",
+    "meaning": "〔受身形で〕位置する；の位置を探し当てる"
+  },
+  {
+    "uid": "word1900-418",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 418,
+    "globalId": 3518,
+    "word": "aid",
+    "meaning": "を援助する，助ける"
+  },
+  {
+    "uid": "word1900-419",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 419,
+    "globalId": 3519,
+    "word": "bite",
+    "meaning": "（を）かむ，（に）かみつく；（を）刺す"
+  },
+  {
+    "uid": "word1900-420",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 420,
+    "globalId": 3520,
+    "word": "deliver",
+    "meaning": "を配達する；（演説・講義）をする；子を産む"
+  },
+  {
+    "uid": "word1900-421",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 421,
+    "globalId": 3521,
+    "word": "perceive",
+    "meaning": "に気づく；を知覚する；を理解する"
+  },
+  {
+    "uid": "word1900-422",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 422,
+    "globalId": 3522,
+    "word": "distinguish",
+    "meaning": "を区別する"
+  },
+  {
+    "uid": "word1900-423",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 423,
+    "globalId": 3523,
+    "word": "imply",
+    "meaning": "を暗に意味する；を必然的に伴う"
+  },
+  {
+    "uid": "word1900-424",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 424,
+    "globalId": 3524,
+    "word": "handle",
+    "meaning": "を処理する，扱う；を論じる；を商う"
+  },
+  {
+    "uid": "word1900-425",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 425,
+    "globalId": 3525,
+    "word": "praise",
+    "meaning": "を（～のことで）賞賛する（for）；賛美する"
+  },
+  {
+    "uid": "word1900-426",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 426,
+    "globalId": 3526,
+    "word": "appeal",
+    "meaning": "訴える；抗議する；（上級審に）上訴する"
+  },
+  {
+    "uid": "word1900-427",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 427,
+    "globalId": 3527,
+    "word": "insist",
+    "meaning": "（を）強く主張する；要求する"
+  },
+  {
+    "uid": "word1900-428",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 428,
+    "globalId": 3528,
+    "word": "compete",
+    "meaning": "競う；〔通例否定文で〕（～に）匹敵する（with）"
+  },
+  {
+    "uid": "word1900-429",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 429,
+    "globalId": 3529,
+    "word": "rank",
+    "meaning": "を位置づける，評価する；（ある地位に）位置する"
+  },
+  {
+    "uid": "word1900-430",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 430,
+    "globalId": 3530,
+    "word": "deny",
+    "meaning": "を否定する；を拒む"
+  },
+  {
+    "uid": "word1900-431",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 431,
+    "globalId": 3531,
+    "word": "reject",
+    "meaning": "を拒否する"
+  },
+  {
+    "uid": "word1900-432",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 432,
+    "globalId": 3532,
+    "word": "intend",
+    "meaning": "を意図する"
+  },
+  {
+    "uid": "word1900-433",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 433,
+    "globalId": 3533,
+    "word": "expose",
+    "meaning": "をさらす；を暴露する；を露出する"
+  },
+  {
+    "uid": "word1900-434",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 434,
+    "globalId": 3534,
+    "word": "favor",
+    "meaning": "に賛成する；を好む；をひいきする"
+  },
+  {
+    "uid": "word1900-435",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 435,
+    "globalId": 3535,
+    "word": "inspire",
+    "meaning": "（人）を奮起させる；を喚起する"
+  },
+  {
+    "uid": "word1900-436",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 436,
+    "globalId": 3536,
+    "word": "propose",
+    "meaning": "を提案する；をもくろむ；結婚を申し込む"
+  },
+  {
+    "uid": "word1900-437",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 437,
+    "globalId": 3537,
+    "word": "spell",
+    "meaning": "（語）をつづる；という語になる"
+  },
+  {
+    "uid": "word1900-438",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 438,
+    "globalId": 3538,
+    "word": "breathe",
+    "meaning": "呼吸する；を吸う"
+  },
+  {
+    "uid": "word1900-439",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 439,
+    "globalId": 3539,
+    "word": "repair",
+    "meaning": "を修理する；を修復する"
+  },
+  {
+    "uid": "word1900-440",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 440,
+    "globalId": 3540,
+    "word": "consist",
+    "meaning": "（～から）成る（of）；（～に）ある（in）"
+  },
+  {
+    "uid": "word1900-441",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 441,
+    "globalId": 3541,
+    "word": "comment",
+    "meaning": "意見，コメント；批判"
+  },
+  {
+    "uid": "word1900-442",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 442,
+    "globalId": 3542,
+    "word": "instruction",
+    "meaning": "〔通例～s〕指示；〔～s〕（製品の）使用書"
+  },
+  {
+    "uid": "word1900-443",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 443,
+    "globalId": 3543,
+    "word": "religion",
+    "meaning": "宗教；信条；信仰（心）"
+  },
+  {
+    "uid": "word1900-444",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 444,
+    "globalId": 3544,
+    "word": "neighborhood",
+    "meaning": "地域；近所"
+  },
+  {
+    "uid": "word1900-445",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 445,
+    "globalId": 3545,
+    "word": "laboratory",
+    "meaning": "実験室，研究室"
+  },
+  {
+    "uid": "word1900-446",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 446,
+    "globalId": 3546,
+    "word": "presence",
+    "meaning": "存在；出席；面前"
+  },
+  {
+    "uid": "word1900-447",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 447,
+    "globalId": 3547,
+    "word": "confidence",
+    "meaning": "自信；信頼；秘密"
+  },
+  {
+    "uid": "word1900-448",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 448,
+    "globalId": 3548,
+    "word": "harm",
+    "meaning": "害，損害"
+  },
+  {
+    "uid": "word1900-449",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 449,
+    "globalId": 3549,
+    "word": "instrument",
+    "meaning": "器具；楽器"
+  },
+  {
+    "uid": "word1900-450",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 450,
+    "globalId": 3550,
+    "word": "category",
+    "meaning": "部類，区分；範疇"
+  },
+  {
+    "uid": "word1900-451",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 451,
+    "globalId": 3551,
+    "word": "capital",
+    "meaning": "資本；首都；大文字"
+  },
+  {
+    "uid": "word1900-452",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 452,
+    "globalId": 3552,
+    "word": "outcome",
+    "meaning": "結果；成果"
+  },
+  {
+    "uid": "word1900-453",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 453,
+    "globalId": 3553,
+    "word": "notion",
+    "meaning": "概念，観念；見解；意向"
+  },
+  {
+    "uid": "word1900-454",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 454,
+    "globalId": 3554,
+    "word": "review",
+    "meaning": "（書物などの）論評；再調査；【米】復習"
+  },
+  {
+    "uid": "word1900-455",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 455,
+    "globalId": 3555,
+    "word": "trait",
+    "meaning": "特性"
+  },
+  {
+    "uid": "word1900-456",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 456,
+    "globalId": 3556,
+    "word": "diversity",
+    "meaning": "多様性；相違点"
+  },
+  {
+    "uid": "word1900-457",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 457,
+    "globalId": 3557,
+    "word": "victim",
+    "meaning": "犠牲（者），被害者"
+  },
+  {
+    "uid": "word1900-458",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 458,
+    "globalId": 3558,
+    "word": "occasion",
+    "meaning": "場合，時；行事；機会"
+  },
+  {
+    "uid": "word1900-459",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 459,
+    "globalId": 3559,
+    "word": "facility",
+    "meaning": "施設，設備；機能；才能"
+  },
+  {
+    "uid": "word1900-460",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 460,
+    "globalId": 3560,
+    "word": "stock",
+    "meaning": "在庫品；蓄え；株"
+  },
+  {
+    "uid": "word1900-461",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 461,
+    "globalId": 3561,
+    "word": "conference",
+    "meaning": "会議；協議"
+  },
+  {
+    "uid": "word1900-462",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 462,
+    "globalId": 3562,
+    "word": "humanity",
+    "meaning": "人類；人間性；人情；〔（the） ～ties〕人文科学"
+  },
+  {
+    "uid": "word1900-463",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 463,
+    "globalId": 3563,
+    "word": "dialect",
+    "meaning": "方言"
+  },
+  {
+    "uid": "word1900-464",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 464,
+    "globalId": 3564,
+    "word": "proportion",
+    "meaning": "割合；部分；釣り合い"
+  },
+  {
+    "uid": "word1900-465",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 465,
+    "globalId": 3565,
+    "word": "tip",
+    "meaning": "助言，秘訣；チップ；先端"
+  },
+  {
+    "uid": "word1900-466",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 466,
+    "globalId": 3566,
+    "word": "lawyer",
+    "meaning": "弁護士"
+  },
+  {
+    "uid": "word1900-467",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 467,
+    "globalId": 3567,
+    "word": "stuff",
+    "meaning": "（漠然と）物；素材；素質"
+  },
+  {
+    "uid": "word1900-468",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 468,
+    "globalId": 3568,
+    "word": "comfort",
+    "meaning": "快適さ；慰め"
+  },
+  {
+    "uid": "word1900-469",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 469,
+    "globalId": 3569,
+    "word": "philosophy",
+    "meaning": "哲学；原理；人生観"
+  },
+  {
+    "uid": "word1900-470",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 470,
+    "globalId": 3570,
+    "word": "mammal",
+    "meaning": "哺乳動物"
+  },
+  {
+    "uid": "word1900-471",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 471,
+    "globalId": 3571,
+    "word": "quantity",
+    "meaning": "量；分量"
+  },
+  {
+    "uid": "word1900-472",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 472,
+    "globalId": 3572,
+    "word": "landscape",
+    "meaning": "風景；領域；状況"
+  },
+  {
+    "uid": "word1900-473",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 473,
+    "globalId": 3573,
+    "word": "tribe",
+    "meaning": "部族；仲間"
+  },
+  {
+    "uid": "word1900-474",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 474,
+    "globalId": 3574,
+    "word": "organ",
+    "meaning": "器官，臓器；組織；（パイプ）オルガン"
+  },
+  {
+    "uid": "word1900-475",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 475,
+    "globalId": 3575,
+    "word": "trial",
+    "meaning": "試み，（品質・性能などの）試験；裁判；試用期間"
+  },
+  {
+    "uid": "word1900-476",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 476,
+    "globalId": 3576,
+    "word": "norm",
+    "meaning": "規範；標準"
+  },
+  {
+    "uid": "word1900-477",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 477,
+    "globalId": 3577,
+    "word": "code",
+    "meaning": "規範；暗号；法典"
+  },
+  {
+    "uid": "word1900-478",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 478,
+    "globalId": 3578,
+    "word": "substance",
+    "meaning": "物質；実体；趣旨"
+  },
+  {
+    "uid": "word1900-479",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 479,
+    "globalId": 3579,
+    "word": "multiple",
+    "meaning": "多様な；種々雑多な"
+  },
+  {
+    "uid": "word1900-480",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 480,
+    "globalId": 3580,
+    "word": "numerous",
+    "meaning": "非常に数の多い"
+  },
+  {
+    "uid": "word1900-481",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 481,
+    "globalId": 3581,
+    "word": "narrow",
+    "meaning": "狭い；細い；限られた"
+  },
+  {
+    "uid": "word1900-482",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 482,
+    "globalId": 3582,
+    "word": "widespread",
+    "meaning": "広範囲にわたる；広く普及した"
+  },
+  {
+    "uid": "word1900-483",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 483,
+    "globalId": 3583,
+    "word": "sufficient",
+    "meaning": "（～に；…するのに）十分な（for；to do）"
+  },
+  {
+    "uid": "word1900-484",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 484,
+    "globalId": 3584,
+    "word": "proper",
+    "meaning": "適切な；正式の；〔名詞の後ろで〕主要な；（～に）固有の（to）"
+  },
+  {
+    "uid": "word1900-485",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 485,
+    "globalId": 3585,
+    "word": "linguistic",
+    "meaning": "言語の，言語学の"
+  },
+  {
+    "uid": "word1900-486",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 486,
+    "globalId": 3586,
+    "word": "annual",
+    "meaning": "年1回の，例年の；1年間の"
+  },
+  {
+    "uid": "word1900-487",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 487,
+    "globalId": 3587,
+    "word": "contemporary",
+    "meaning": "現代の；同時代の；同年輩の"
+  },
+  {
+    "uid": "word1900-488",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 488,
+    "globalId": 3588,
+    "word": "contrary",
+    "meaning": "（～と）反対の（to）"
+  },
+  {
+    "uid": "word1900-489",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 489,
+    "globalId": 3589,
+    "word": "strict",
+    "meaning": "（規則などが）厳しい；厳格な"
+  },
+  {
+    "uid": "word1900-490",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 490,
+    "globalId": 3590,
+    "word": "civil",
+    "meaning": "市民の；民間の；民事の"
+  },
+  {
+    "uid": "word1900-491",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 491,
+    "globalId": 3591,
+    "word": "odd",
+    "meaning": "奇妙な；奇数の"
+  },
+  {
+    "uid": "word1900-492",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 492,
+    "globalId": 3592,
+    "word": "unknown",
+    "meaning": "不明の；（～に）知られていない（to），無名の"
+  },
+  {
+    "uid": "word1900-493",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 493,
+    "globalId": 3593,
+    "word": "superior",
+    "meaning": "よりすぐれた"
+  },
+  {
+    "uid": "word1900-494",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 494,
+    "globalId": 3594,
+    "word": "sensitive",
+    "meaning": "敏感な；神経質な；微妙な"
+  },
+  {
+    "uid": "word1900-495",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 495,
+    "globalId": 3595,
+    "word": "violent",
+    "meaning": "（人・気質などが）激しい；暴力的な"
+  },
+  {
+    "uid": "word1900-496",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 496,
+    "globalId": 3596,
+    "word": "virtual",
+    "meaning": "仮想の；事実上の"
+  },
+  {
+    "uid": "word1900-497",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 497,
+    "globalId": 3597,
+    "word": "regardless",
+    "meaning": "（～に）かまわない，無頓着な（of）"
+  },
+  {
+    "uid": "word1900-498",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 498,
+    "globalId": 3598,
+    "word": "immediate",
+    "meaning": "即座の；当面の；すぐそばの；直接の"
+  },
+  {
+    "uid": "word1900-499",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 499,
+    "globalId": 3599,
+    "word": "crucial",
+    "meaning": "重要な"
+  },
+  {
+    "uid": "word1900-500",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 500,
+    "globalId": 3600,
+    "word": "somewhat",
+    "meaning": "いくぶん，多少"
+  },
+  {
+    "uid": "word1900-501",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 501,
+    "globalId": 3601,
+    "word": "interpret",
+    "meaning": "を解釈する；（を）通訳する"
+  },
+  {
+    "uid": "word1900-502",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 502,
+    "globalId": 3602,
+    "word": "translate",
+    "meaning": "を翻訳する；を（～に）変える（into）"
+  },
+  {
+    "uid": "word1900-503",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 503,
+    "globalId": 3603,
+    "word": "concentrate",
+    "meaning": "（を）集中する"
+  },
+  {
+    "uid": "word1900-504",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 504,
+    "globalId": 3604,
+    "word": "request",
+    "meaning": "に（…するように）頼む（to do）；を要請する"
+  },
+  {
+    "uid": "word1900-505",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 505,
+    "globalId": 3605,
+    "word": "criticize",
+    "meaning": "を批判する；を批評する"
+  },
+  {
+    "uid": "word1900-506",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 506,
+    "globalId": 3606,
+    "word": "overcome",
+    "meaning": "を克服する"
+  },
+  {
+    "uid": "word1900-507",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 507,
+    "globalId": 3607,
+    "word": "obtain",
+    "meaning": "を得る"
+  },
+  {
+    "uid": "word1900-508",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 508,
+    "globalId": 3608,
+    "word": "inform",
+    "meaning": "に知らせる；情報を提供する"
+  },
+  {
+    "uid": "word1900-509",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 509,
+    "globalId": 3609,
+    "word": "ensure",
+    "meaning": "を確実にする；を守る"
+  },
+  {
+    "uid": "word1900-510",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 510,
+    "globalId": 3610,
+    "word": "announce",
+    "meaning": "を発表［公表］する，知らせる；（物事が）を告げる"
+  },
+  {
+    "uid": "word1900-511",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 511,
+    "globalId": 3611,
+    "word": "grant",
+    "meaning": "（人）に（許可・権利など）を与える；を認める"
+  },
+  {
+    "uid": "word1900-512",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 512,
+    "globalId": 3612,
+    "word": "freeze",
+    "meaning": "凍る；を凍らせる；（計画・資金など）を凍結する"
+  },
+  {
+    "uid": "word1900-513",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 513,
+    "globalId": 3613,
+    "word": "oppose",
+    "meaning": "に反対する；を対抗［対比］させる"
+  },
+  {
+    "uid": "word1900-514",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 514,
+    "globalId": 3614,
+    "word": "differ",
+    "meaning": "異なる"
+  },
+  {
+    "uid": "word1900-515",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 515,
+    "globalId": 3615,
+    "word": "hate",
+    "meaning": "をひどく嫌う；を残念に思う"
+  },
+  {
+    "uid": "word1900-516",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 516,
+    "globalId": 3616,
+    "word": "emphasize",
+    "meaning": "を強調する；を重視する"
+  },
+  {
+    "uid": "word1900-517",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 517,
+    "globalId": 3617,
+    "word": "employ",
+    "meaning": "を雇う；を使う"
+  },
+  {
+    "uid": "word1900-518",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 518,
+    "globalId": 3618,
+    "word": "credit",
+    "meaning": "（功績など）を（～に）帰する（to）；を信じる"
+  },
+  {
+    "uid": "word1900-519",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 519,
+    "globalId": 3619,
+    "word": "transform",
+    "meaning": "を変える；変わる"
+  },
+  {
+    "uid": "word1900-520",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 520,
+    "globalId": 3620,
+    "word": "construct",
+    "meaning": "を建設する；を構成する"
+  },
+  {
+    "uid": "word1900-521",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 521,
+    "globalId": 3621,
+    "word": "arise",
+    "meaning": "生じる"
+  },
+  {
+    "uid": "word1900-522",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 522,
+    "globalId": 3622,
+    "word": "beat",
+    "meaning": "を打ち負かす；（を）打つ，たたく"
+  },
+  {
+    "uid": "word1900-523",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 523,
+    "globalId": 3623,
+    "word": "regret",
+    "meaning": "を後悔する"
+  },
+  {
+    "uid": "word1900-524",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 524,
+    "globalId": 3624,
+    "word": "alter",
+    "meaning": "を変える；変わる"
+  },
+  {
+    "uid": "word1900-525",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 525,
+    "globalId": 3625,
+    "word": "absorb",
+    "meaning": "を吸収する；を併合する；を夢中にさせる"
+  },
+  {
+    "uid": "word1900-526",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 526,
+    "globalId": 3626,
+    "word": "disappoint",
+    "meaning": "を失望させる；（希望など）をくじく"
+  },
+  {
+    "uid": "word1900-527",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 527,
+    "globalId": 3627,
+    "word": "cure",
+    "meaning": "を治す；を取り除く；（病気が）治る"
+  },
+  {
+    "uid": "word1900-528",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 528,
+    "globalId": 3628,
+    "word": "transport",
+    "meaning": "を輸送する；を運ぶ"
+  },
+  {
+    "uid": "word1900-529",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 529,
+    "globalId": 3629,
+    "word": "rush",
+    "meaning": "急いで行く；性急に行動する；をせき立てる"
+  },
+  {
+    "uid": "word1900-530",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 530,
+    "globalId": 3630,
+    "word": "hang",
+    "meaning": "を掛ける；を絞首刑にする；垂れ（下が）る"
+  },
+  {
+    "uid": "word1900-531",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 531,
+    "globalId": 3631,
+    "word": "blame",
+    "meaning": "を責める；の責任を負わせる"
+  },
+  {
+    "uid": "word1900-532",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 532,
+    "globalId": 3632,
+    "word": "ban",
+    "meaning": "を（法的に）禁止する；を締め出す"
+  },
+  {
+    "uid": "word1900-533",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 533,
+    "globalId": 3633,
+    "word": "fascinate",
+    "meaning": "を魅了する"
+  },
+  {
+    "uid": "word1900-534",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 534,
+    "globalId": 3634,
+    "word": "recover",
+    "meaning": "回復する；を取り戻す"
+  },
+  {
+    "uid": "word1900-535",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 535,
+    "globalId": 3635,
+    "word": "celebrate",
+    "meaning": "を祝う；を挙行する"
+  },
+  {
+    "uid": "word1900-536",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 536,
+    "globalId": 3636,
+    "word": "manufacture",
+    "meaning": "を製造する；をでっち上げる"
+  },
+  {
+    "uid": "word1900-537",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 537,
+    "globalId": 3637,
+    "word": "interact",
+    "meaning": "影響し合う；相互に作用する"
+  },
+  {
+    "uid": "word1900-538",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 538,
+    "globalId": 3638,
+    "word": "arrange",
+    "meaning": "の段取りをつける；を手配する；を配置する"
+  },
+  {
+    "uid": "word1900-539",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 539,
+    "globalId": 3639,
+    "word": "adjust",
+    "meaning": "を調整する；を適合させる；順応する"
+  },
+  {
+    "uid": "word1900-540",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 540,
+    "globalId": 3640,
+    "word": "confirm",
+    "meaning": "を確認する；を裏づける"
+  },
+  {
+    "uid": "word1900-541",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 541,
+    "globalId": 3641,
+    "word": "insight",
+    "meaning": "見識，理解（力）；洞察力"
+  },
+  {
+    "uid": "word1900-542",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 542,
+    "globalId": 3642,
+    "word": "innovation",
+    "meaning": "革新；新機軸"
+  },
+  {
+    "uid": "word1900-543",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 543,
+    "globalId": 3643,
+    "word": "budget",
+    "meaning": "予算；経費"
+  },
+  {
+    "uid": "word1900-544",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 544,
+    "globalId": 3644,
+    "word": "fee",
+    "meaning": "料金；謝礼"
+  },
+  {
+    "uid": "word1900-545",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 545,
+    "globalId": 3645,
+    "word": "expense",
+    "meaning": "経費；費用；犠牲"
+  },
+  {
+    "uid": "word1900-546",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 546,
+    "globalId": 3646,
+    "word": "debt",
+    "meaning": "借金，負債；恩義"
+  },
+  {
+    "uid": "word1900-547",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 547,
+    "globalId": 3647,
+    "word": "loan",
+    "meaning": "貸付金，融資；貸すこと"
+  },
+  {
+    "uid": "word1900-548",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 548,
+    "globalId": 3648,
+    "word": "duty",
+    "meaning": "義務；〔しばしば～ties〕職務；関税"
+  },
+  {
+    "uid": "word1900-549",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 549,
+    "globalId": 3649,
+    "word": "alarm",
+    "meaning": "不安，恐れ；警報装置"
+  },
+  {
+    "uid": "word1900-550",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 550,
+    "globalId": 3650,
+    "word": "emergency",
+    "meaning": "緊急（事態）"
+  },
+  {
+    "uid": "word1900-551",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 551,
+    "globalId": 3651,
+    "word": "democracy",
+    "meaning": "民主主義，民主政治；民主国家"
+  },
+  {
+    "uid": "word1900-552",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 552,
+    "globalId": 3652,
+    "word": "minister",
+    "meaning": "大臣；（プロテスタント系の）聖職者"
+  },
+  {
+    "uid": "word1900-553",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 553,
+    "globalId": 3653,
+    "word": "fellow",
+    "meaning": "仲間，同僚；同級生；男"
+  },
+  {
+    "uid": "word1900-554",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 554,
+    "globalId": 3654,
+    "word": "candidate",
+    "meaning": "（～の）候補（者）（for）；志願者"
+  },
+  {
+    "uid": "word1900-555",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 555,
+    "globalId": 3655,
+    "word": "corporation",
+    "meaning": "（大）企業；法人"
+  },
+  {
+    "uid": "word1900-556",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 556,
+    "globalId": 3656,
+    "word": "stereotype",
+    "meaning": "固定観念；決まり文句"
+  },
+  {
+    "uid": "word1900-557",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 557,
+    "globalId": 3657,
+    "word": "route",
+    "meaning": "道（筋）；路線，ルート；（～の）手段（to）"
+  },
+  {
+    "uid": "word1900-558",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 558,
+    "globalId": 3658,
+    "word": "disorder",
+    "meaning": "障害，（心身の）不調；混乱"
+  },
+  {
+    "uid": "word1900-559",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 559,
+    "globalId": 3659,
+    "word": "depression",
+    "meaning": "憂うつ；うつ病；不況；低気圧"
+  },
+  {
+    "uid": "word1900-560",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 560,
+    "globalId": 3660,
+    "word": "weapon",
+    "meaning": "兵器，武器"
+  },
+  {
+    "uid": "word1900-561",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 561,
+    "globalId": 3661,
+    "word": "immigration",
+    "meaning": "（他国からの）移民，移住；入国管理"
+  },
+  {
+    "uid": "word1900-562",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 562,
+    "globalId": 3662,
+    "word": "barrier",
+    "meaning": "（～に対する）障壁（against / to）；防壁"
+  },
+  {
+    "uid": "word1900-563",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 563,
+    "globalId": 3663,
+    "word": "disadvantage",
+    "meaning": "不利（な点）；障害；（信用などの）損失"
+  },
+  {
+    "uid": "word1900-564",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 564,
+    "globalId": 3664,
+    "word": "mood",
+    "meaning": "気分；機嫌；雰囲気"
+  },
+  {
+    "uid": "word1900-565",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 565,
+    "globalId": 3665,
+    "word": "motion",
+    "meaning": "動き，動作；運動；動議"
+  },
+  {
+    "uid": "word1900-566",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 566,
+    "globalId": 3666,
+    "word": "routine",
+    "meaning": "決まり切った仕事；いつもの手順"
+  },
+  {
+    "uid": "word1900-567",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 567,
+    "globalId": 3667,
+    "word": "discipline",
+    "meaning": "規律，しつけ；訓練；懲戒；学問分野"
+  },
+  {
+    "uid": "word1900-568",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 568,
+    "globalId": 3668,
+    "word": "myth",
+    "meaning": "作り話；神話"
+  },
+  {
+    "uid": "word1900-569",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 569,
+    "globalId": 3669,
+    "word": "hypothesis",
+    "meaning": "仮説；憶測"
+  },
+  {
+    "uid": "word1900-570",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 570,
+    "globalId": 3670,
+    "word": "physician",
+    "meaning": "【主に米】 医師；内科医"
+  },
+  {
+    "uid": "word1900-571",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 571,
+    "globalId": 3671,
+    "word": "client",
+    "meaning": "顧客；（弁護士などの）依頼人"
+  },
+  {
+    "uid": "word1900-572",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 572,
+    "globalId": 3672,
+    "word": "colony",
+    "meaning": "植民地；集団居住地；（動植物の）コロニー"
+  },
+  {
+    "uid": "word1900-573",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 573,
+    "globalId": 3673,
+    "word": "statistics",
+    "meaning": "統計；統計学"
+  },
+  {
+    "uid": "word1900-574",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 574,
+    "globalId": 3674,
+    "word": "grain",
+    "meaning": "穀物；粒；きめ"
+  },
+  {
+    "uid": "word1900-575",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 575,
+    "globalId": 3675,
+    "word": "ingredient",
+    "meaning": "材料，成分；（成功の）要因"
+  },
+  {
+    "uid": "word1900-576",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 576,
+    "globalId": 3676,
+    "word": "treasure",
+    "meaning": "宝物，財宝；財産"
+  },
+  {
+    "uid": "word1900-577",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 577,
+    "globalId": 3677,
+    "word": "contract",
+    "meaning": "契約（書）；協定"
+  },
+  {
+    "uid": "word1900-578",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 578,
+    "globalId": 3678,
+    "word": "welfare",
+    "meaning": "福祉，幸福"
+  },
+  {
+    "uid": "word1900-579",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 579,
+    "globalId": 3679,
+    "word": "prime",
+    "meaning": "主要な，最も重要な；最適な；極上の"
+  },
+  {
+    "uid": "word1900-580",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 580,
+    "globalId": 3680,
+    "word": "curious",
+    "meaning": "好奇心の強い；奇妙な"
+  },
+  {
+    "uid": "word1900-581",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 581,
+    "globalId": 3681,
+    "word": "dramatic",
+    "meaning": "劇的な；演劇の"
+  },
+  {
+    "uid": "word1900-582",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 582,
+    "globalId": 3682,
+    "word": "distinct",
+    "meaning": "明らかに異なる；明瞭な"
+  },
+  {
+    "uid": "word1900-583",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 583,
+    "globalId": 3683,
+    "word": "anxious",
+    "meaning": "心配して；切望して"
+  },
+  {
+    "uid": "word1900-584",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 584,
+    "globalId": 3684,
+    "word": "vital",
+    "meaning": "必要不可欠な；活気のある；生命にかかわる"
+  },
+  {
+    "uid": "word1900-585",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 585,
+    "globalId": 3685,
+    "word": "conventional",
+    "meaning": "従来の；月並みな"
+  },
+  {
+    "uid": "word1900-586",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 586,
+    "globalId": 3686,
+    "word": "abstract",
+    "meaning": "抽象的な"
+  },
+  {
+    "uid": "word1900-587",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 587,
+    "globalId": 3687,
+    "word": "minor",
+    "meaning": "重要でない；小さい"
+  },
+  {
+    "uid": "word1900-588",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 588,
+    "globalId": 3688,
+    "word": "extraordinary",
+    "meaning": "並はずれた；異常な，驚くべき"
+  },
+  {
+    "uid": "word1900-589",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 589,
+    "globalId": 3689,
+    "word": "stable",
+    "meaning": "安定した；動じない"
+  },
+  {
+    "uid": "word1900-590",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 590,
+    "globalId": 3690,
+    "word": "flexible",
+    "meaning": "融通の利く，柔軟な"
+  },
+  {
+    "uid": "word1900-591",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 591,
+    "globalId": 3691,
+    "word": "brief",
+    "meaning": "簡潔な；短い"
+  },
+  {
+    "uid": "word1900-592",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 592,
+    "globalId": 3692,
+    "word": "aggressive",
+    "meaning": "攻撃的な；意欲的な"
+  },
+  {
+    "uid": "word1900-593",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 593,
+    "globalId": 3693,
+    "word": "visible",
+    "meaning": "（目に）見える；明白な"
+  },
+  {
+    "uid": "word1900-594",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 594,
+    "globalId": 3694,
+    "word": "unexpected",
+    "meaning": "思いがけない，不意の"
+  },
+  {
+    "uid": "word1900-595",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 595,
+    "globalId": 3695,
+    "word": "ethnic",
+    "meaning": "民族の，人種の；民族特有の"
+  },
+  {
+    "uid": "word1900-596",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 596,
+    "globalId": 3696,
+    "word": "alien",
+    "meaning": "外国の；異質な；宇宙人"
+  },
+  {
+    "uid": "word1900-597",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 597,
+    "globalId": 3697,
+    "word": "initial",
+    "meaning": "初めの"
+  },
+  {
+    "uid": "word1900-598",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 598,
+    "globalId": 3698,
+    "word": "exact",
+    "meaning": "正確な；まさにその"
+  },
+  {
+    "uid": "word1900-599",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 599,
+    "globalId": 3699,
+    "word": "precise",
+    "meaning": "正確な；精密な；まさにその"
+  },
+  {
+    "uid": "word1900-600",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 600,
+    "globalId": 3700,
+    "word": "latter",
+    "meaning": "後者の，後半の"
+  },
+  {
+    "uid": "word1900-601",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 601,
+    "globalId": 3701,
+    "word": "commit",
+    "meaning": "〔commit oneselfまたは受身形で〕献身する；（罪など）を犯す；を投入する"
+  },
+  {
+    "uid": "word1900-602",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 602,
+    "globalId": 3702,
+    "word": "stimulate",
+    "meaning": "を刺激する"
+  },
+  {
+    "uid": "word1900-603",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 603,
+    "globalId": 3703,
+    "word": "enhance",
+    "meaning": "（価値など）を高める，増す"
+  },
+  {
+    "uid": "word1900-604",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 604,
+    "globalId": 3704,
+    "word": "pursue",
+    "meaning": "を追求する；に従事する"
+  },
+  {
+    "uid": "word1900-605",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 605,
+    "globalId": 3705,
+    "word": "react",
+    "meaning": "反応する；化学反応を起こす"
+  },
+  {
+    "uid": "word1900-606",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 606,
+    "globalId": 3706,
+    "word": "disagree",
+    "meaning": "不賛成である；意見が食い違う"
+  },
+  {
+    "uid": "word1900-607",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 607,
+    "globalId": 3707,
+    "word": "stare",
+    "meaning": "じっと見る；を見つめる"
+  },
+  {
+    "uid": "word1900-608",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 608,
+    "globalId": 3708,
+    "word": "abandon",
+    "meaning": "を捨てる；を放棄する，断念する"
+  },
+  {
+    "uid": "word1900-609",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 609,
+    "globalId": 3709,
+    "word": "quit",
+    "meaning": "をやめる；（場所）を去る"
+  },
+  {
+    "uid": "word1900-610",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 610,
+    "globalId": 3710,
+    "word": "capture",
+    "meaning": "をとらえる；をとりこにする"
+  },
+  {
+    "uid": "word1900-611",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 611,
+    "globalId": 3711,
+    "word": "transfer",
+    "meaning": "を移す；を伝える；移る；乗り換える"
+  },
+  {
+    "uid": "word1900-612",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 612,
+    "globalId": 3712,
+    "word": "bother",
+    "meaning": "を悩ます；（～を）気にかける（about / with）"
+  },
+  {
+    "uid": "word1900-613",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 613,
+    "globalId": 3713,
+    "word": "persuade",
+    "meaning": "を説得する；に確信させる"
+  },
+  {
+    "uid": "word1900-614",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 614,
+    "globalId": 3714,
+    "word": "rent",
+    "meaning": "を賃借りする；を賃貸しする"
+  },
+  {
+    "uid": "word1900-615",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 615,
+    "globalId": 3715,
+    "word": "breed",
+    "meaning": "を繁殖させる，育てる；繁殖する"
+  },
+  {
+    "uid": "word1900-616",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 616,
+    "globalId": 3716,
+    "word": "invest",
+    "meaning": "（を）投資する；に（～を）与える（with）"
+  },
+  {
+    "uid": "word1900-617",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 617,
+    "globalId": 3717,
+    "word": "reserve",
+    "meaning": "を予約する；を取っておく；（判断など）を保留する"
+  },
+  {
+    "uid": "word1900-618",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 618,
+    "globalId": 3718,
+    "word": "trace",
+    "meaning": "（足跡・起源など）をたどる；を捜し出す"
+  },
+  {
+    "uid": "word1900-619",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 619,
+    "globalId": 3719,
+    "word": "illustrate",
+    "meaning": "を説明する；に挿絵を入れる"
+  },
+  {
+    "uid": "word1900-620",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 620,
+    "globalId": 3720,
+    "word": "advise",
+    "meaning": "に忠告［助言］する；（を）助言する"
+  },
+  {
+    "uid": "word1900-621",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 621,
+    "globalId": 3721,
+    "word": "convey",
+    "meaning": "を伝える；を運ぶ，運搬する"
+  },
+  {
+    "uid": "word1900-622",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 622,
+    "globalId": 3722,
+    "word": "attach",
+    "meaning": "を（取り）付ける；を付与する"
+  },
+  {
+    "uid": "word1900-623",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 623,
+    "globalId": 3723,
+    "word": "stretch",
+    "meaning": "を伸ばす；を広げる；伸びる；及ぶ"
+  },
+  {
+    "uid": "word1900-624",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 624,
+    "globalId": 3724,
+    "word": "puzzle",
+    "meaning": "を当惑させる"
+  },
+  {
+    "uid": "word1900-625",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 625,
+    "globalId": 3725,
+    "word": "disturb",
+    "meaning": "をかき乱す；を妨害する；を動揺させる"
+  },
+  {
+    "uid": "word1900-626",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 626,
+    "globalId": 3726,
+    "word": "crash",
+    "meaning": "衝突する，墜落する；をぶつけて壊す"
+  },
+  {
+    "uid": "word1900-627",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 627,
+    "globalId": 3727,
+    "word": "cope",
+    "meaning": "うまく処理する"
+  },
+  {
+    "uid": "word1900-628",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 628,
+    "globalId": 3728,
+    "word": "permit",
+    "meaning": "を許可する"
+  },
+  {
+    "uid": "word1900-629",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 629,
+    "globalId": 3729,
+    "word": "impress",
+    "meaning": "を感動させる；に印象を与える"
+  },
+  {
+    "uid": "word1900-630",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 630,
+    "globalId": 3730,
+    "word": "suspect",
+    "meaning": "ではないかと思う；（人）を疑う"
+  },
+  {
+    "uid": "word1900-631",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 631,
+    "globalId": 3731,
+    "word": "upset",
+    "meaning": "を動揺させる；をだめにする"
+  },
+  {
+    "uid": "word1900-632",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 632,
+    "globalId": 3732,
+    "word": "frighten",
+    "meaning": "（人）を怖がらせる"
+  },
+  {
+    "uid": "word1900-633",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 633,
+    "globalId": 3733,
+    "word": "import",
+    "meaning": "を輸入する；を取り込む"
+  },
+  {
+    "uid": "word1900-634",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 634,
+    "globalId": 3734,
+    "word": "export",
+    "meaning": "（を）輸出する"
+  },
+  {
+    "uid": "word1900-635",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 635,
+    "globalId": 3735,
+    "word": "investigate",
+    "meaning": "を調査する；を究明する；（～を）調査する（into）"
+  },
+  {
+    "uid": "word1900-636",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 636,
+    "globalId": 3736,
+    "word": "monitor",
+    "meaning": "を監視する；を傍受する"
+  },
+  {
+    "uid": "word1900-637",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 637,
+    "globalId": 3737,
+    "word": "calculate",
+    "meaning": "を計算する；を予測する"
+  },
+  {
+    "uid": "word1900-638",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 638,
+    "globalId": 3738,
+    "word": "eliminate",
+    "meaning": "を取り除く"
+  },
+  {
+    "uid": "word1900-639",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 639,
+    "globalId": 3739,
+    "word": "ease",
+    "meaning": "を軽減する；和らぐ；緩む"
+  },
+  {
+    "uid": "word1900-640",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 640,
+    "globalId": 3740,
+    "word": "launch",
+    "meaning": "を開始する；を売り出す；を発射する"
+  },
+  {
+    "uid": "word1900-641",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 641,
+    "globalId": 3741,
+    "word": "sequence",
+    "meaning": "連続；一連（のもの）"
+  },
+  {
+    "uid": "word1900-642",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 642,
+    "globalId": 3742,
+    "word": "therapy",
+    "meaning": "療法；心理療法"
+  },
+  {
+    "uid": "word1900-643",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 643,
+    "globalId": 3743,
+    "word": "symptom",
+    "meaning": "症状；兆候"
+  },
+  {
+    "uid": "word1900-644",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 644,
+    "globalId": 3744,
+    "word": "incident",
+    "meaning": "出来事，事件；紛争"
+  },
+  {
+    "uid": "word1900-645",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 645,
+    "globalId": 3745,
+    "word": "witness",
+    "meaning": "目撃者；証人；証拠，証言"
+  },
+  {
+    "uid": "word1900-646",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 646,
+    "globalId": 3746,
+    "word": "sum",
+    "meaning": "（金）額；合計；要点"
+  },
+  {
+    "uid": "word1900-647",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 647,
+    "globalId": 3747,
+    "word": "burden",
+    "meaning": "負担；（重い）義務；積み荷"
+  },
+  {
+    "uid": "word1900-648",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 648,
+    "globalId": 3748,
+    "word": "tone",
+    "meaning": "口調；音色；雰囲気；色調"
+  },
+  {
+    "uid": "word1900-649",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 649,
+    "globalId": 3749,
+    "word": "honor",
+    "meaning": "光栄；名誉；敬意"
+  },
+  {
+    "uid": "word1900-650",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 650,
+    "globalId": 3750,
+    "word": "award",
+    "meaning": "（～の）賞（for）；（証書などの）授与"
+  },
+  {
+    "uid": "word1900-651",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 651,
+    "globalId": 3751,
+    "word": "priority",
+    "meaning": "優先（事項）"
+  },
+  {
+    "uid": "word1900-652",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 652,
+    "globalId": 3752,
+    "word": "logic",
+    "meaning": "論理；道理；論理学"
+  },
+  {
+    "uid": "word1900-653",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 653,
+    "globalId": 3753,
+    "word": "minimum",
+    "meaning": "最小限度"
+  },
+  {
+    "uid": "word1900-654",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 654,
+    "globalId": 3754,
+    "word": "exception",
+    "meaning": "（～の）例外（to）"
+  },
+  {
+    "uid": "word1900-655",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 655,
+    "globalId": 3755,
+    "word": "clue",
+    "meaning": "（～の）手がかり（to / about）；（パズルの）ヒント"
+  },
+  {
+    "uid": "word1900-656",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 656,
+    "globalId": 3756,
+    "word": "bond",
+    "meaning": "絆；債券；束縛；接着剤"
+  },
+  {
+    "uid": "word1900-657",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 657,
+    "globalId": 3757,
+    "word": "virus",
+    "meaning": "ウイルス；（感染症の）病原体"
+  },
+  {
+    "uid": "word1900-658",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 658,
+    "globalId": 3758,
+    "word": "surgery",
+    "meaning": "（外科）手術；外科，外科医学"
+  },
+  {
+    "uid": "word1900-659",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 659,
+    "globalId": 3759,
+    "word": "insurance",
+    "meaning": "保険；保険料；保険金"
+  },
+  {
+    "uid": "word1900-660",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 660,
+    "globalId": 3760,
+    "word": "frame",
+    "meaning": "枠，（額）縁；骨組み；体格"
+  },
+  {
+    "uid": "word1900-661",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 661,
+    "globalId": 3761,
+    "word": "shelter",
+    "meaning": "避難（所），保護"
+  },
+  {
+    "uid": "word1900-662",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 662,
+    "globalId": 3762,
+    "word": "territory",
+    "meaning": "領土；領域；なわばり"
+  },
+  {
+    "uid": "word1900-663",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 663,
+    "globalId": 3763,
+    "word": "boundary",
+    "meaning": "境界（線）；〔通例～ries〕限界"
+  },
+  {
+    "uid": "word1900-664",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 664,
+    "globalId": 3764,
+    "word": "habitat",
+    "meaning": "生息地；（人の）居住地"
+  },
+  {
+    "uid": "word1900-665",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 665,
+    "globalId": 3765,
+    "word": "district",
+    "meaning": "地区；行政区"
+  },
+  {
+    "uid": "word1900-666",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 666,
+    "globalId": 3766,
+    "word": "conservation",
+    "meaning": "（動植物などの）保護；保存"
+  },
+  {
+    "uid": "word1900-667",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 667,
+    "globalId": 3767,
+    "word": "harvest",
+    "meaning": "収穫（物）；収穫期；漁獲高"
+  },
+  {
+    "uid": "word1900-668",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 668,
+    "globalId": 3768,
+    "word": "predator",
+    "meaning": "捕食動物；略奪者"
+  },
+  {
+    "uid": "word1900-669",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 669,
+    "globalId": 3769,
+    "word": "trap",
+    "meaning": "わな；苦境"
+  },
+  {
+    "uid": "word1900-670",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 670,
+    "globalId": 3770,
+    "word": "trick",
+    "meaning": "こつ；策略；いたずら；芸当"
+  },
+  {
+    "uid": "word1900-671",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 671,
+    "globalId": 3771,
+    "word": "fault",
+    "meaning": "〔通例one’s ～〕責任；欠点；誤り"
+  },
+  {
+    "uid": "word1900-672",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 672,
+    "globalId": 3772,
+    "word": "discount",
+    "meaning": "割引"
+  },
+  {
+    "uid": "word1900-673",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 673,
+    "globalId": 3773,
+    "word": "bias",
+    "meaning": "偏見；傾向"
+  },
+  {
+    "uid": "word1900-674",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 674,
+    "globalId": 3774,
+    "word": "cooperation",
+    "meaning": "協力，共同"
+  },
+  {
+    "uid": "word1900-675",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 675,
+    "globalId": 3775,
+    "word": "patent",
+    "meaning": "特許（権）；特許品"
+  },
+  {
+    "uid": "word1900-676",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 676,
+    "globalId": 3776,
+    "word": "dialogue",
+    "meaning": "対話，会話；意見の交換"
+  },
+  {
+    "uid": "word1900-677",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 677,
+    "globalId": 3777,
+    "word": "component",
+    "meaning": "構成要素；部品"
+  },
+  {
+    "uid": "word1900-678",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 678,
+    "globalId": 3778,
+    "word": "reputation",
+    "meaning": "評判；名声"
+  },
+  {
+    "uid": "word1900-679",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 679,
+    "globalId": 3779,
+    "word": "verbal",
+    "meaning": "言葉の；口頭での；動詞の"
+  },
+  {
+    "uid": "word1900-680",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 680,
+    "globalId": 3780,
+    "word": "internal",
+    "meaning": "内部の；国内の；内面的な"
+  },
+  {
+    "uid": "word1900-681",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 681,
+    "globalId": 3781,
+    "word": "solid",
+    "meaning": "しっかりした；硬い；固体の"
+  },
+  {
+    "uid": "word1900-682",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 682,
+    "globalId": 3782,
+    "word": "remote",
+    "meaning": "（～から）遠く離れた（from）；かけ離れた"
+  },
+  {
+    "uid": "word1900-683",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 683,
+    "globalId": 3783,
+    "word": "principal",
+    "meaning": "主要な；資本金の"
+  },
+  {
+    "uid": "word1900-684",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 684,
+    "globalId": 3784,
+    "word": "sophisticated",
+    "meaning": "高性能の，精巧な；洗練された"
+  },
+  {
+    "uid": "word1900-685",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 685,
+    "globalId": 3785,
+    "word": "equivalent",
+    "meaning": "等しい，相当する"
+  },
+  {
+    "uid": "word1900-686",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 686,
+    "globalId": 3786,
+    "word": "rational",
+    "meaning": "理性的な；合理的な"
+  },
+  {
+    "uid": "word1900-687",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 687,
+    "globalId": 3787,
+    "word": "relevant",
+    "meaning": "関係がある；適切な"
+  },
+  {
+    "uid": "word1900-688",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 688,
+    "globalId": 3788,
+    "word": "absolute",
+    "meaning": "絶対的な"
+  },
+  {
+    "uid": "word1900-689",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 689,
+    "globalId": 3789,
+    "word": "frequent",
+    "meaning": "頻繁な"
+  },
+  {
+    "uid": "word1900-690",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 690,
+    "globalId": 3790,
+    "word": "permanent",
+    "meaning": "永続的な"
+  },
+  {
+    "uid": "word1900-691",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 691,
+    "globalId": 3791,
+    "word": "intense",
+    "meaning": "強烈な；熱烈な"
+  },
+  {
+    "uid": "word1900-692",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 692,
+    "globalId": 3792,
+    "word": "meaningful",
+    "meaning": "意味のある"
+  },
+  {
+    "uid": "word1900-693",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 693,
+    "globalId": 3793,
+    "word": "evil",
+    "meaning": "邪悪な；有害な"
+  },
+  {
+    "uid": "word1900-694",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 694,
+    "globalId": 3794,
+    "word": "extinct",
+    "meaning": "絶滅した；廃止された"
+  },
+  {
+    "uid": "word1900-695",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 695,
+    "globalId": 3795,
+    "word": "random",
+    "meaning": "無作為の；手当たり次第の"
+  },
+  {
+    "uid": "word1900-696",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 696,
+    "globalId": 3796,
+    "word": "raw",
+    "meaning": "生の；未加工の"
+  },
+  {
+    "uid": "word1900-697",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 697,
+    "globalId": 3797,
+    "word": "rude",
+    "meaning": "無礼な；粗野な"
+  },
+  {
+    "uid": "word1900-698",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 698,
+    "globalId": 3798,
+    "word": "mere",
+    "meaning": "単なる，ほんの"
+  },
+  {
+    "uid": "word1900-699",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 699,
+    "globalId": 3799,
+    "word": "tropical",
+    "meaning": "熱帯の"
+  },
+  {
+    "uid": "word1900-700",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 700,
+    "globalId": 3800,
+    "word": "forth",
+    "meaning": "前へ，先へ；それ以降"
+  },
+  {
+    "uid": "word1900-701",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 701,
+    "globalId": 3801,
+    "word": "possess",
+    "meaning": "を所有している；の心をとらえる"
+  },
+  {
+    "uid": "word1900-702",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 702,
+    "globalId": 3802,
+    "word": "dominate",
+    "meaning": "を支配する；（～より）優勢である（over）"
+  },
+  {
+    "uid": "word1900-703",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 703,
+    "globalId": 3803,
+    "word": "guarantee",
+    "meaning": "を保証する"
+  },
+  {
+    "uid": "word1900-704",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 704,
+    "globalId": 3804,
+    "word": "melt",
+    "meaning": "溶ける；なごむ；を溶かす"
+  },
+  {
+    "uid": "word1900-705",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 705,
+    "globalId": 3805,
+    "word": "embarrass",
+    "meaning": "に恥ずかしい思いをさせる"
+  },
+  {
+    "uid": "word1900-706",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 706,
+    "globalId": 3806,
+    "word": "discourage",
+    "meaning": "（人）にやる気をなくさせる；を落胆させる"
+  },
+  {
+    "uid": "word1900-707",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 707,
+    "globalId": 3807,
+    "word": "detect",
+    "meaning": "を感知する；を見つけ出す；に気づく"
+  },
+  {
+    "uid": "word1900-708",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 708,
+    "globalId": 3808,
+    "word": "devote",
+    "meaning": "をささげる"
+  },
+  {
+    "uid": "word1900-709",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 709,
+    "globalId": 3809,
+    "word": "urge",
+    "meaning": "に（強く）促す；を強く主張する；を駆り立てる"
+  },
+  {
+    "uid": "word1900-710",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 710,
+    "globalId": 3810,
+    "word": "lend",
+    "meaning": "を貸す；（人）に（助言・援助など）を与える"
+  },
+  {
+    "uid": "word1900-711",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 711,
+    "globalId": 3811,
+    "word": "restrict",
+    "meaning": "を制限する"
+  },
+  {
+    "uid": "word1900-712",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 712,
+    "globalId": 3812,
+    "word": "isolate",
+    "meaning": "を孤立させる"
+  },
+  {
+    "uid": "word1900-713",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 713,
+    "globalId": 3813,
+    "word": "accompany",
+    "meaning": "に同行する；に付随する"
+  },
+  {
+    "uid": "word1900-714",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 714,
+    "globalId": 3814,
+    "word": "exhaust",
+    "meaning": "を疲れ果てさせる；を使い尽くす；排気する"
+  },
+  {
+    "uid": "word1900-715",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 715,
+    "globalId": 3815,
+    "word": "annoy",
+    "meaning": "を悩ます；〔受身形で〕腹が立つ"
+  },
+  {
+    "uid": "word1900-716",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 716,
+    "globalId": 3816,
+    "word": "endanger",
+    "meaning": "を危険にさらす"
+  },
+  {
+    "uid": "word1900-717",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 717,
+    "globalId": 3817,
+    "word": "acknowledge",
+    "meaning": "（事実など）を認める；に謝意を表す"
+  },
+  {
+    "uid": "word1900-718",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 718,
+    "globalId": 3818,
+    "word": "admire",
+    "meaning": "に（～のことで）敬服［感心］する（for）"
+  },
+  {
+    "uid": "word1900-719",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 719,
+    "globalId": 3819,
+    "word": "evaluate",
+    "meaning": "を評価する；を査定する"
+  },
+  {
+    "uid": "word1900-720",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 720,
+    "globalId": 3820,
+    "word": "declare",
+    "meaning": "を宣言する；を申告する"
+  },
+  {
+    "uid": "word1900-721",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 721,
+    "globalId": 3821,
+    "word": "secure",
+    "meaning": "を確保する；を守る"
+  },
+  {
+    "uid": "word1900-722",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 722,
+    "globalId": 3822,
+    "word": "specialize",
+    "meaning": "専門とする；【英】（～を）専攻する（in）"
+  },
+  {
+    "uid": "word1900-723",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 723,
+    "globalId": 3823,
+    "word": "attribute",
+    "meaning": "（結果など）を（～に）帰する（to）"
+  },
+  {
+    "uid": "word1900-724",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 724,
+    "globalId": 3824,
+    "word": "pretend",
+    "meaning": "（の）ふりをする"
+  },
+  {
+    "uid": "word1900-725",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 725,
+    "globalId": 3825,
+    "word": "bury",
+    "meaning": "を埋める；を埋葬する；を隠す"
+  },
+  {
+    "uid": "word1900-726",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 726,
+    "globalId": 3826,
+    "word": "reverse",
+    "meaning": "を逆転させる；を反対にする"
+  },
+  {
+    "uid": "word1900-727",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 727,
+    "globalId": 3827,
+    "word": "resist",
+    "meaning": "に抵抗する；〔通例否定文で〕を我慢する"
+  },
+  {
+    "uid": "word1900-728",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 728,
+    "globalId": 3828,
+    "word": "scare",
+    "meaning": "をおびえさせる；を脅す"
+  },
+  {
+    "uid": "word1900-729",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 729,
+    "globalId": 3829,
+    "word": "imitate",
+    "meaning": "をまねる；を模造する"
+  },
+  {
+    "uid": "word1900-730",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 730,
+    "globalId": 3830,
+    "word": "assist",
+    "meaning": "（を）援助する；を手伝う"
+  },
+  {
+    "uid": "word1900-731",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 731,
+    "globalId": 3831,
+    "word": "resemble",
+    "meaning": "に似ている"
+  },
+  {
+    "uid": "word1900-732",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 732,
+    "globalId": 3832,
+    "word": "retire",
+    "meaning": "（～から）引退する，退職する（from）；退く"
+  },
+  {
+    "uid": "word1900-733",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 733,
+    "globalId": 3833,
+    "word": "neglect",
+    "meaning": "をおろそかにする，怠る；を無視する"
+  },
+  {
+    "uid": "word1900-734",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 734,
+    "globalId": 3834,
+    "word": "collapse",
+    "meaning": "崩壊する；（人が）倒れる；を折り畳む"
+  },
+  {
+    "uid": "word1900-735",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 735,
+    "globalId": 3835,
+    "word": "reform",
+    "meaning": "を改革する；を改心させる"
+  },
+  {
+    "uid": "word1900-736",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 736,
+    "globalId": 3836,
+    "word": "protest",
+    "meaning": "（に）抗議する；を主張する"
+  },
+  {
+    "uid": "word1900-737",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 737,
+    "globalId": 3837,
+    "word": "owe",
+    "meaning": "に借りがある；のおかげである"
+  },
+  {
+    "uid": "word1900-738",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 738,
+    "globalId": 3838,
+    "word": "sustain",
+    "meaning": "を持続させる；を支える"
+  },
+  {
+    "uid": "word1900-739",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 739,
+    "globalId": 3839,
+    "word": "assign",
+    "meaning": "を割り当てる；を（～に）配属する（to）"
+  },
+  {
+    "uid": "word1900-740",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 740,
+    "globalId": 3840,
+    "word": "accomplish",
+    "meaning": "を成し遂げる"
+  },
+  {
+    "uid": "word1900-741",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 741,
+    "globalId": 3841,
+    "word": "wisdom",
+    "meaning": "知恵；賢明さ；学識"
+  },
+  {
+    "uid": "word1900-742",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 742,
+    "globalId": 3842,
+    "word": "literacy",
+    "meaning": "読み書きの能力；（特定分野の）知識"
+  },
+  {
+    "uid": "word1900-743",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 743,
+    "globalId": 3843,
+    "word": "heritage",
+    "meaning": "遺産"
+  },
+  {
+    "uid": "word1900-744",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 744,
+    "globalId": 3844,
+    "word": "mission",
+    "meaning": "使命；（外交）使節団；布教"
+  },
+  {
+    "uid": "word1900-745",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 745,
+    "globalId": 3845,
+    "word": "license",
+    "meaning": "免許（証）；許可"
+  },
+  {
+    "uid": "word1900-746",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 746,
+    "globalId": 3846,
+    "word": "elite",
+    "meaning": "〔通例the ～〕〔集合的に〕エリート"
+  },
+  {
+    "uid": "word1900-747",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 747,
+    "globalId": 3847,
+    "word": "layer",
+    "meaning": "層"
+  },
+  {
+    "uid": "word1900-748",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 748,
+    "globalId": 3848,
+    "word": "motor",
+    "meaning": "モーター；原動力"
+  },
+  {
+    "uid": "word1900-749",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 749,
+    "globalId": 3849,
+    "word": "protein",
+    "meaning": "たんぱく質"
+  },
+  {
+    "uid": "word1900-750",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 750,
+    "globalId": 3850,
+    "word": "profession",
+    "meaning": "職業；専門職；同業者仲間"
+  },
+  {
+    "uid": "word1900-751",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 751,
+    "globalId": 3851,
+    "word": "editor",
+    "meaning": "編集者；編集長"
+  },
+  {
+    "uid": "word1900-752",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 752,
+    "globalId": 3852,
+    "word": "agent",
+    "meaning": "仲介者，代理人；薬剤"
+  },
+  {
+    "uid": "word1900-753",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 753,
+    "globalId": 3853,
+    "word": "globe",
+    "meaning": "地球；世界；球"
+  },
+  {
+    "uid": "word1900-754",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 754,
+    "globalId": 3854,
+    "word": "haven",
+    "meaning": "避難所，保護区；港"
+  },
+  {
+    "uid": "word1900-755",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 755,
+    "globalId": 3855,
+    "word": "row",
+    "meaning": "列；（建物が並ぶ）通り"
+  },
+  {
+    "uid": "word1900-756",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 756,
+    "globalId": 3856,
+    "word": "sacrifice",
+    "meaning": "犠牲；いけにえ"
+  },
+  {
+    "uid": "word1900-757",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 757,
+    "globalId": 3857,
+    "word": "means",
+    "meaning": "〔単数・複数扱い〕手段；〔複数扱い〕資力，収入"
+  },
+  {
+    "uid": "word1900-758",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 758,
+    "globalId": 3858,
+    "word": "session",
+    "meaning": "集まり；（議会の）会期；（開会中の）議会"
+  },
+  {
+    "uid": "word1900-759",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 759,
+    "globalId": 3859,
+    "word": "league",
+    "meaning": "（競技）連盟；同盟"
+  },
+  {
+    "uid": "word1900-760",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 760,
+    "globalId": 3860,
+    "word": "contest",
+    "meaning": "コンテスト，競技（会）；争い"
+  },
+  {
+    "uid": "word1900-761",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 761,
+    "globalId": 3861,
+    "word": "guard",
+    "meaning": "警備員；警備隊；監視，警戒"
+  },
+  {
+    "uid": "word1900-762",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 762,
+    "globalId": 3862,
+    "word": "opponent",
+    "meaning": "（試合・論争などの）相手；反対者"
+  },
+  {
+    "uid": "word1900-763",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 763,
+    "globalId": 3863,
+    "word": "glance",
+    "meaning": "（～を）ちらっと見ること（at）"
+  },
+  {
+    "uid": "word1900-764",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 764,
+    "globalId": 3864,
+    "word": "divorce",
+    "meaning": "離婚；分離"
+  },
+  {
+    "uid": "word1900-765",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 765,
+    "globalId": 3865,
+    "word": "tissue",
+    "meaning": "（生物の）組織；ティッシュペーパー"
+  },
+  {
+    "uid": "word1900-766",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 766,
+    "globalId": 3866,
+    "word": "liquid",
+    "meaning": "液体"
+  },
+  {
+    "uid": "word1900-767",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 767,
+    "globalId": 3867,
+    "word": "inequality",
+    "meaning": "不平等；不公平な事柄"
+  },
+  {
+    "uid": "word1900-768",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 768,
+    "globalId": 3868,
+    "word": "prejudice",
+    "meaning": "（～に対する）偏見（against）"
+  },
+  {
+    "uid": "word1900-769",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 769,
+    "globalId": 3869,
+    "word": "justice",
+    "meaning": "公正，正義；司法"
+  },
+  {
+    "uid": "word1900-770",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 770,
+    "globalId": 3870,
+    "word": "guideline",
+    "meaning": "指針，ガイドライン；指導基準"
+  },
+  {
+    "uid": "word1900-771",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 771,
+    "globalId": 3871,
+    "word": "platform",
+    "meaning": "プラットフォーム；演壇；舞台"
+  },
+  {
+    "uid": "word1900-772",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 772,
+    "globalId": 3872,
+    "word": "sector",
+    "meaning": "（社会・経済などの）部門，セクター；（都市内の）地域"
+  },
+  {
+    "uid": "word1900-773",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 773,
+    "globalId": 3873,
+    "word": "channel",
+    "meaning": "チャンネル；伝達経路；海峡"
+  },
+  {
+    "uid": "word1900-774",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 774,
+    "globalId": 3874,
+    "word": "glacier",
+    "meaning": "氷河"
+  },
+  {
+    "uid": "word1900-775",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 775,
+    "globalId": 3875,
+    "word": "primate",
+    "meaning": "霊長目の動物"
+  },
+  {
+    "uid": "word1900-776",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 776,
+    "globalId": 3876,
+    "word": "usage",
+    "meaning": "（使）用法；語法；習慣"
+  },
+  {
+    "uid": "word1900-777",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 777,
+    "globalId": 3877,
+    "word": "fortune",
+    "meaning": "財産；幸運；運命"
+  },
+  {
+    "uid": "word1900-778",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 778,
+    "globalId": 3878,
+    "word": "correlation",
+    "meaning": "相互関係，相関（関係）"
+  },
+  {
+    "uid": "word1900-779",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 779,
+    "globalId": 3879,
+    "word": "artistic",
+    "meaning": "芸術的な"
+  },
+  {
+    "uid": "word1900-780",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 780,
+    "globalId": 3880,
+    "word": "literary",
+    "meaning": "文学の；文語の"
+  },
+  {
+    "uid": "word1900-781",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 781,
+    "globalId": 3881,
+    "word": "classic",
+    "meaning": "第一級の；典型的な；定番の"
+  },
+  {
+    "uid": "word1900-782",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 782,
+    "globalId": 3882,
+    "word": "liberal",
+    "meaning": "自由主義の；寛大な；一般教養の"
+  },
+  {
+    "uid": "word1900-783",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 783,
+    "globalId": 3883,
+    "word": "concrete",
+    "meaning": "具体的な；有形の"
+  },
+  {
+    "uid": "word1900-784",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 784,
+    "globalId": 3884,
+    "word": "slight",
+    "meaning": "わずかな；取るに足らない"
+  },
+  {
+    "uid": "word1900-785",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 785,
+    "globalId": 3885,
+    "word": "federal",
+    "meaning": "連邦（政府）の"
+  },
+  {
+    "uid": "word1900-786",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 786,
+    "globalId": 3886,
+    "word": "primitive",
+    "meaning": "原始的な；未開の"
+  },
+  {
+    "uid": "word1900-787",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 787,
+    "globalId": 3887,
+    "word": "unfamiliar",
+    "meaning": "（～に）不慣れな（with）；（～に）（よく）知られていない（to）"
+  },
+  {
+    "uid": "word1900-788",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 788,
+    "globalId": 3888,
+    "word": "subtle",
+    "meaning": "微妙な；（気体などが）希薄な"
+  },
+  {
+    "uid": "word1900-789",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 789,
+    "globalId": 3889,
+    "word": "plain",
+    "meaning": "明らかな；平易な；飾りのない；率直な"
+  },
+  {
+    "uid": "word1900-790",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 790,
+    "globalId": 3890,
+    "word": "marine",
+    "meaning": "海の；船舶の"
+  },
+  {
+    "uid": "word1900-791",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 791,
+    "globalId": 3891,
+    "word": "apparent",
+    "meaning": "明白な；一見～らしい"
+  },
+  {
+    "uid": "word1900-792",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 792,
+    "globalId": 3892,
+    "word": "reluctant",
+    "meaning": "気が進まない，嫌がる"
+  },
+  {
+    "uid": "word1900-793",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 793,
+    "globalId": 3893,
+    "word": "temporary",
+    "meaning": "一時的な"
+  },
+  {
+    "uid": "word1900-794",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 794,
+    "globalId": 3894,
+    "word": "guilty",
+    "meaning": "罪悪感のある；（～について）有罪の（of）"
+  },
+  {
+    "uid": "word1900-795",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 795,
+    "globalId": 3895,
+    "word": "royal",
+    "meaning": "王の"
+  },
+  {
+    "uid": "word1900-796",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 796,
+    "globalId": 3896,
+    "word": "pure",
+    "meaning": "純粋な；潔白な；まったくの"
+  },
+  {
+    "uid": "word1900-797",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 797,
+    "globalId": 3897,
+    "word": "incredible",
+    "meaning": "信じられない；すばらしい"
+  },
+  {
+    "uid": "word1900-798",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 798,
+    "globalId": 3898,
+    "word": "eager",
+    "meaning": "（～を）熱望して（for）；熱心な"
+  },
+  {
+    "uid": "word1900-799",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 799,
+    "globalId": 3899,
+    "word": "adequate",
+    "meaning": "十分な；適切な"
+  },
+  {
+    "uid": "word1900-800",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 800,
+    "globalId": 3900,
+    "word": "via",
+    "meaning": "～経由で；～の媒介で"
+  },
+  {
+    "uid": "word1900-801",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 801,
+    "globalId": 3901,
+    "word": "assess",
+    "meaning": "を評価する；を査定する"
+  },
+  {
+    "uid": "word1900-802",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 802,
+    "globalId": 3902,
+    "word": "approve",
+    "meaning": "賛成する；を承認する"
+  },
+  {
+    "uid": "word1900-803",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 803,
+    "globalId": 3903,
+    "word": "remark",
+    "meaning": "と述べる；（～について）意見を述べる（on / upon）"
+  },
+  {
+    "uid": "word1900-804",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 804,
+    "globalId": 3904,
+    "word": "pose",
+    "meaning": "（危険）を引き起こす；（問題など）を提起する；ポーズをとる；（～を）装う（as）"
+  },
+  {
+    "uid": "word1900-805",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 805,
+    "globalId": 3905,
+    "word": "yield",
+    "meaning": "をもたらす；を（～に）譲る（to）；（～に）屈する（to）"
+  },
+  {
+    "uid": "word1900-806",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 806,
+    "globalId": 3906,
+    "word": "exhibit",
+    "meaning": "を示す，見せる；を展示する"
+  },
+  {
+    "uid": "word1900-807",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 807,
+    "globalId": 3907,
+    "word": "distribute",
+    "meaning": "を（～に）分配する（to）；〔受身形で〕分布する"
+  },
+  {
+    "uid": "word1900-808",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 808,
+    "globalId": 3908,
+    "word": "command",
+    "meaning": "を命じる；を指揮する；（景色）を見渡せる"
+  },
+  {
+    "uid": "word1900-809",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 809,
+    "globalId": 3909,
+    "word": "occupy",
+    "meaning": "（空間・時間）を占める；を占領する"
+  },
+  {
+    "uid": "word1900-810",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 810,
+    "globalId": 3910,
+    "word": "pop",
+    "meaning": "ひょいと動く；不意に現れる；ポンとはじける"
+  },
+  {
+    "uid": "word1900-811",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 811,
+    "globalId": 3911,
+    "word": "pile",
+    "meaning": "を積み重ねる；積み重なる"
+  },
+  {
+    "uid": "word1900-812",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 812,
+    "globalId": 3912,
+    "word": "greet",
+    "meaning": "に挨拶する；を迎える"
+  },
+  {
+    "uid": "word1900-813",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 813,
+    "globalId": 3913,
+    "word": "apologize",
+    "meaning": "（～に；～のことで）謝る（to；for）；弁明する"
+  },
+  {
+    "uid": "word1900-814",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 814,
+    "globalId": 3914,
+    "word": "frustrate",
+    "meaning": "をいら立たせる；（計画・希望など）を挫折させる"
+  },
+  {
+    "uid": "word1900-815",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 815,
+    "globalId": 3915,
+    "word": "relieve",
+    "meaning": "を和らげる；〔受身形で〕（…して）安心する（to do）；を解放する"
+  },
+  {
+    "uid": "word1900-816",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 816,
+    "globalId": 3916,
+    "word": "derive",
+    "meaning": "由来する；を引き出す；を推論する"
+  },
+  {
+    "uid": "word1900-817",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 817,
+    "globalId": 3917,
+    "word": "deserve",
+    "meaning": "に値する"
+  },
+  {
+    "uid": "word1900-818",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 818,
+    "globalId": 3918,
+    "word": "peer",
+    "meaning": "（～を）じっと見る（at / into）"
+  },
+  {
+    "uid": "word1900-819",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 819,
+    "globalId": 3919,
+    "word": "defeat",
+    "meaning": "を負かす；を失敗させる"
+  },
+  {
+    "uid": "word1900-820",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 820,
+    "globalId": 3920,
+    "word": "convert",
+    "meaning": "を変える；を改宗［転向］させる；を交換する"
+  },
+  {
+    "uid": "word1900-821",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 821,
+    "globalId": 3921,
+    "word": "wed",
+    "meaning": "と結婚する；を（～と）結婚させる（to）"
+  },
+  {
+    "uid": "word1900-822",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 822,
+    "globalId": 3922,
+    "word": "delight",
+    "meaning": "を喜ばせる；（～を）大いに喜ぶ（in）"
+  },
+  {
+    "uid": "word1900-823",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 823,
+    "globalId": 3923,
+    "word": "boost",
+    "meaning": "を押し上げる；を増加させる"
+  },
+  {
+    "uid": "word1900-824",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 824,
+    "globalId": 3924,
+    "word": "endure",
+    "meaning": "に耐える；（に）持ちこたえる"
+  },
+  {
+    "uid": "word1900-825",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 825,
+    "globalId": 3925,
+    "word": "correspond",
+    "meaning": "一致する；（～に）相当する（to）；文通する"
+  },
+  {
+    "uid": "word1900-826",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 826,
+    "globalId": 3926,
+    "word": "impose",
+    "meaning": "を課す；を押しつける"
+  },
+  {
+    "uid": "word1900-827",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 827,
+    "globalId": 3927,
+    "word": "rescue",
+    "meaning": "を救う"
+  },
+  {
+    "uid": "word1900-828",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 828,
+    "globalId": 3928,
+    "word": "resolve",
+    "meaning": "を解決する；を決意する；を議決する"
+  },
+  {
+    "uid": "word1900-829",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 829,
+    "globalId": 3929,
+    "word": "register",
+    "meaning": "を記録する，登録する；（～に）登録する（for）"
+  },
+  {
+    "uid": "word1900-830",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 830,
+    "globalId": 3930,
+    "word": "interrupt",
+    "meaning": "を中断させる；（の）邪魔をする"
+  },
+  {
+    "uid": "word1900-831",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 831,
+    "globalId": 3931,
+    "word": "rid",
+    "meaning": "から（～を）取り除く，除去する（of）"
+  },
+  {
+    "uid": "word1900-832",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 832,
+    "globalId": 3932,
+    "word": "prohibit",
+    "meaning": "を禁止する"
+  },
+  {
+    "uid": "word1900-833",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 833,
+    "globalId": 3933,
+    "word": "compose",
+    "meaning": "を構成する；を創作する；を鎮静する"
+  },
+  {
+    "uid": "word1900-834",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 834,
+    "globalId": 3934,
+    "word": "misunderstand",
+    "meaning": "（を）誤解する"
+  },
+  {
+    "uid": "word1900-835",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 835,
+    "globalId": 3935,
+    "word": "punish",
+    "meaning": "を罰する；に損傷を与える"
+  },
+  {
+    "uid": "word1900-836",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 836,
+    "globalId": 3936,
+    "word": "ruin",
+    "meaning": "をだめにする；を破滅させる；破滅する"
+  },
+  {
+    "uid": "word1900-837",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 837,
+    "globalId": 3937,
+    "word": "defend",
+    "meaning": "を防御する；を弁護する"
+  },
+  {
+    "uid": "word1900-838",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 838,
+    "globalId": 3938,
+    "word": "embrace",
+    "meaning": "を受け入れる；（を）抱擁する；を包含する"
+  },
+  {
+    "uid": "word1900-839",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 839,
+    "globalId": 3939,
+    "word": "modify",
+    "meaning": "を修正する；を緩和する"
+  },
+  {
+    "uid": "word1900-840",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 840,
+    "globalId": 3940,
+    "word": "qualify",
+    "meaning": "（人）に資格を与える；資格がある"
+  },
+  {
+    "uid": "word1900-841",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 841,
+    "globalId": 3941,
+    "word": "passion",
+    "meaning": "情熱；熱中；激怒"
+  },
+  {
+    "uid": "word1900-842",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 842,
+    "globalId": 3942,
+    "word": "enthusiasm",
+    "meaning": "（～への）熱情，熱意（for）"
+  },
+  {
+    "uid": "word1900-843",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 843,
+    "globalId": 3943,
+    "word": "phase",
+    "meaning": "段階，局面；側面"
+  },
+  {
+    "uid": "word1900-844",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 844,
+    "globalId": 3944,
+    "word": "mode",
+    "meaning": "方式；気分；形態；流行"
+  },
+  {
+    "uid": "word1900-845",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 845,
+    "globalId": 3945,
+    "word": "span",
+    "meaning": "期間；範囲"
+  },
+  {
+    "uid": "word1900-846",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 846,
+    "globalId": 3946,
+    "word": "gravity",
+    "meaning": "重力，引力；重量；重大さ"
+  },
+  {
+    "uid": "word1900-847",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 847,
+    "globalId": 3947,
+    "word": "orbit",
+    "meaning": "軌道；（活動・勢力などの）範囲"
+  },
+  {
+    "uid": "word1900-848",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 848,
+    "globalId": 3948,
+    "word": "asteroid",
+    "meaning": "小惑星；ヒトデ"
+  },
+  {
+    "uid": "word1900-849",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 849,
+    "globalId": 3949,
+    "word": "core",
+    "meaning": "核心；芯"
+  },
+  {
+    "uid": "word1900-850",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 850,
+    "globalId": 3950,
+    "word": "soul",
+    "meaning": "精神；魂，霊魂；生気"
+  },
+  {
+    "uid": "word1900-851",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 851,
+    "globalId": 3951,
+    "word": "nerve",
+    "meaning": "神経；〔～s〕神経過敏；（…する）度胸（to do）"
+  },
+  {
+    "uid": "word1900-852",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 852,
+    "globalId": 3952,
+    "word": "infection",
+    "meaning": "感染（症）"
+  },
+  {
+    "uid": "word1900-853",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 853,
+    "globalId": 3953,
+    "word": "mall",
+    "meaning": "【主に米】 モール，ショッピングセンター"
+  },
+  {
+    "uid": "word1900-854",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 854,
+    "globalId": 3954,
+    "word": "grocery",
+    "meaning": "〔～ies〕食料雑貨；食料雑貨店"
+  },
+  {
+    "uid": "word1900-855",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 855,
+    "globalId": 3955,
+    "word": "humor",
+    "meaning": "ユーモア；気分，機嫌；気質"
+  },
+  {
+    "uid": "word1900-856",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 856,
+    "globalId": 3956,
+    "word": "instinct",
+    "meaning": "本能；勘，直感；（自然に起こる）衝動"
+  },
+  {
+    "uid": "word1900-857",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 857,
+    "globalId": 3957,
+    "word": "faith",
+    "meaning": "（～への）信頼（in）；信仰（心）"
+  },
+  {
+    "uid": "word1900-858",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 858,
+    "globalId": 3958,
+    "word": "courage",
+    "meaning": "勇気"
+  },
+  {
+    "uid": "word1900-859",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 859,
+    "globalId": 3959,
+    "word": "incentive",
+    "meaning": "動機（づけ）；報奨金"
+  },
+  {
+    "uid": "word1900-860",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 860,
+    "globalId": 3960,
+    "word": "prospect",
+    "meaning": "見込み；〔～s〕（未来への）展望；有望な人"
+  },
+  {
+    "uid": "word1900-861",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 861,
+    "globalId": 3961,
+    "word": "obstacle",
+    "meaning": "（～に対する）障害（物）（to）"
+  },
+  {
+    "uid": "word1900-862",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 862,
+    "globalId": 3962,
+    "word": "architecture",
+    "meaning": "建築；建築様式；構造"
+  },
+  {
+    "uid": "word1900-863",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 863,
+    "globalId": 3963,
+    "word": "stem",
+    "meaning": "（草木の）茎，幹"
+  },
+  {
+    "uid": "word1900-864",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 864,
+    "globalId": 3964,
+    "word": "illusion",
+    "meaning": "錯覚，思い違い；幻想"
+  },
+  {
+    "uid": "word1900-865",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 865,
+    "globalId": 3965,
+    "word": "discrimination",
+    "meaning": "（～に対する）差別（against）；区別"
+  },
+  {
+    "uid": "word1900-866",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 866,
+    "globalId": 3966,
+    "word": "shame",
+    "meaning": "恥；残念なこと"
+  },
+  {
+    "uid": "word1900-867",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 867,
+    "globalId": 3967,
+    "word": "drought",
+    "meaning": "干ばつ；（慢性的な）不足"
+  },
+  {
+    "uid": "word1900-868",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 868,
+    "globalId": 3968,
+    "word": "flavor",
+    "meaning": "風味；特色"
+  },
+  {
+    "uid": "word1900-869",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 869,
+    "globalId": 3969,
+    "word": "portion",
+    "meaning": "部分；1人前；割り当て"
+  },
+  {
+    "uid": "word1900-870",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 870,
+    "globalId": 3970,
+    "word": "recipe",
+    "meaning": "調理法，レシピ；手順；秘訣"
+  },
+  {
+    "uid": "word1900-871",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 871,
+    "globalId": 3971,
+    "word": "luxury",
+    "meaning": "ぜいたく（品）；〔形容詞的に〕豪華な"
+  },
+  {
+    "uid": "word1900-872",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 872,
+    "globalId": 3972,
+    "word": "chip",
+    "meaning": "小片，破片；欠けた箇所；集積回路"
+  },
+  {
+    "uid": "word1900-873",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 873,
+    "globalId": 3973,
+    "word": "ritual",
+    "meaning": "儀式；（日常の）習慣的行為"
+  },
+  {
+    "uid": "word1900-874",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 874,
+    "globalId": 3974,
+    "word": "sake",
+    "meaning": "〔for the ～ ofで〕のために，の目的で；に免じて"
+  },
+  {
+    "uid": "word1900-875",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 875,
+    "globalId": 3975,
+    "word": "prefecture",
+    "meaning": "（日本の）県，府；（フランスなどの）県"
+  },
+  {
+    "uid": "word1900-876",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 876,
+    "globalId": 3976,
+    "word": "council",
+    "meaning": "（地方）議会；評議会；（公の）会議"
+  },
+  {
+    "uid": "word1900-877",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 877,
+    "globalId": 3977,
+    "word": "administration",
+    "meaning": "管理（部）；行政；政府（機関）"
+  },
+  {
+    "uid": "word1900-878",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 878,
+    "globalId": 3978,
+    "word": "curriculum",
+    "meaning": "教育課程，カリキュラム"
+  },
+  {
+    "uid": "word1900-879",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 879,
+    "globalId": 3979,
+    "word": "precious",
+    "meaning": "貴重な；高価な"
+  },
+  {
+    "uid": "word1900-880",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 880,
+    "globalId": 3980,
+    "word": "generous",
+    "meaning": "寛大な；気前のよい；豊富な"
+  },
+  {
+    "uid": "word1900-881",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 881,
+    "globalId": 3981,
+    "word": "casual",
+    "meaning": "何気ない；形式ばらない"
+  },
+  {
+    "uid": "word1900-882",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 882,
+    "globalId": 3982,
+    "word": "optimistic",
+    "meaning": "楽観的な"
+  },
+  {
+    "uid": "word1900-883",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 883,
+    "globalId": 3983,
+    "word": "rough",
+    "meaning": "粗い；大まかな；乱暴な"
+  },
+  {
+    "uid": "word1900-884",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 884,
+    "globalId": 3984,
+    "word": "unpleasant",
+    "meaning": "不愉快な；不親切な，無礼な"
+  },
+  {
+    "uid": "word1900-885",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 885,
+    "globalId": 3985,
+    "word": "Arctic",
+    "meaning": "北極の"
+  },
+  {
+    "uid": "word1900-886",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 886,
+    "globalId": 3986,
+    "word": "ultimate",
+    "meaning": "究極の"
+  },
+  {
+    "uid": "word1900-887",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 887,
+    "globalId": 3987,
+    "word": "deaf",
+    "meaning": "耳が聞こえない"
+  },
+  {
+    "uid": "word1900-888",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 888,
+    "globalId": 3988,
+    "word": "genuine",
+    "meaning": "本物の；偽りのない"
+  },
+  {
+    "uid": "word1900-889",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 889,
+    "globalId": 3989,
+    "word": "manual",
+    "meaning": "体［手］を使う；手の；手動式の"
+  },
+  {
+    "uid": "word1900-890",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 890,
+    "globalId": 3990,
+    "word": "mechanical",
+    "meaning": "機械の；機械的な"
+  },
+  {
+    "uid": "word1900-891",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 891,
+    "globalId": 3991,
+    "word": "instant",
+    "meaning": "即時の，すぐの；即席の"
+  },
+  {
+    "uid": "word1900-892",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 892,
+    "globalId": 3992,
+    "word": "spare",
+    "meaning": "余分の，予備の"
+  },
+  {
+    "uid": "word1900-893",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 893,
+    "globalId": 3993,
+    "word": "immune",
+    "meaning": "（～に対して）免疫を持つ（to）；（～を）免れた（from）"
+  },
+  {
+    "uid": "word1900-894",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 894,
+    "globalId": 3994,
+    "word": "harsh",
+    "meaning": "厳しい；（光・色・味などが）不快な"
+  },
+  {
+    "uid": "word1900-895",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 895,
+    "globalId": 3995,
+    "word": "collective",
+    "meaning": "集団の，共同の"
+  },
+  {
+    "uid": "word1900-896",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 896,
+    "globalId": 3996,
+    "word": "inevitable",
+    "meaning": "避けられない"
+  },
+  {
+    "uid": "word1900-897",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 897,
+    "globalId": 3997,
+    "word": "profound",
+    "meaning": "重大な；深い；難解な"
+  },
+  {
+    "uid": "word1900-898",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 898,
+    "globalId": 3998,
+    "word": "steady",
+    "meaning": "着実な，一定の；安定した"
+  },
+  {
+    "uid": "word1900-899",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 899,
+    "globalId": 3999,
+    "word": "mature",
+    "meaning": "成熟した；熟した"
+  },
+  {
+    "uid": "word1900-900",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 900,
+    "globalId": 4000,
+    "word": "likewise",
+    "meaning": "同様に"
+  },
+  {
+    "uid": "word1900-901",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 901,
+    "globalId": 4001,
+    "word": "chase",
+    "meaning": "（を）追跡する；（を）追求する"
+  },
+  {
+    "uid": "word1900-902",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 902,
+    "globalId": 4002,
+    "word": "sue",
+    "meaning": "を告訴する；（～を求めて）訴訟を起こす（for）"
+  },
+  {
+    "uid": "word1900-903",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 903,
+    "globalId": 4003,
+    "word": "gaze",
+    "meaning": "じっと見る"
+  },
+  {
+    "uid": "word1900-904",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 904,
+    "globalId": 4004,
+    "word": "slip",
+    "meaning": "滑る；滑り落ちる；そっと動く"
+  },
+  {
+    "uid": "word1900-905",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 905,
+    "globalId": 4005,
+    "word": "load",
+    "meaning": "に積む；に負わせる"
+  },
+  {
+    "uid": "word1900-906",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 906,
+    "globalId": 4006,
+    "word": "overwhelm",
+    "meaning": "を圧倒する；を（精神的に）打ちのめす"
+  },
+  {
+    "uid": "word1900-907",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 907,
+    "globalId": 4007,
+    "word": "wander",
+    "meaning": "歩き回る；それる；はぐれる"
+  },
+  {
+    "uid": "word1900-908",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 908,
+    "globalId": 4008,
+    "word": "float",
+    "meaning": "漂う，浮かぶ；を浮かべる"
+  },
+  {
+    "uid": "word1900-909",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 909,
+    "globalId": 4009,
+    "word": "pour",
+    "meaning": "を注ぐ；激しく降る；押し寄せる"
+  },
+  {
+    "uid": "word1900-910",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 910,
+    "globalId": 4010,
+    "word": "substitute",
+    "meaning": "を代わりに使う；（～の）代理をする（for）"
+  },
+  {
+    "uid": "word1900-911",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 911,
+    "globalId": 4011,
+    "word": "pronounce",
+    "meaning": "を発音する；を宣言する"
+  },
+  {
+    "uid": "word1900-912",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 912,
+    "globalId": 4012,
+    "word": "shrink",
+    "meaning": "縮む，縮小する；減少する；ひるむ"
+  },
+  {
+    "uid": "word1900-913",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 913,
+    "globalId": 4013,
+    "word": "restore",
+    "meaning": "を回復させる；を修復する"
+  },
+  {
+    "uid": "word1900-914",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 914,
+    "globalId": 4014,
+    "word": "trigger",
+    "meaning": "を引き起こす；のきっかけとなる"
+  },
+  {
+    "uid": "word1900-915",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 915,
+    "globalId": 4015,
+    "word": "grab",
+    "meaning": "をつかむ；を横取りする；を急いで食べる"
+  },
+  {
+    "uid": "word1900-916",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 916,
+    "globalId": 4016,
+    "word": "retain",
+    "meaning": "を保持する；を覚えている"
+  },
+  {
+    "uid": "word1900-917",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 917,
+    "globalId": 4017,
+    "word": "reproduce",
+    "meaning": "を複製する；を繁殖させる；繁殖する"
+  },
+  {
+    "uid": "word1900-918",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 918,
+    "globalId": 4018,
+    "word": "bob",
+    "meaning": "上下に動く；急に動く；を上下に動かす"
+  },
+  {
+    "uid": "word1900-919",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 919,
+    "globalId": 4019,
+    "word": "entertain",
+    "meaning": "を楽しませる；をもてなす"
+  },
+  {
+    "uid": "word1900-920",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 920,
+    "globalId": 4020,
+    "word": "interfere",
+    "meaning": "干渉する，介入する；邪魔する"
+  },
+  {
+    "uid": "word1900-921",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 921,
+    "globalId": 4021,
+    "word": "cultivate",
+    "meaning": "を養う；を耕す；を栽培する"
+  },
+  {
+    "uid": "word1900-922",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 922,
+    "globalId": 4022,
+    "word": "underlie",
+    "meaning": "の根底にある"
+  },
+  {
+    "uid": "word1900-923",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 923,
+    "globalId": 4023,
+    "word": "anticipate",
+    "meaning": "を予期する；楽しみに待つ"
+  },
+  {
+    "uid": "word1900-924",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 924,
+    "globalId": 4024,
+    "word": "justify",
+    "meaning": "を正当化する"
+  },
+  {
+    "uid": "word1900-925",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 925,
+    "globalId": 4025,
+    "word": "regulate",
+    "meaning": "を規制する；を調整する"
+  },
+  {
+    "uid": "word1900-926",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 926,
+    "globalId": 4026,
+    "word": "scan",
+    "meaning": "を走査［スキャン］する；をざっと見る；を注意深く調べる"
+  },
+  {
+    "uid": "word1900-927",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 927,
+    "globalId": 4027,
+    "word": "classify",
+    "meaning": "を分類する；を機密扱いにする"
+  },
+  {
+    "uid": "word1900-928",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 928,
+    "globalId": 4028,
+    "word": "submit",
+    "meaning": "を提出する；〔submit oneselfで〕（～に）従う（to）"
+  },
+  {
+    "uid": "word1900-929",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 929,
+    "globalId": 4029,
+    "word": "pause",
+    "meaning": "（一時的に）中止する；（一瞬）立ち止まる"
+  },
+  {
+    "uid": "word1900-930",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 930,
+    "globalId": 4030,
+    "word": "lean",
+    "meaning": "傾く；寄りかかる；をもたせかける"
+  },
+  {
+    "uid": "word1900-931",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 931,
+    "globalId": 4031,
+    "word": "bump",
+    "meaning": "ぶつかる；をぶつける"
+  },
+  {
+    "uid": "word1900-932",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 932,
+    "globalId": 4032,
+    "word": "fold",
+    "meaning": "を折り畳む；（両腕）を組む；（折り）畳める"
+  },
+  {
+    "uid": "word1900-933",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 933,
+    "globalId": 4033,
+    "word": "hesitate",
+    "meaning": "躊躇する，ためらう"
+  },
+  {
+    "uid": "word1900-934",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 934,
+    "globalId": 4034,
+    "word": "pump",
+    "meaning": "（液体・気体）をポンプで送り込む；をくみ出す；を注ぎ込む"
+  },
+  {
+    "uid": "word1900-935",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 935,
+    "globalId": 4035,
+    "word": "mount",
+    "meaning": "を据えつける；に着手する；（自転車など）に乗る；増える"
+  },
+  {
+    "uid": "word1900-936",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 936,
+    "globalId": 4036,
+    "word": "exceed",
+    "meaning": "を超える；に勝る"
+  },
+  {
+    "uid": "word1900-937",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 937,
+    "globalId": 4037,
+    "word": "undergo",
+    "meaning": "を経験する；（手術など）を受ける；に耐える"
+  },
+  {
+    "uid": "word1900-938",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 938,
+    "globalId": 4038,
+    "word": "confront",
+    "meaning": "に立ち向かう；（困難などが）に立ちはだかる"
+  },
+  {
+    "uid": "word1900-939",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 939,
+    "globalId": 4039,
+    "word": "consult",
+    "meaning": "（に）相談する；を参照する"
+  },
+  {
+    "uid": "word1900-940",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 940,
+    "globalId": 4040,
+    "word": "fulfill",
+    "meaning": "を実現させる；を果たす；を満たす"
+  },
+  {
+    "uid": "word1900-941",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 941,
+    "globalId": 4041,
+    "word": "privilege",
+    "meaning": "特権，特典"
+  },
+  {
+    "uid": "word1900-942",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 942,
+    "globalId": 4042,
+    "word": "formation",
+    "meaning": "形成；構成（物）；隊列"
+  },
+  {
+    "uid": "word1900-943",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 943,
+    "globalId": 4043,
+    "word": "dimension",
+    "meaning": "側面，局面；次元；寸法"
+  },
+  {
+    "uid": "word1900-944",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 944,
+    "globalId": 4044,
+    "word": "neuron",
+    "meaning": "ニューロン，神経単位"
+  },
+  {
+    "uid": "word1900-945",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 945,
+    "globalId": 4045,
+    "word": "sensation",
+    "meaning": "感覚；大評判"
+  },
+  {
+    "uid": "word1900-946",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 946,
+    "globalId": 4046,
+    "word": "chart",
+    "meaning": "図，グラフ；海図；ヒットチャート"
+  },
+  {
+    "uid": "word1900-947",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 947,
+    "globalId": 4047,
+    "word": "geography",
+    "meaning": "〔the ～〕地理；地理学"
+  },
+  {
+    "uid": "word1900-948",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 948,
+    "globalId": 4048,
+    "word": "panel",
+    "meaning": "（専門家の）一団；討論者一同；羽目板"
+  },
+  {
+    "uid": "word1900-949",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 949,
+    "globalId": 4049,
+    "word": "semester",
+    "meaning": "【主に米】（2学期制の）学期"
+  },
+  {
+    "uid": "word1900-950",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 950,
+    "globalId": 4050,
+    "word": "workforce",
+    "meaning": "労働人口，総労働力；全従業員（数）"
+  },
+  {
+    "uid": "word1900-951",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 951,
+    "globalId": 4051,
+    "word": "mill",
+    "meaning": "製造工場；製粉所；粉ひき機"
+  },
+  {
+    "uid": "word1900-952",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 952,
+    "globalId": 4052,
+    "word": "abuse",
+    "meaning": "乱用；虐待"
+  },
+  {
+    "uid": "word1900-953",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 953,
+    "globalId": 4053,
+    "word": "vice",
+    "meaning": "（道徳上の）悪；欠点"
+  },
+  {
+    "uid": "word1900-954",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 954,
+    "globalId": 4054,
+    "word": "fate",
+    "meaning": "運命；結末；最期"
+  },
+  {
+    "uid": "word1900-955",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 955,
+    "globalId": 4055,
+    "word": "tragedy",
+    "meaning": "悲劇（的な事態）"
+  },
+  {
+    "uid": "word1900-956",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 956,
+    "globalId": 4056,
+    "word": "scenario",
+    "meaning": "（予想される）筋書き，事態；脚本"
+  },
+  {
+    "uid": "word1900-957",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 957,
+    "globalId": 4057,
+    "word": "allergy",
+    "meaning": "アレルギー"
+  },
+  {
+    "uid": "word1900-958",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 958,
+    "globalId": 4058,
+    "word": "wound",
+    "meaning": "（銃弾・刃物などによる）傷；痛手"
+  },
+  {
+    "uid": "word1900-959",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 959,
+    "globalId": 4059,
+    "word": "antibiotic",
+    "meaning": "〔通例～s〕抗生物質"
+  },
+  {
+    "uid": "word1900-960",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 960,
+    "globalId": 4060,
+    "word": "vaccine",
+    "meaning": "ワクチン"
+  },
+  {
+    "uid": "word1900-961",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 961,
+    "globalId": 4061,
+    "word": "metaphor",
+    "meaning": "隠喩；比喩"
+  },
+  {
+    "uid": "word1900-962",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 962,
+    "globalId": 4062,
+    "word": "folk",
+    "meaning": "人々；〔～s〕皆さん；〔one’s ～s〕家族"
+  },
+  {
+    "uid": "word1900-963",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 963,
+    "globalId": 4063,
+    "word": "fare",
+    "meaning": "（乗り物の）料金"
+  },
+  {
+    "uid": "word1900-964",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 964,
+    "globalId": 4064,
+    "word": "transition",
+    "meaning": "移り変わり；過渡期"
+  },
+  {
+    "uid": "word1900-965",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 965,
+    "globalId": 4065,
+    "word": "maximum",
+    "meaning": "最大限"
+  },
+  {
+    "uid": "word1900-966",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 966,
+    "globalId": 4066,
+    "word": "galaxy",
+    "meaning": "星雲，銀河；〔the G～〕銀河系"
+  },
+  {
+    "uid": "word1900-967",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 967,
+    "globalId": 4067,
+    "word": "mineral",
+    "meaning": "鉱物；ミネラル"
+  },
+  {
+    "uid": "word1900-968",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 968,
+    "globalId": 4068,
+    "word": "skeleton",
+    "meaning": "骨格；骨組み；概略"
+  },
+  {
+    "uid": "word1900-969",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 969,
+    "globalId": 4069,
+    "word": "counterpart",
+    "meaning": "相当する物［人］"
+  },
+  {
+    "uid": "word1900-970",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 970,
+    "globalId": 4070,
+    "word": "stroke",
+    "meaning": "脳卒中；（ボールを）打つこと；（雷などの）一撃"
+  },
+  {
+    "uid": "word1900-971",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 971,
+    "globalId": 4071,
+    "word": "pedestrian",
+    "meaning": "歩行者"
+  },
+  {
+    "uid": "word1900-972",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 972,
+    "globalId": 4072,
+    "word": "trail",
+    "meaning": "（野山などの）小道；跡；手がかり"
+  },
+  {
+    "uid": "word1900-973",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 973,
+    "globalId": 4073,
+    "word": "ecology",
+    "meaning": "生態学；生態系；環境保護"
+  },
+  {
+    "uid": "word1900-974",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 974,
+    "globalId": 4074,
+    "word": "sibling",
+    "meaning": "きょうだい（の1人）"
+  },
+  {
+    "uid": "word1900-975",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 975,
+    "globalId": 4075,
+    "word": "ratio",
+    "meaning": "比率"
+  },
+  {
+    "uid": "word1900-976",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 976,
+    "globalId": 4076,
+    "word": "mixture",
+    "meaning": "混合（物）"
+  },
+  {
+    "uid": "word1900-977",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 977,
+    "globalId": 4077,
+    "word": "charm",
+    "meaning": "魅力；お守り"
+  },
+  {
+    "uid": "word1900-978",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 978,
+    "globalId": 4078,
+    "word": "ambition",
+    "meaning": "（～に対する）願望，野望（for）；野心"
+  },
+  {
+    "uid": "word1900-979",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 979,
+    "globalId": 4079,
+    "word": "prominent",
+    "meaning": "卓越した；目立つ"
+  },
+  {
+    "uid": "word1900-980",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 980,
+    "globalId": 4080,
+    "word": "radical",
+    "meaning": "急進的な；根本的な"
+  },
+  {
+    "uid": "word1900-981",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 981,
+    "globalId": 4081,
+    "word": "prompt",
+    "meaning": "即座の，迅速な"
+  },
+  {
+    "uid": "word1900-982",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 982,
+    "globalId": 4082,
+    "word": "informal",
+    "meaning": "形式ばらない，略式の；（言葉が）くだけた"
+  },
+  {
+    "uid": "word1900-983",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 983,
+    "globalId": 4083,
+    "word": "mutual",
+    "meaning": "相互の；共通の"
+  },
+  {
+    "uid": "word1900-984",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 984,
+    "globalId": 4084,
+    "word": "neutral",
+    "meaning": "中立の；（特徴・表情などが）はっきりしない"
+  },
+  {
+    "uid": "word1900-985",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 985,
+    "globalId": 4085,
+    "word": "alert",
+    "meaning": "警戒して；敏速な"
+  },
+  {
+    "uid": "word1900-986",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 986,
+    "globalId": 4086,
+    "word": "magnetic",
+    "meaning": "磁気の；磁石の；人を引きつける"
+  },
+  {
+    "uid": "word1900-987",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 987,
+    "globalId": 4087,
+    "word": "polar",
+    "meaning": "極地の；電極の"
+  },
+  {
+    "uid": "word1900-988",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 988,
+    "globalId": 4088,
+    "word": "fluent",
+    "meaning": "流ちょうな"
+  },
+  {
+    "uid": "word1900-989",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 989,
+    "globalId": 4089,
+    "word": "external",
+    "meaning": "外部の；対外的な"
+  },
+  {
+    "uid": "word1900-990",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 990,
+    "globalId": 4090,
+    "word": "passive",
+    "meaning": "受動的な；消極的な"
+  },
+  {
+    "uid": "word1900-991",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 991,
+    "globalId": 4091,
+    "word": "awful",
+    "meaning": "ひどい；嫌な；ものすごい"
+  },
+  {
+    "uid": "word1900-992",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 992,
+    "globalId": 4092,
+    "word": "unrelated",
+    "meaning": "無関係の；血縁関係がない"
+  },
+  {
+    "uid": "word1900-993",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 993,
+    "globalId": 4093,
+    "word": "cruel",
+    "meaning": "残酷な；むごい"
+  },
+  {
+    "uid": "word1900-994",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 994,
+    "globalId": 4094,
+    "word": "fake",
+    "meaning": "偽の；見せかけだけの"
+  },
+  {
+    "uid": "word1900-995",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 995,
+    "globalId": 4095,
+    "word": "vulnerable",
+    "meaning": "（攻撃などに）弱い，もろい；傷つきやすい"
+  },
+  {
+    "uid": "word1900-996",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 996,
+    "globalId": 4096,
+    "word": "urgent",
+    "meaning": "緊急の"
+  },
+  {
+    "uid": "word1900-997",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 997,
+    "globalId": 4097,
+    "word": "spiritual",
+    "meaning": "精神の；霊的な"
+  },
+  {
+    "uid": "word1900-998",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 998,
+    "globalId": 4098,
+    "word": "modest",
+    "meaning": "謙虚な；適度な；質素な"
+  },
+  {
+    "uid": "word1900-999",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 999,
+    "globalId": 4099,
+    "word": "keen",
+    "meaning": "熱心な；鋭敏な；（感情・関心などが）強い"
+  },
+  {
+    "uid": "word1900-1000",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1000,
+    "globalId": 4100,
+    "word": "nonetheless",
+    "meaning": "それにもかかわらず，それでもなお"
+  },
+  {
+    "uid": "word1900-1001",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1001,
+    "globalId": 4101,
+    "word": "negotiate",
+    "meaning": "交渉する；を（交渉して）取り決める"
+  },
+  {
+    "uid": "word1900-1002",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1002,
+    "globalId": 4102,
+    "word": "grasp",
+    "meaning": "を把握［理解］する；をしっかり握る"
+  },
+  {
+    "uid": "word1900-1003",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1003,
+    "globalId": 4103,
+    "word": "donate",
+    "meaning": "を寄付する；（臓器・血液）を提供する"
+  },
+  {
+    "uid": "word1900-1004",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1004,
+    "globalId": 4104,
+    "word": "arrest",
+    "meaning": "を逮捕する；を止める；（注意）を引く"
+  },
+  {
+    "uid": "word1900-1005",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1005,
+    "globalId": 4105,
+    "word": "crack",
+    "meaning": "ひびが入る；にひびを入れる"
+  },
+  {
+    "uid": "word1900-1006",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1006,
+    "globalId": 4106,
+    "word": "tap",
+    "meaning": "を軽くたたく；（液体）を出す；を盗聴する"
+  },
+  {
+    "uid": "word1900-1007",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1007,
+    "globalId": 4107,
+    "word": "split",
+    "meaning": "を分割する；を分担する；分裂する"
+  },
+  {
+    "uid": "word1900-1008",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1008,
+    "globalId": 4108,
+    "word": "forecast",
+    "meaning": "を予想［予測］する"
+  },
+  {
+    "uid": "word1900-1009",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1009,
+    "globalId": 4109,
+    "word": "exclude",
+    "meaning": "を除外する"
+  },
+  {
+    "uid": "word1900-1010",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1010,
+    "globalId": 4110,
+    "word": "overlook",
+    "meaning": "を見落とす；を大目に見る；を見渡す"
+  },
+  {
+    "uid": "word1900-1011",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1011,
+    "globalId": 4111,
+    "word": "burst",
+    "meaning": "破裂する；（～を）突然始める（into）"
+  },
+  {
+    "uid": "word1900-1012",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1012,
+    "globalId": 4112,
+    "word": "heal",
+    "meaning": "（人・傷など）を治す；治る"
+  },
+  {
+    "uid": "word1900-1013",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1013,
+    "globalId": 4113,
+    "word": "forbid",
+    "meaning": "を禁じる"
+  },
+  {
+    "uid": "word1900-1014",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1014,
+    "globalId": 4114,
+    "word": "install",
+    "meaning": "をインストールする；を設置する；を就任させる"
+  },
+  {
+    "uid": "word1900-1015",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1015,
+    "globalId": 4115,
+    "word": "diminish",
+    "meaning": "を減らす；減少する"
+  },
+  {
+    "uid": "word1900-1016",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1016,
+    "globalId": 4116,
+    "word": "cite",
+    "meaning": "を引き合いに出す；を引用する"
+  },
+  {
+    "uid": "word1900-1017",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1017,
+    "globalId": 4117,
+    "word": "quote",
+    "meaning": "を引用する；を引き合いに出す"
+  },
+  {
+    "uid": "word1900-1018",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1018,
+    "globalId": 4118,
+    "word": "dispute",
+    "meaning": "に異議を唱える；（を）議論する"
+  },
+  {
+    "uid": "word1900-1019",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1019,
+    "globalId": 4119,
+    "word": "highlight",
+    "meaning": "を目立たせる；強調する"
+  },
+  {
+    "uid": "word1900-1020",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1020,
+    "globalId": 4120,
+    "word": "distract",
+    "meaning": "（注意など）をそらす"
+  },
+  {
+    "uid": "word1900-1021",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1021,
+    "globalId": 4121,
+    "word": "cheat",
+    "meaning": "をだます；不正をする"
+  },
+  {
+    "uid": "word1900-1022",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1022,
+    "globalId": 4122,
+    "word": "foster",
+    "meaning": "をはぐくむ；を養育する；を心に抱く"
+  },
+  {
+    "uid": "word1900-1023",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1023,
+    "globalId": 4123,
+    "word": "obey",
+    "meaning": "に従う；に服従する"
+  },
+  {
+    "uid": "word1900-1024",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1024,
+    "globalId": 4124,
+    "word": "bend",
+    "meaning": "を曲げる；を屈服させる；曲がる"
+  },
+  {
+    "uid": "word1900-1025",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1025,
+    "globalId": 4125,
+    "word": "deprive",
+    "meaning": "から（権利などを）奪う"
+  },
+  {
+    "uid": "word1900-1026",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1026,
+    "globalId": 4126,
+    "word": "govern",
+    "meaning": "（を）統治する；支配する"
+  },
+  {
+    "uid": "word1900-1027",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1027,
+    "globalId": 4127,
+    "word": "log",
+    "meaning": "〔log onで〕ログオンする；を記録する"
+  },
+  {
+    "uid": "word1900-1028",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1028,
+    "globalId": 4128,
+    "word": "transmit",
+    "meaning": "を伝える；（電波・信号など）を送る"
+  },
+  {
+    "uid": "word1900-1029",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1029,
+    "globalId": 4129,
+    "word": "bully",
+    "meaning": "をいじめる；を脅す"
+  },
+  {
+    "uid": "word1900-1030",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1030,
+    "globalId": 4130,
+    "word": "leap",
+    "meaning": "跳ぶ；さっと動く；急上昇する"
+  },
+  {
+    "uid": "word1900-1031",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1031,
+    "globalId": 4131,
+    "word": "astonish",
+    "meaning": "を驚かす"
+  },
+  {
+    "uid": "word1900-1032",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1032,
+    "globalId": 4132,
+    "word": "thrill",
+    "meaning": "をぞくぞくさせる；わくわくする"
+  },
+  {
+    "uid": "word1900-1033",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1033,
+    "globalId": 4133,
+    "word": "nod",
+    "meaning": "うなずく；会釈する；うとうとする"
+  },
+  {
+    "uid": "word1900-1034",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1034,
+    "globalId": 4134,
+    "word": "bow",
+    "meaning": "おじぎする；屈服する"
+  },
+  {
+    "uid": "word1900-1035",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1035,
+    "globalId": 4135,
+    "word": "blend",
+    "meaning": "を混ぜる；を調和させる；（～に）溶け込む（into）"
+  },
+  {
+    "uid": "word1900-1036",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1036,
+    "globalId": 4136,
+    "word": "complicate",
+    "meaning": "を複雑にする"
+  },
+  {
+    "uid": "word1900-1037",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1037,
+    "globalId": 4137,
+    "word": "pitch",
+    "meaning": "を投げる；倒れる；縦揺れする"
+  },
+  {
+    "uid": "word1900-1038",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1038,
+    "globalId": 4138,
+    "word": "persist",
+    "meaning": "続く；固執する"
+  },
+  {
+    "uid": "word1900-1039",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1039,
+    "globalId": 4139,
+    "word": "dedicate",
+    "meaning": "をささげる；を献呈する"
+  },
+  {
+    "uid": "word1900-1040",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1040,
+    "globalId": 4140,
+    "word": "equip",
+    "meaning": "に備えつける"
+  },
+  {
+    "uid": "word1900-1041",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1041,
+    "globalId": 4141,
+    "word": "premise",
+    "meaning": "前提；〔～s〕（建物を含めた）構内；敷地"
+  },
+  {
+    "uid": "word1900-1042",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1042,
+    "globalId": 4142,
+    "word": "input",
+    "meaning": "入力（情報）；投入；（情報・時間などの）提供"
+  },
+  {
+    "uid": "word1900-1043",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1043,
+    "globalId": 4143,
+    "word": "merit",
+    "meaning": "利点；功績；真価"
+  },
+  {
+    "uid": "word1900-1044",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1044,
+    "globalId": 4144,
+    "word": "sympathy",
+    "meaning": "同情；（～に対する）共感（with/for）"
+  },
+  {
+    "uid": "word1900-1045",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1045,
+    "globalId": 4145,
+    "word": "compliment",
+    "meaning": "賛辞；表敬"
+  },
+  {
+    "uid": "word1900-1046",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1046,
+    "globalId": 4146,
+    "word": "infrastructure",
+    "meaning": "インフラ；基本的施設；（経済）基盤"
+  },
+  {
+    "uid": "word1900-1047",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1047,
+    "globalId": 4147,
+    "word": "ray",
+    "meaning": "光線；ひらめき；一筋の光明"
+  },
+  {
+    "uid": "word1900-1048",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1048,
+    "globalId": 4148,
+    "word": "distress",
+    "meaning": "苦悩；苦痛；困窮"
+  },
+  {
+    "uid": "word1900-1049",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1049,
+    "globalId": 4149,
+    "word": "joint",
+    "meaning": "関節；接合（部）"
+  },
+  {
+    "uid": "word1900-1050",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1050,
+    "globalId": 4150,
+    "word": "expedition",
+    "meaning": "遠征（隊）；探検（隊）"
+  },
+  {
+    "uid": "word1900-1051",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1051,
+    "globalId": 4151,
+    "word": "adolescent",
+    "meaning": "青年；青年期の"
+  },
+  {
+    "uid": "word1900-1052",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1052,
+    "globalId": 4152,
+    "word": "shade",
+    "meaning": "（日）陰；色合い；日よけ；微妙な相違"
+  },
+  {
+    "uid": "word1900-1053",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1053,
+    "globalId": 4153,
+    "word": "jury",
+    "meaning": "陪審（員団）；審査員団"
+  },
+  {
+    "uid": "word1900-1054",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1054,
+    "globalId": 4154,
+    "word": "ethic",
+    "meaning": "倫理；道徳；〔～s〕倫理［道徳］規範"
+  },
+  {
+    "uid": "word1900-1055",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1055,
+    "globalId": 4155,
+    "word": "penalty",
+    "meaning": "（刑）罰；罰金；ペナルティー"
+  },
+  {
+    "uid": "word1900-1056",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1056,
+    "globalId": 4156,
+    "word": "faculty",
+    "meaning": "能力；機能；学部；教授陣"
+  },
+  {
+    "uid": "word1900-1057",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1057,
+    "globalId": 4157,
+    "word": "scheme",
+    "meaning": "計画；体系；陰謀"
+  },
+  {
+    "uid": "word1900-1058",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1058,
+    "globalId": 4158,
+    "word": "nutrition",
+    "meaning": "栄養（の摂取）"
+  },
+  {
+    "uid": "word1900-1059",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1059,
+    "globalId": 4159,
+    "word": "particle",
+    "meaning": "（微）粒子；ほんのわずか"
+  },
+  {
+    "uid": "word1900-1060",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1060,
+    "globalId": 4160,
+    "word": "molecule",
+    "meaning": "分子；微粒子"
+  },
+  {
+    "uid": "word1900-1061",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1061,
+    "globalId": 4161,
+    "word": "nationality",
+    "meaning": "国籍；国民；国民性"
+  },
+  {
+    "uid": "word1900-1062",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1062,
+    "globalId": 4162,
+    "word": "poll",
+    "meaning": "世論調査；投票（数）"
+  },
+  {
+    "uid": "word1900-1063",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1063,
+    "globalId": 4163,
+    "word": "clinic",
+    "meaning": "診療所；クリニック；（病院内の）～科"
+  },
+  {
+    "uid": "word1900-1064",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1064,
+    "globalId": 4164,
+    "word": "dementia",
+    "meaning": "認知症"
+  },
+  {
+    "uid": "word1900-1065",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1065,
+    "globalId": 4165,
+    "word": "fatigue",
+    "meaning": "疲労"
+  },
+  {
+    "uid": "word1900-1066",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1066,
+    "globalId": 4166,
+    "word": "dilemma",
+    "meaning": "ジレンマ；板ばさみ"
+  },
+  {
+    "uid": "word1900-1067",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1067,
+    "globalId": 4167,
+    "word": "queue",
+    "meaning": "【英】（順番を待つ）列"
+  },
+  {
+    "uid": "word1900-1068",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1068,
+    "globalId": 4168,
+    "word": "curve",
+    "meaning": "（道路などの）カーブ；曲線"
+  },
+  {
+    "uid": "word1900-1069",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1069,
+    "globalId": 4169,
+    "word": "narrative",
+    "meaning": "物語；話；（小説の）叙述部分；地の文"
+  },
+  {
+    "uid": "word1900-1070",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1070,
+    "globalId": 4170,
+    "word": "fingerprint",
+    "meaning": "指紋"
+  },
+  {
+    "uid": "word1900-1071",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1071,
+    "globalId": 4171,
+    "word": "file",
+    "meaning": "ファイル；（書類の）とじ込み"
+  },
+  {
+    "uid": "word1900-1072",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1072,
+    "globalId": 4172,
+    "word": "wilderness",
+    "meaning": "荒野；（庭・町などの）放置された部分"
+  },
+  {
+    "uid": "word1900-1073",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1073,
+    "globalId": 4173,
+    "word": "pesticide",
+    "meaning": "殺虫剤；除草剤"
+  },
+  {
+    "uid": "word1900-1074",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1074,
+    "globalId": 4174,
+    "word": "panic",
+    "meaning": "パニック（状態）；狼狽"
+  },
+  {
+    "uid": "word1900-1075",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1075,
+    "globalId": 4175,
+    "word": "fabric",
+    "meaning": "織物；布（地）；構造"
+  },
+  {
+    "uid": "word1900-1076",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1076,
+    "globalId": 4176,
+    "word": "fantasy",
+    "meaning": "空想；幻想；幻想的作品"
+  },
+  {
+    "uid": "word1900-1077",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1077,
+    "globalId": 4177,
+    "word": "fancy",
+    "meaning": "（気まぐれな）好み；空想；思いつき"
+  },
+  {
+    "uid": "word1900-1078",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1078,
+    "globalId": 4178,
+    "word": "virtue",
+    "meaning": "美徳；長所；効能"
+  },
+  {
+    "uid": "word1900-1079",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1079,
+    "globalId": 4179,
+    "word": "grateful",
+    "meaning": "感謝している"
+  },
+  {
+    "uid": "word1900-1080",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1080,
+    "globalId": 4180,
+    "word": "valid",
+    "meaning": "妥当な；有効な"
+  },
+  {
+    "uid": "word1900-1081",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1081,
+    "globalId": 4181,
+    "word": "elaborate",
+    "meaning": "入念な；凝った"
+  },
+  {
+    "uid": "word1900-1082",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1082,
+    "globalId": 4182,
+    "word": "moderate",
+    "meaning": "適度な；穏健な"
+  },
+  {
+    "uid": "word1900-1083",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1083,
+    "globalId": 4183,
+    "word": "dynamic",
+    "meaning": "活動的な；精力的な；動的な"
+  },
+  {
+    "uid": "word1900-1084",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1084,
+    "globalId": 4184,
+    "word": "brave",
+    "meaning": "勇敢な；見事な"
+  },
+  {
+    "uid": "word1900-1085",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1085,
+    "globalId": 4185,
+    "word": "brilliant",
+    "meaning": "すばらしい；才能にあふれた；きらめく"
+  },
+  {
+    "uid": "word1900-1086",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1086,
+    "globalId": 4186,
+    "word": "tremendous",
+    "meaning": "途方もない；莫大な；すばらしい"
+  },
+  {
+    "uid": "word1900-1087",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1087,
+    "globalId": 4187,
+    "word": "oral",
+    "meaning": "口頭の"
+  },
+  {
+    "uid": "word1900-1088",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1088,
+    "globalId": 4188,
+    "word": "innocent",
+    "meaning": "無罪の；無邪気な；無知の"
+  },
+  {
+    "uid": "word1900-1089",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1089,
+    "globalId": 4189,
+    "word": "subsequent",
+    "meaning": "その後の"
+  },
+  {
+    "uid": "word1900-1090",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1090,
+    "globalId": 4190,
+    "word": "shallow",
+    "meaning": "浅い；浅薄な"
+  },
+  {
+    "uid": "word1900-1091",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1091,
+    "globalId": 4191,
+    "word": "indifferent",
+    "meaning": "無関心な"
+  },
+  {
+    "uid": "word1900-1092",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1092,
+    "globalId": 4192,
+    "word": "inferior",
+    "meaning": "より劣った"
+  },
+  {
+    "uid": "word1900-1093",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1093,
+    "globalId": 4193,
+    "word": "awkward",
+    "meaning": "気まずい；ぎこちない；厄介な"
+  },
+  {
+    "uid": "word1900-1094",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1094,
+    "globalId": 4194,
+    "word": "obese",
+    "meaning": "肥満した"
+  },
+  {
+    "uid": "word1900-1095",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1095,
+    "globalId": 4195,
+    "word": "pregnant",
+    "meaning": "妊娠した；（～で）満ちている（with）"
+  },
+  {
+    "uid": "word1900-1096",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1096,
+    "globalId": 4196,
+    "word": "intimate",
+    "meaning": "親密な；密接な"
+  },
+  {
+    "uid": "word1900-1097",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1097,
+    "globalId": 4197,
+    "word": "medieval",
+    "meaning": "中世の；時代遅れの"
+  },
+  {
+    "uid": "word1900-1098",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1098,
+    "globalId": 4198,
+    "word": "sacred",
+    "meaning": "神聖な；宗教的な；厳粛な"
+  },
+  {
+    "uid": "word1900-1099",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1099,
+    "globalId": 4199,
+    "word": "simultaneously",
+    "meaning": "（～と）同時に（with）；一斉に"
+  },
+  {
+    "uid": "word1900-1100",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1100,
+    "globalId": 4200,
+    "word": "versus",
+    "meaning": "〔A ～ Bで〕A対B；AかBか"
+  },
+  {
+    "uid": "word1900-1101",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1101,
+    "globalId": 4201,
+    "word": "proceed",
+    "meaning": "進む，進行する；（～を）続行する（with）"
+  },
+  {
+    "uid": "word1900-1102",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1102,
+    "globalId": 4202,
+    "word": "orient",
+    "meaning": "（人）を（環境などに）慣らす（to）；〔受身形で〕（関心などが）（～に）向いている（to / toward）"
+  },
+  {
+    "uid": "word1900-1103",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1103,
+    "globalId": 4203,
+    "word": "surf",
+    "meaning": "（インターネット上の情報など）を見て回る；サーフィンをする"
+  },
+  {
+    "uid": "word1900-1104",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1104,
+    "globalId": 4204,
+    "word": "filter",
+    "meaning": "をろ過する；を取り除く"
+  },
+  {
+    "uid": "word1900-1105",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1105,
+    "globalId": 4205,
+    "word": "bind",
+    "meaning": "を縛る；を束縛する；を結び付ける"
+  },
+  {
+    "uid": "word1900-1106",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1106,
+    "globalId": 4206,
+    "word": "resort",
+    "meaning": "（好ましくない手段に）訴える，頼る（to）"
+  },
+  {
+    "uid": "word1900-1107",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1107,
+    "globalId": 4207,
+    "word": "reinforce",
+    "meaning": "を強化する；を補強する"
+  },
+  {
+    "uid": "word1900-1108",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1108,
+    "globalId": 4208,
+    "word": "accumulate",
+    "meaning": "を蓄積する，集める；積もる"
+  },
+  {
+    "uid": "word1900-1109",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1109,
+    "globalId": 4209,
+    "word": "bet",
+    "meaning": "と確信する，断言する；（金などを）かける"
+  },
+  {
+    "uid": "word1900-1110",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1110,
+    "globalId": 4210,
+    "word": "advocate",
+    "meaning": "を主張する；を擁護する"
+  },
+  {
+    "uid": "word1900-1111",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1111,
+    "globalId": 4211,
+    "word": "constitute",
+    "meaning": "を構成する；になる，に等しい"
+  },
+  {
+    "uid": "word1900-1112",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1112,
+    "globalId": 4212,
+    "word": "undertake",
+    "meaning": "を引き受ける；を保証する；に着手する"
+  },
+  {
+    "uid": "word1900-1113",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1113,
+    "globalId": 4213,
+    "word": "grip",
+    "meaning": "を握る；をとらえる"
+  },
+  {
+    "uid": "word1900-1114",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1114,
+    "globalId": 4214,
+    "word": "dismiss",
+    "meaning": "（意見など）を退ける；を解雇する"
+  },
+  {
+    "uid": "word1900-1115",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1115,
+    "globalId": 4215,
+    "word": "fade",
+    "meaning": "薄れる；衰える"
+  },
+  {
+    "uid": "word1900-1116",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1116,
+    "globalId": 4216,
+    "word": "conceal",
+    "meaning": "を隠す；を秘密にする"
+  },
+  {
+    "uid": "word1900-1117",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1117,
+    "globalId": 4217,
+    "word": "chew",
+    "meaning": "（を）かむ；をかみ砕く"
+  },
+  {
+    "uid": "word1900-1118",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1118,
+    "globalId": 4218,
+    "word": "swallow",
+    "meaning": "（を）飲み込む；をうのみにする；に耐える"
+  },
+  {
+    "uid": "word1900-1119",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1119,
+    "globalId": 4219,
+    "word": "seal",
+    "meaning": "を密閉する；に封をする"
+  },
+  {
+    "uid": "word1900-1120",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1120,
+    "globalId": 4220,
+    "word": "migrate",
+    "meaning": "移住する；（鳥などが）渡る"
+  },
+  {
+    "uid": "word1900-1121",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1121,
+    "globalId": 4221,
+    "word": "exaggerate",
+    "meaning": "（を）誇張する；を強調する"
+  },
+  {
+    "uid": "word1900-1122",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1122,
+    "globalId": 4222,
+    "word": "accuse",
+    "meaning": "を非難する；を告訴する"
+  },
+  {
+    "uid": "word1900-1123",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1123,
+    "globalId": 4223,
+    "word": "vanish",
+    "meaning": "消える"
+  },
+  {
+    "uid": "word1900-1124",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1124,
+    "globalId": 4224,
+    "word": "polish",
+    "meaning": "を磨く；を洗練させる"
+  },
+  {
+    "uid": "word1900-1125",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1125,
+    "globalId": 4225,
+    "word": "wipe",
+    "meaning": "を拭く；を拭き取る；を消し去る"
+  },
+  {
+    "uid": "word1900-1126",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1126,
+    "globalId": 4226,
+    "word": "sweep",
+    "meaning": "（を）掃く；を一掃する；さっと通過する"
+  },
+  {
+    "uid": "word1900-1127",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1127,
+    "globalId": 4227,
+    "word": "mislead",
+    "meaning": "を誤解させる，欺く；（人）を間違った方向に導く"
+  },
+  {
+    "uid": "word1900-1128",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1128,
+    "globalId": 4228,
+    "word": "spoil",
+    "meaning": "を台無しにする；を甘やかす；だめになる"
+  },
+  {
+    "uid": "word1900-1129",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1129,
+    "globalId": 4229,
+    "word": "compound",
+    "meaning": "を悪化させる；を合成する；を混合する"
+  },
+  {
+    "uid": "word1900-1130",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1130,
+    "globalId": 4230,
+    "word": "explode",
+    "meaning": "爆発する；急増する；を論破する"
+  },
+  {
+    "uid": "word1900-1131",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1131,
+    "globalId": 4231,
+    "word": "disgust",
+    "meaning": "をむかつかせる；に愛想を尽かせる"
+  },
+  {
+    "uid": "word1900-1132",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1132,
+    "globalId": 4232,
+    "word": "commute",
+    "meaning": "通勤［通学］する"
+  },
+  {
+    "uid": "word1900-1133",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1133,
+    "globalId": 4233,
+    "word": "decorate",
+    "meaning": "を装飾する"
+  },
+  {
+    "uid": "word1900-1134",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1134,
+    "globalId": 4234,
+    "word": "postpone",
+    "meaning": "を延期する"
+  },
+  {
+    "uid": "word1900-1135",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1135,
+    "globalId": 4235,
+    "word": "cease",
+    "meaning": "をやめる；終わる"
+  },
+  {
+    "uid": "word1900-1136",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1136,
+    "globalId": 4236,
+    "word": "compromise",
+    "meaning": "妥協する；を危うくする"
+  },
+  {
+    "uid": "word1900-1137",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1137,
+    "globalId": 4237,
+    "word": "elect",
+    "meaning": "を選出する"
+  },
+  {
+    "uid": "word1900-1138",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1138,
+    "globalId": 4238,
+    "word": "extract",
+    "meaning": "を取り［搾り］出す；を抜粋する"
+  },
+  {
+    "uid": "word1900-1139",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1139,
+    "globalId": 4239,
+    "word": "inherit",
+    "meaning": "を受け継ぐ；を相続する"
+  },
+  {
+    "uid": "word1900-1140",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1140,
+    "globalId": 4240,
+    "word": "rear",
+    "meaning": "（人・動物・植物）を育てる"
+  },
+  {
+    "uid": "word1900-1141",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1141,
+    "globalId": 4241,
+    "word": "empathy",
+    "meaning": "感情移入，共感"
+  },
+  {
+    "uid": "word1900-1142",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1142,
+    "globalId": 4242,
+    "word": "cue",
+    "meaning": "合図；手がかり；（次の演技の）キュー"
+  },
+  {
+    "uid": "word1900-1143",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1143,
+    "globalId": 4243,
+    "word": "enterprise",
+    "meaning": "企業，事業；企画；進取の気性"
+  },
+  {
+    "uid": "word1900-1144",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1144,
+    "globalId": 4244,
+    "word": "output",
+    "meaning": "生産（高）；出力；排出（量）"
+  },
+  {
+    "uid": "word1900-1145",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1145,
+    "globalId": 4245,
+    "word": "congress",
+    "meaning": "（米国などの）議会；会議"
+  },
+  {
+    "uid": "word1900-1146",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1146,
+    "globalId": 4246,
+    "word": "millennium",
+    "meaning": "千年間，千年紀"
+  },
+  {
+    "uid": "word1900-1147",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1147,
+    "globalId": 4247,
+    "word": "mankind",
+    "meaning": "人類"
+  },
+  {
+    "uid": "word1900-1148",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1148,
+    "globalId": 4248,
+    "word": "Muslim",
+    "meaning": "イスラム教徒"
+  },
+  {
+    "uid": "word1900-1149",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1149,
+    "globalId": 4249,
+    "word": "estate",
+    "meaning": "（動産・不動産などの）財産；私有地"
+  },
+  {
+    "uid": "word1900-1150",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1150,
+    "globalId": 4250,
+    "word": "landmine",
+    "meaning": "地雷"
+  },
+  {
+    "uid": "word1900-1151",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1151,
+    "globalId": 4251,
+    "word": "caution",
+    "meaning": "用心；警告"
+  },
+  {
+    "uid": "word1900-1152",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1152,
+    "globalId": 4252,
+    "word": "controversy",
+    "meaning": "論争"
+  },
+  {
+    "uid": "word1900-1153",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1153,
+    "globalId": 4253,
+    "word": "consensus",
+    "meaning": "総意；（意見の）一致"
+  },
+  {
+    "uid": "word1900-1154",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1154,
+    "globalId": 4254,
+    "word": "retail",
+    "meaning": "小売り"
+  },
+  {
+    "uid": "word1900-1155",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1155,
+    "globalId": 4255,
+    "word": "fiber",
+    "meaning": "繊維（質）；本質；精神力"
+  },
+  {
+    "uid": "word1900-1156",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1156,
+    "globalId": 4256,
+    "word": "scent",
+    "meaning": "（よい）香り；香水"
+  },
+  {
+    "uid": "word1900-1157",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1157,
+    "globalId": 4257,
+    "word": "beverage",
+    "meaning": "（水以外の）飲み物，飲料"
+  },
+  {
+    "uid": "word1900-1158",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1158,
+    "globalId": 4258,
+    "word": "supplement",
+    "meaning": "栄養補助剤，サプリメント；補足"
+  },
+  {
+    "uid": "word1900-1159",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1159,
+    "globalId": 4259,
+    "word": "diabetes",
+    "meaning": "糖尿病"
+  },
+  {
+    "uid": "word1900-1160",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1160,
+    "globalId": 4260,
+    "word": "province",
+    "meaning": "州，省；〔the ～s〕地方；分野"
+  },
+  {
+    "uid": "word1900-1161",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1161,
+    "globalId": 4261,
+    "word": "reef",
+    "meaning": "（岩や砂の）礁；暗礁"
+  },
+  {
+    "uid": "word1900-1162",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1162,
+    "globalId": 4262,
+    "word": "microbe",
+    "meaning": "微生物；細菌"
+  },
+  {
+    "uid": "word1900-1163",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1163,
+    "globalId": 4263,
+    "word": "excess",
+    "meaning": "過剰，超過"
+  },
+  {
+    "uid": "word1900-1164",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1164,
+    "globalId": 4264,
+    "word": "gallery",
+    "meaning": "美術館，画廊；観客，ギャラリー；回廊"
+  },
+  {
+    "uid": "word1900-1165",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1165,
+    "globalId": 4265,
+    "word": "fame",
+    "meaning": "名声"
+  },
+  {
+    "uid": "word1900-1166",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1166,
+    "globalId": 4266,
+    "word": "deadline",
+    "meaning": "締め切り"
+  },
+  {
+    "uid": "word1900-1167",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1167,
+    "globalId": 4267,
+    "word": "undergraduate",
+    "meaning": "学部学生"
+  },
+  {
+    "uid": "word1900-1168",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1168,
+    "globalId": 4268,
+    "word": "slavery",
+    "meaning": "奴隷制度；苦役"
+  },
+  {
+    "uid": "word1900-1169",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1169,
+    "globalId": 4269,
+    "word": "prey",
+    "meaning": "獲物；犠牲者"
+  },
+  {
+    "uid": "word1900-1170",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1170,
+    "globalId": 4270,
+    "word": "mess",
+    "meaning": "散らかった状態［物］；混乱状態"
+  },
+  {
+    "uid": "word1900-1171",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1171,
+    "globalId": 4271,
+    "word": "recession",
+    "meaning": "不況；後退"
+  },
+  {
+    "uid": "word1900-1172",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1172,
+    "globalId": 4272,
+    "word": "retreat",
+    "meaning": "後退，退却；（計画・決定などの）撤回"
+  },
+  {
+    "uid": "word1900-1173",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1173,
+    "globalId": 4273,
+    "word": "grave",
+    "meaning": "墓；〔通例the ～〕死"
+  },
+  {
+    "uid": "word1900-1174",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1174,
+    "globalId": 4274,
+    "word": "column",
+    "meaning": "コラム；（新聞などの）欄；円柱；（縦）列"
+  },
+  {
+    "uid": "word1900-1175",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1175,
+    "globalId": 4275,
+    "word": "scenery",
+    "meaning": "〔集合的に〕景色；背景"
+  },
+  {
+    "uid": "word1900-1176",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1176,
+    "globalId": 4276,
+    "word": "plot",
+    "meaning": "（小説などの）筋；陰謀"
+  },
+  {
+    "uid": "word1900-1177",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1177,
+    "globalId": 4277,
+    "word": "sculpture",
+    "meaning": "彫刻（作品）"
+  },
+  {
+    "uid": "word1900-1178",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1178,
+    "globalId": 4278,
+    "word": "tablet",
+    "meaning": "タブレット（型情報端末）；錠剤；平板"
+  },
+  {
+    "uid": "word1900-1179",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1179,
+    "globalId": 4279,
+    "word": "dense",
+    "meaning": "密集した，密度の高い；（霧などが）濃い"
+  },
+  {
+    "uid": "word1900-1180",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1180,
+    "globalId": 4280,
+    "word": "exotic",
+    "meaning": "外来の；異国風の"
+  },
+  {
+    "uid": "word1900-1181",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1181,
+    "globalId": 4281,
+    "word": "acid",
+    "meaning": "酸性の；酸っぱい；辛辣な"
+  },
+  {
+    "uid": "word1900-1182",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1182,
+    "globalId": 4282,
+    "word": "bitter",
+    "meaning": "苦い，つらい；辛辣な；怒りっぽい"
+  },
+  {
+    "uid": "word1900-1183",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1183,
+    "globalId": 4283,
+    "word": "sensible",
+    "meaning": "分別のある；賢明な；実用的な"
+  },
+  {
+    "uid": "word1900-1184",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1184,
+    "globalId": 4284,
+    "word": "noble",
+    "meaning": "高貴な；堂々とした；高潔な"
+  },
+  {
+    "uid": "word1900-1185",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1185,
+    "globalId": 4285,
+    "word": "vague",
+    "meaning": "漠然とした，あいまいな；おぼろげな"
+  },
+  {
+    "uid": "word1900-1186",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1186,
+    "globalId": 4286,
+    "word": "parallel",
+    "meaning": "（～と）平行［並行］の（to）；類似した"
+  },
+  {
+    "uid": "word1900-1187",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1187,
+    "globalId": 4287,
+    "word": "tense",
+    "meaning": "張り詰めた，緊張した"
+  },
+  {
+    "uid": "word1900-1188",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1188,
+    "globalId": 4288,
+    "word": "vertical",
+    "meaning": "垂直の；縦方向の"
+  },
+  {
+    "uid": "word1900-1189",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1189,
+    "globalId": 4289,
+    "word": "indigenous",
+    "meaning": "原産の，先住の；（その土地に）固有の"
+  },
+  {
+    "uid": "word1900-1190",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1190,
+    "globalId": 4290,
+    "word": "aboriginal",
+    "meaning": "〔通例A～〕アボリジニの；原生の，先住の"
+  },
+  {
+    "uid": "word1900-1191",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1191,
+    "globalId": 4291,
+    "word": "seasonal",
+    "meaning": "季節の，季節的な"
+  },
+  {
+    "uid": "word1900-1192",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1192,
+    "globalId": 4292,
+    "word": "abundant",
+    "meaning": "豊富な；（～に）富む（in）"
+  },
+  {
+    "uid": "word1900-1193",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1193,
+    "globalId": 4293,
+    "word": "hybrid",
+    "meaning": "ハイブリッドの；雑種の；混成の"
+  },
+  {
+    "uid": "word1900-1194",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1194,
+    "globalId": 4294,
+    "word": "irrelevant",
+    "meaning": "（～にとって）無関係の（to）；見当違いの"
+  },
+  {
+    "uid": "word1900-1195",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1195,
+    "globalId": 4295,
+    "word": "ridiculous",
+    "meaning": "ばかげた；法外な"
+  },
+  {
+    "uid": "word1900-1196",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1196,
+    "globalId": 4296,
+    "word": "fairy",
+    "meaning": "妖精の（ような）"
+  },
+  {
+    "uid": "word1900-1197",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1197,
+    "globalId": 4297,
+    "word": "sensory",
+    "meaning": "感覚の"
+  },
+  {
+    "uid": "word1900-1198",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1198,
+    "globalId": 4298,
+    "word": "chronic",
+    "meaning": "慢性の；長引く；常習の"
+  },
+  {
+    "uid": "word1900-1199",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1199,
+    "globalId": 4299,
+    "word": "voluntary",
+    "meaning": "自発的な；無償の"
+  },
+  {
+    "uid": "word1900-1200",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1200,
+    "globalId": 4300,
+    "word": "inclined",
+    "meaning": "傾向がある；傾いた"
+  },
+  {
+    "uid": "word1900-1201",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1201,
+    "globalId": 4301,
+    "word": "infer",
+    "meaning": "を推論する，推測する"
+  },
+  {
+    "uid": "word1900-1202",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1202,
+    "globalId": 4302,
+    "word": "esteem",
+    "meaning": "を尊敬する；を見なす"
+  },
+  {
+    "uid": "word1900-1203",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1203,
+    "globalId": 4303,
+    "word": "tackle",
+    "meaning": "に取り組む；と（～のことで）話をつける（about / on）"
+  },
+  {
+    "uid": "word1900-1204",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1204,
+    "globalId": 4304,
+    "word": "venture",
+    "meaning": "危険を冒して進む；を思い切ってする"
+  },
+  {
+    "uid": "word1900-1205",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1205,
+    "globalId": 4305,
+    "word": "accelerate",
+    "meaning": "を加速させる，促進する；加速する"
+  },
+  {
+    "uid": "word1900-1206",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1206,
+    "globalId": 4306,
+    "word": "accustom",
+    "meaning": "（人）を慣れさせる"
+  },
+  {
+    "uid": "word1900-1207",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1207,
+    "globalId": 4307,
+    "word": "amuse",
+    "meaning": "をおもしろがらせる，楽しませる"
+  },
+  {
+    "uid": "word1900-1208",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1208,
+    "globalId": 4308,
+    "word": "flourish",
+    "meaning": "繁栄する；繁茂する；を振りかざす"
+  },
+  {
+    "uid": "word1900-1209",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1209,
+    "globalId": 4309,
+    "word": "thrive",
+    "meaning": "繁栄する，うまくいく；繁茂する"
+  },
+  {
+    "uid": "word1900-1210",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1210,
+    "globalId": 4310,
+    "word": "nurture",
+    "meaning": "をはぐくむ；を養成する"
+  },
+  {
+    "uid": "word1900-1211",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1211,
+    "globalId": 4311,
+    "word": "click",
+    "meaning": "（を）クリックする；をカチッと鳴らす；カチッと音がする"
+  },
+  {
+    "uid": "word1900-1212",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1212,
+    "globalId": 4312,
+    "word": "spin",
+    "meaning": "回転する；を回転させる；（糸）を紡ぐ"
+  },
+  {
+    "uid": "word1900-1213",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1213,
+    "globalId": 4313,
+    "word": "clip",
+    "meaning": "を切り抜く；を（はさみで）切り取る；をクリップで留める"
+  },
+  {
+    "uid": "word1900-1214",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1214,
+    "globalId": 4314,
+    "word": "drag",
+    "meaning": "を引きずる；ぐずぐずする"
+  },
+  {
+    "uid": "word1900-1215",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1215,
+    "globalId": 4315,
+    "word": "cast",
+    "meaning": "を投じる；に役を当てる"
+  },
+  {
+    "uid": "word1900-1216",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1216,
+    "globalId": 4316,
+    "word": "scatter",
+    "meaning": "をまき散らす；分散する"
+  },
+  {
+    "uid": "word1900-1217",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1217,
+    "globalId": 4317,
+    "word": "tempt",
+    "meaning": "を（…する）気にさせる（to do）；を引きつける"
+  },
+  {
+    "uid": "word1900-1218",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1218,
+    "globalId": 4318,
+    "word": "withdraw",
+    "meaning": "を引き出す；を撤回する；撤退する"
+  },
+  {
+    "uid": "word1900-1219",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1219,
+    "globalId": 4319,
+    "word": "yawn",
+    "meaning": "あくびをする"
+  },
+  {
+    "uid": "word1900-1220",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1220,
+    "globalId": 4320,
+    "word": "blink",
+    "meaning": "まばたきする；点滅する；（目）をまたたく"
+  },
+  {
+    "uid": "word1900-1221",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1221,
+    "globalId": 4321,
+    "word": "dye",
+    "meaning": "を染める；染まる"
+  },
+  {
+    "uid": "word1900-1222",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1222,
+    "globalId": 4322,
+    "word": "spill",
+    "meaning": "をこぼす；こぼれる"
+  },
+  {
+    "uid": "word1900-1223",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1223,
+    "globalId": 4323,
+    "word": "irritate",
+    "meaning": "をいらいらさせる；をひりひりさせる"
+  },
+  {
+    "uid": "word1900-1224",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1224,
+    "globalId": 4324,
+    "word": "insult",
+    "meaning": "を侮辱する"
+  },
+  {
+    "uid": "word1900-1225",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1225,
+    "globalId": 4325,
+    "word": "enforce",
+    "meaning": "を施行［実施］する；を（～に）強制する（on / upon）"
+  },
+  {
+    "uid": "word1900-1226",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1226,
+    "globalId": 4326,
+    "word": "rob",
+    "meaning": "から（金品を）奪う"
+  },
+  {
+    "uid": "word1900-1227",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1227,
+    "globalId": 4327,
+    "word": "drain",
+    "meaning": "（液体）を流出させる；（液体が）流れ出る"
+  },
+  {
+    "uid": "word1900-1228",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1228,
+    "globalId": 4328,
+    "word": "suspend",
+    "meaning": "を停職［停学，出場停止］にする；を一時的に中断する"
+  },
+  {
+    "uid": "word1900-1229",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1229,
+    "globalId": 4329,
+    "word": "drift",
+    "meaning": "漂う；さまよう；を押し流す"
+  },
+  {
+    "uid": "word1900-1230",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1230,
+    "globalId": 4330,
+    "word": "forgive",
+    "meaning": "を許す；を免除する"
+  },
+  {
+    "uid": "word1900-1231",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1231,
+    "globalId": 4331,
+    "word": "revise",
+    "meaning": "を修正する；を改訂する"
+  },
+  {
+    "uid": "word1900-1232",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1232,
+    "globalId": 4332,
+    "word": "recruit",
+    "meaning": "を募る；に新人を補充する"
+  },
+  {
+    "uid": "word1900-1233",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1233,
+    "globalId": 4333,
+    "word": "twist",
+    "meaning": "をねじる，ひねる；を歪曲する"
+  },
+  {
+    "uid": "word1900-1234",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1234,
+    "globalId": 4334,
+    "word": "crush",
+    "meaning": "を押しつぶす；を弾圧する；を絞り出す"
+  },
+  {
+    "uid": "word1900-1235",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1235,
+    "globalId": 4335,
+    "word": "pin",
+    "meaning": "をピンで留める；を突き刺す"
+  },
+  {
+    "uid": "word1900-1236",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1236,
+    "globalId": 4336,
+    "word": "uncover",
+    "meaning": "を暴く；を発掘する"
+  },
+  {
+    "uid": "word1900-1237",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1237,
+    "globalId": 4337,
+    "word": "exploit",
+    "meaning": "を活用する；を搾取する，につけ込む"
+  },
+  {
+    "uid": "word1900-1238",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1238,
+    "globalId": 4338,
+    "word": "implement",
+    "meaning": "を実行［実施］する"
+  },
+  {
+    "uid": "word1900-1239",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1239,
+    "globalId": 4339,
+    "word": "integrate",
+    "meaning": "を統合する；融合する"
+  },
+  {
+    "uid": "word1900-1240",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1240,
+    "globalId": 4340,
+    "word": "incorporate",
+    "meaning": "を取り入れる；を法人にする；合併する"
+  },
+  {
+    "uid": "word1900-1241",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1241,
+    "globalId": 4341,
+    "word": "profile",
+    "meaning": "人物の紹介；横顔；輪郭"
+  },
+  {
+    "uid": "word1900-1242",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1242,
+    "globalId": 4342,
+    "word": "appetite",
+    "meaning": "食欲；欲求"
+  },
+  {
+    "uid": "word1900-1243",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1243,
+    "globalId": 4343,
+    "word": "impulse",
+    "meaning": "衝動；刺激"
+  },
+  {
+    "uid": "word1900-1244",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1244,
+    "globalId": 4344,
+    "word": "script",
+    "meaning": "台本；筆跡"
+  },
+  {
+    "uid": "word1900-1245",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1245,
+    "globalId": 4345,
+    "word": "anniversary",
+    "meaning": "（～周年）記念日"
+  },
+  {
+    "uid": "word1900-1246",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1246,
+    "globalId": 4346,
+    "word": "pension",
+    "meaning": "年金"
+  },
+  {
+    "uid": "word1900-1247",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1247,
+    "globalId": 4347,
+    "word": "temper",
+    "meaning": "気質，気性；機嫌；かんしゃく"
+  },
+  {
+    "uid": "word1900-1248",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1248,
+    "globalId": 4348,
+    "word": "cortex",
+    "meaning": "皮質；樹皮"
+  },
+  {
+    "uid": "word1900-1249",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1249,
+    "globalId": 4349,
+    "word": "syndrome",
+    "meaning": "症候群；～現象"
+  },
+  {
+    "uid": "word1900-1250",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1250,
+    "globalId": 4350,
+    "word": "chamber",
+    "meaning": "（特定の目的の）部屋；議場；〔the ～〕議院"
+  },
+  {
+    "uid": "word1900-1251",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1251,
+    "globalId": 4351,
+    "word": "utility",
+    "meaning": "公共事業；公共料金；実用性"
+  },
+  {
+    "uid": "word1900-1252",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1252,
+    "globalId": 4352,
+    "word": "cattle",
+    "meaning": "〔集合的に〕牛"
+  },
+  {
+    "uid": "word1900-1253",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1253,
+    "globalId": 4353,
+    "word": "herd",
+    "meaning": "（牛などの）群れ；群衆"
+  },
+  {
+    "uid": "word1900-1254",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1254,
+    "globalId": 4354,
+    "word": "fluid",
+    "meaning": "流動体，液体"
+  },
+  {
+    "uid": "word1900-1255",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1255,
+    "globalId": 4355,
+    "word": "pity",
+    "meaning": "残念なこと；哀れみ"
+  },
+  {
+    "uid": "word1900-1256",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1256,
+    "globalId": 4356,
+    "word": "priest",
+    "meaning": "聖職者"
+  },
+  {
+    "uid": "word1900-1257",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1257,
+    "globalId": 4357,
+    "word": "acquaintance",
+    "meaning": "知人；面識；知識"
+  },
+  {
+    "uid": "word1900-1258",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1258,
+    "globalId": 4358,
+    "word": "offspring",
+    "meaning": "子孫，子；成果"
+  },
+  {
+    "uid": "word1900-1259",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1259,
+    "globalId": 4359,
+    "word": "famine",
+    "meaning": "飢饉；（食糧・物資の）ひどい不足"
+  },
+  {
+    "uid": "word1900-1260",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1260,
+    "globalId": 4360,
+    "word": "deforestation",
+    "meaning": "森林伐採"
+  },
+  {
+    "uid": "word1900-1261",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1261,
+    "globalId": 4361,
+    "word": "jail",
+    "meaning": "刑務所，拘置所"
+  },
+  {
+    "uid": "word1900-1262",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1262,
+    "globalId": 4362,
+    "word": "commodity",
+    "meaning": "商品；有用なもの"
+  },
+  {
+    "uid": "word1900-1263",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1263,
+    "globalId": 4363,
+    "word": "format",
+    "meaning": "書式，形式；（本などの）型"
+  },
+  {
+    "uid": "word1900-1264",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1264,
+    "globalId": 4364,
+    "word": "recipient",
+    "meaning": "受け取る人；（臓器などの）被提供者"
+  },
+  {
+    "uid": "word1900-1265",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1265,
+    "globalId": 4365,
+    "word": "drill",
+    "meaning": "訓練；（反復）練習；ドリル，錐"
+  },
+  {
+    "uid": "word1900-1266",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1266,
+    "globalId": 4366,
+    "word": "inability",
+    "meaning": "無能，無力"
+  },
+  {
+    "uid": "word1900-1267",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1267,
+    "globalId": 4367,
+    "word": "republic",
+    "meaning": "共和国；共和制"
+  },
+  {
+    "uid": "word1900-1268",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1268,
+    "globalId": 4368,
+    "word": "combat",
+    "meaning": "戦闘；対立"
+  },
+  {
+    "uid": "word1900-1269",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1269,
+    "globalId": 4369,
+    "word": "debris",
+    "meaning": "（破壊された後の）残骸，瓦礫；がらくた"
+  },
+  {
+    "uid": "word1900-1270",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1270,
+    "globalId": 4370,
+    "word": "bug",
+    "meaning": "病原菌（が起こす病気）；虫；盗聴器；（機械・プログラムの）欠陥"
+  },
+  {
+    "uid": "word1900-1271",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1271,
+    "globalId": 4371,
+    "word": "fraction",
+    "meaning": "わずか，一部；分数"
+  },
+  {
+    "uid": "word1900-1272",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1272,
+    "globalId": 4372,
+    "word": "index",
+    "meaning": "指標；索引；指数"
+  },
+  {
+    "uid": "word1900-1273",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1273,
+    "globalId": 4373,
+    "word": "intuition",
+    "meaning": "直観（力），直感"
+  },
+  {
+    "uid": "word1900-1274",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1274,
+    "globalId": 4374,
+    "word": "motive",
+    "meaning": "動機"
+  },
+  {
+    "uid": "word1900-1275",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1275,
+    "globalId": 4375,
+    "word": "consent",
+    "meaning": "同意，承諾"
+  },
+  {
+    "uid": "word1900-1276",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1276,
+    "globalId": 4376,
+    "word": "hierarchy",
+    "meaning": "（社会の）階層制；〔the ～〕支配層"
+  },
+  {
+    "uid": "word1900-1277",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1277,
+    "globalId": 4377,
+    "word": "monument",
+    "meaning": "記念碑，遺跡；金字塔"
+  },
+  {
+    "uid": "word1900-1278",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1278,
+    "globalId": 4378,
+    "word": "asset",
+    "meaning": "〔通例～s〕資産；価値のあるもの；利点"
+  },
+  {
+    "uid": "word1900-1279",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1279,
+    "globalId": 4379,
+    "word": "decent",
+    "meaning": "まずまずの；きちんとした；上品な"
+  },
+  {
+    "uid": "word1900-1280",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1280,
+    "globalId": 4380,
+    "word": "competent",
+    "meaning": "有能な；適任の；満足できる"
+  },
+  {
+    "uid": "word1900-1281",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1281,
+    "globalId": 4381,
+    "word": "straightforward",
+    "meaning": "単純な；率直な"
+  },
+  {
+    "uid": "word1900-1282",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1282,
+    "globalId": 4382,
+    "word": "cosmetic",
+    "meaning": "化粧の，美容の；うわべの"
+  },
+  {
+    "uid": "word1900-1283",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1283,
+    "globalId": 4383,
+    "word": "delicate",
+    "meaning": "繊細な；扱いにくい；もろい"
+  },
+  {
+    "uid": "word1900-1284",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1284,
+    "globalId": 4384,
+    "word": "interior",
+    "meaning": "室内の；内部の"
+  },
+  {
+    "uid": "word1900-1285",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1285,
+    "globalId": 4385,
+    "word": "transparent",
+    "meaning": "透明な；明快な"
+  },
+  {
+    "uid": "word1900-1286",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1286,
+    "globalId": 4386,
+    "word": "aesthetic",
+    "meaning": "美的な；美学の"
+  },
+  {
+    "uid": "word1900-1287",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1287,
+    "globalId": 4387,
+    "word": "deliberate",
+    "meaning": "故意の；慎重な"
+  },
+  {
+    "uid": "word1900-1288",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1288,
+    "globalId": 4388,
+    "word": "demographic",
+    "meaning": "人口統計学の"
+  },
+  {
+    "uid": "word1900-1289",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1289,
+    "globalId": 4389,
+    "word": "prehistoric",
+    "meaning": "有史以前の；旧式な"
+  },
+  {
+    "uid": "word1900-1290",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1290,
+    "globalId": 4390,
+    "word": "innate",
+    "meaning": "生まれながらの；固有の"
+  },
+  {
+    "uid": "word1900-1291",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1291,
+    "globalId": 4391,
+    "word": "mild",
+    "meaning": "穏やかな；（程度が）軽い"
+  },
+  {
+    "uid": "word1900-1292",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1292,
+    "globalId": 4392,
+    "word": "toxic",
+    "meaning": "有毒な；中毒性の"
+  },
+  {
+    "uid": "word1900-1293",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1293,
+    "globalId": 4393,
+    "word": "ashamed",
+    "meaning": "恥じて"
+  },
+  {
+    "uid": "word1900-1294",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1294,
+    "globalId": 4394,
+    "word": "humble",
+    "meaning": "謙虚な；質素な；身分が低い"
+  },
+  {
+    "uid": "word1900-1295",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1295,
+    "globalId": 4395,
+    "word": "peculiar",
+    "meaning": "特有の；特異な"
+  },
+  {
+    "uid": "word1900-1296",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1296,
+    "globalId": 4396,
+    "word": "steep",
+    "meaning": "（傾斜が）急な；急激な；法外な"
+  },
+  {
+    "uid": "word1900-1297",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1297,
+    "globalId": 4397,
+    "word": "trivial",
+    "meaning": "ささいな，取るに足りない"
+  },
+  {
+    "uid": "word1900-1298",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1298,
+    "globalId": 4398,
+    "word": "magnificent",
+    "meaning": "壮大な；見事な"
+  },
+  {
+    "uid": "word1900-1299",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1299,
+    "globalId": 4399,
+    "word": "wireless",
+    "meaning": "無線（電信）の，ラジオの"
+  },
+  {
+    "uid": "word1900-1300",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1300,
+    "globalId": 4400,
+    "word": "ongoing",
+    "meaning": "継続している，進行中の"
+  },
+  {
+    "uid": "word1900-1301",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1301,
+    "globalId": 4401,
+    "word": "assure",
+    "meaning": "に自信を持って言う；を保証する"
+  },
+  {
+    "uid": "word1900-1302",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1302,
+    "globalId": 4402,
+    "word": "precede",
+    "meaning": "に先行する；に優先する"
+  },
+  {
+    "uid": "word1900-1303",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1303,
+    "globalId": 4403,
+    "word": "revive",
+    "meaning": "を復活させる；復活する"
+  },
+  {
+    "uid": "word1900-1304",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1304,
+    "globalId": 4404,
+    "word": "compel",
+    "meaning": "に強いる"
+  },
+  {
+    "uid": "word1900-1305",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1305,
+    "globalId": 4405,
+    "word": "blossom",
+    "meaning": "花が咲く；発展する"
+  },
+  {
+    "uid": "word1900-1306",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1306,
+    "globalId": 4406,
+    "word": "terrify",
+    "meaning": "を怖がらせる；を脅かす"
+  },
+  {
+    "uid": "word1900-1307",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1307,
+    "globalId": 4407,
+    "word": "violate",
+    "meaning": "（法律・規則など）に違反する；を侵害する"
+  },
+  {
+    "uid": "word1900-1308",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1308,
+    "globalId": 4408,
+    "word": "suppress",
+    "meaning": "を抑える；を抑圧する"
+  },
+  {
+    "uid": "word1900-1309",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1309,
+    "globalId": 4409,
+    "word": "deceive",
+    "meaning": "をだます"
+  },
+  {
+    "uid": "word1900-1310",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1310,
+    "globalId": 4410,
+    "word": "manipulate",
+    "meaning": "を（巧みに）操る；を改ざんする"
+  },
+  {
+    "uid": "word1900-1311",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1311,
+    "globalId": 4411,
+    "word": "starve",
+    "meaning": "飢える；（～を）渇望する（for）；を飢えさせる"
+  },
+  {
+    "uid": "word1900-1312",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1312,
+    "globalId": 4412,
+    "word": "flee",
+    "meaning": "（から）逃げる"
+  },
+  {
+    "uid": "word1900-1313",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1313,
+    "globalId": 4413,
+    "word": "whisper",
+    "meaning": "（を）ささやく"
+  },
+  {
+    "uid": "word1900-1314",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1314,
+    "globalId": 4414,
+    "word": "yell",
+    "meaning": "叫ぶ，どなる"
+  },
+  {
+    "uid": "word1900-1315",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1315,
+    "globalId": 4415,
+    "word": "deposit",
+    "meaning": "を置く；を預ける；を堆積させる"
+  },
+  {
+    "uid": "word1900-1316",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1316,
+    "globalId": 4416,
+    "word": "confine",
+    "meaning": "を限定する；〔通例受身形で〕閉じ込められる"
+  },
+  {
+    "uid": "word1900-1317",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1317,
+    "globalId": 4417,
+    "word": "swing",
+    "meaning": "を揺らす，振る；揺れる；（行動に）さっと移る"
+  },
+  {
+    "uid": "word1900-1318",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1318,
+    "globalId": 4418,
+    "word": "prolong",
+    "meaning": "を長引かせる"
+  },
+  {
+    "uid": "word1900-1319",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1319,
+    "globalId": 4419,
+    "word": "depict",
+    "meaning": "を描く"
+  },
+  {
+    "uid": "word1900-1320",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1320,
+    "globalId": 4420,
+    "word": "outline",
+    "meaning": "の要点を述べる；の輪郭を描く"
+  },
+  {
+    "uid": "word1900-1321",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1321,
+    "globalId": 4421,
+    "word": "shed",
+    "meaning": "を捨て去る；（光など）を放つ；（涙・血）を流す"
+  },
+  {
+    "uid": "word1900-1322",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1322,
+    "globalId": 4422,
+    "word": "emit",
+    "meaning": "（光・熱など）を出す，排出する；（信号）を送る"
+  },
+  {
+    "uid": "word1900-1323",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1323,
+    "globalId": 4423,
+    "word": "renew",
+    "meaning": "を更新する；（資源）を再生する"
+  },
+  {
+    "uid": "word1900-1324",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1324,
+    "globalId": 4424,
+    "word": "utilize",
+    "meaning": "を利用する"
+  },
+  {
+    "uid": "word1900-1325",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1325,
+    "globalId": 4425,
+    "word": "assert",
+    "meaning": "を主張する"
+  },
+  {
+    "uid": "word1900-1326",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1326,
+    "globalId": 4426,
+    "word": "strain",
+    "meaning": "に負担をかける；を緊張させる；を漉す"
+  },
+  {
+    "uid": "word1900-1327",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1327,
+    "globalId": 4427,
+    "word": "strive",
+    "meaning": "努力する；争う"
+  },
+  {
+    "uid": "word1900-1328",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1328,
+    "globalId": 4428,
+    "word": "dare",
+    "meaning": "あえて［思い切って］…する"
+  },
+  {
+    "uid": "word1900-1329",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1329,
+    "globalId": 4429,
+    "word": "boast",
+    "meaning": "を誇る；（を）自慢する"
+  },
+  {
+    "uid": "word1900-1330",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1330,
+    "globalId": 4430,
+    "word": "startle",
+    "meaning": "をびっくりさせる"
+  },
+  {
+    "uid": "word1900-1331",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1331,
+    "globalId": 4431,
+    "word": "offend",
+    "meaning": "の気分を害する；（に）違反する"
+  },
+  {
+    "uid": "word1900-1332",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1332,
+    "globalId": 4432,
+    "word": "compute",
+    "meaning": "（を）計算する；コンピューターを使う"
+  },
+  {
+    "uid": "word1900-1333",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1333,
+    "globalId": 4433,
+    "word": "assemble",
+    "meaning": "を集める；を組み立てる；集まる"
+  },
+  {
+    "uid": "word1900-1334",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1334,
+    "globalId": 4434,
+    "word": "worsen",
+    "meaning": "を悪化させる；悪化する"
+  },
+  {
+    "uid": "word1900-1335",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1335,
+    "globalId": 4435,
+    "word": "flip",
+    "meaning": "を（ぱっと）裏返す；を軽くはじく"
+  },
+  {
+    "uid": "word1900-1336",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1336,
+    "globalId": 4436,
+    "word": "rub",
+    "meaning": "（を）こする；（～に）を塗る（on / over）"
+  },
+  {
+    "uid": "word1900-1337",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1337,
+    "globalId": 4437,
+    "word": "descend",
+    "meaning": "（を）降りる；受け継がれる"
+  },
+  {
+    "uid": "word1900-1338",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1338,
+    "globalId": 4438,
+    "word": "compensate",
+    "meaning": "補償する；に償う"
+  },
+  {
+    "uid": "word1900-1339",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1339,
+    "globalId": 4439,
+    "word": "comprise",
+    "meaning": "から成る；を構成する"
+  },
+  {
+    "uid": "word1900-1340",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1340,
+    "globalId": 4440,
+    "word": "prevail",
+    "meaning": "普及している；支配的である；（～に）打ち勝つ（over）"
+  },
+  {
+    "uid": "word1900-1341",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1341,
+    "globalId": 4441,
+    "word": "quest",
+    "meaning": "探究"
+  },
+  {
+    "uid": "word1900-1342",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1342,
+    "globalId": 4442,
+    "word": "dignity",
+    "meaning": "尊厳；威厳"
+  },
+  {
+    "uid": "word1900-1343",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1343,
+    "globalId": 4443,
+    "word": "criterion",
+    "meaning": "（判断・評価の）基準"
+  },
+  {
+    "uid": "word1900-1344",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1344,
+    "globalId": 4444,
+    "word": "paradox",
+    "meaning": "逆説；矛盾"
+  },
+  {
+    "uid": "word1900-1345",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1345,
+    "globalId": 4445,
+    "word": "parliament",
+    "meaning": "（英国などの）議会；国会議員（団）"
+  },
+  {
+    "uid": "word1900-1346",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1346,
+    "globalId": 4446,
+    "word": "legislation",
+    "meaning": "法律；立法"
+  },
+  {
+    "uid": "word1900-1347",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1347,
+    "globalId": 4447,
+    "word": "agenda",
+    "meaning": "協議事項（リスト）；議事日程（表）；（政治上の）課題"
+  },
+  {
+    "uid": "word1900-1348",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1348,
+    "globalId": 4448,
+    "word": "mainstream",
+    "meaning": "（活動・思潮などの）主流；大勢"
+  },
+  {
+    "uid": "word1900-1349",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1349,
+    "globalId": 4449,
+    "word": "troop",
+    "meaning": "〔～s〕軍隊；集団"
+  },
+  {
+    "uid": "word1900-1350",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1350,
+    "globalId": 4450,
+    "word": "epidemic",
+    "meaning": "流行（病）；蔓延"
+  },
+  {
+    "uid": "word1900-1351",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1351,
+    "globalId": 4451,
+    "word": "outbreak",
+    "meaning": "発生，勃発"
+  },
+  {
+    "uid": "word1900-1352",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1352,
+    "globalId": 4452,
+    "word": "chaos",
+    "meaning": "混沌，大混乱"
+  },
+  {
+    "uid": "word1900-1353",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1353,
+    "globalId": 4453,
+    "word": "nightmare",
+    "meaning": "悪夢（のような状況）；不安感"
+  },
+  {
+    "uid": "word1900-1354",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1354,
+    "globalId": 4454,
+    "word": "horror",
+    "meaning": "恐怖；強い嫌悪；嫌な物［人］"
+  },
+  {
+    "uid": "word1900-1355",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1355,
+    "globalId": 4455,
+    "word": "cluster",
+    "meaning": "集団；（植物の）房，束"
+  },
+  {
+    "uid": "word1900-1356",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1356,
+    "globalId": 4456,
+    "word": "pollen",
+    "meaning": "花粉"
+  },
+  {
+    "uid": "word1900-1357",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1357,
+    "globalId": 4457,
+    "word": "hive",
+    "meaning": "ミツバチの巣（箱）；人の集まる所"
+  },
+  {
+    "uid": "word1900-1358",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1358,
+    "globalId": 4458,
+    "word": "irrigation",
+    "meaning": "灌漑"
+  },
+  {
+    "uid": "word1900-1359",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1359,
+    "globalId": 4459,
+    "word": "dose",
+    "meaning": "（薬の1回分の）服用量；放射線の1回の照射量"
+  },
+  {
+    "uid": "word1900-1360",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1360,
+    "globalId": 4460,
+    "word": "suicide",
+    "meaning": "自殺；自殺的行為"
+  },
+  {
+    "uid": "word1900-1361",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1361,
+    "globalId": 4461,
+    "word": "feast",
+    "meaning": "祝宴；大ごちそう；楽しみ"
+  },
+  {
+    "uid": "word1900-1362",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1362,
+    "globalId": 4462,
+    "word": "cuisine",
+    "meaning": "（独特の）料理，料理法"
+  },
+  {
+    "uid": "word1900-1363",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1363,
+    "globalId": 4463,
+    "word": "rumor",
+    "meaning": "うわさ"
+  },
+  {
+    "uid": "word1900-1364",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1364,
+    "globalId": 4464,
+    "word": "proverb",
+    "meaning": "ことわざ"
+  },
+  {
+    "uid": "word1900-1365",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1365,
+    "globalId": 4465,
+    "word": "signature",
+    "meaning": "署名；特徴"
+  },
+  {
+    "uid": "word1900-1366",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1366,
+    "globalId": 4466,
+    "word": "formula",
+    "meaning": "方法，解決策；公式"
+  },
+  {
+    "uid": "word1900-1367",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1367,
+    "globalId": 4467,
+    "word": "tuition",
+    "meaning": "【主に米】 授業料；（個人）指導"
+  },
+  {
+    "uid": "word1900-1368",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1368,
+    "globalId": 4468,
+    "word": "intake",
+    "meaning": "摂取量；受け入れ数；取り入れること"
+  },
+  {
+    "uid": "word1900-1369",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1369,
+    "globalId": 4469,
+    "word": "spectrum",
+    "meaning": "スペクトル；（波動・変動の）範囲"
+  },
+  {
+    "uid": "word1900-1370",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1370,
+    "globalId": 4470,
+    "word": "kidney",
+    "meaning": "腎臓"
+  },
+  {
+    "uid": "word1900-1371",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1371,
+    "globalId": 4471,
+    "word": "gear",
+    "meaning": "用具（一式），器具；歯車；ギア"
+  },
+  {
+    "uid": "word1900-1372",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1372,
+    "globalId": 4472,
+    "word": "aisle",
+    "meaning": "（座席間などの）通路"
+  },
+  {
+    "uid": "word1900-1373",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1373,
+    "globalId": 4473,
+    "word": "grief",
+    "meaning": "深い悲しみ"
+  },
+  {
+    "uid": "word1900-1374",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1374,
+    "globalId": 4474,
+    "word": "destiny",
+    "meaning": "運命"
+  },
+  {
+    "uid": "word1900-1375",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1375,
+    "globalId": 4475,
+    "word": "skull",
+    "meaning": "頭骨，頭蓋骨；頭脳"
+  },
+  {
+    "uid": "word1900-1376",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1376,
+    "globalId": 4476,
+    "word": "tomb",
+    "meaning": "墓"
+  },
+  {
+    "uid": "word1900-1377",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1377,
+    "globalId": 4477,
+    "word": "monk",
+    "meaning": "修道士，僧"
+  },
+  {
+    "uid": "word1900-1378",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1378,
+    "globalId": 4478,
+    "word": "worship",
+    "meaning": "崇拝，礼拝（式）；賛美"
+  },
+  {
+    "uid": "word1900-1379",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1379,
+    "globalId": 4479,
+    "word": "outstanding",
+    "meaning": "際立った；未払いの；未解決の"
+  },
+  {
+    "uid": "word1900-1380",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1380,
+    "globalId": 4480,
+    "word": "unprecedented",
+    "meaning": "前例のない；空前の"
+  },
+  {
+    "uid": "word1900-1381",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1381,
+    "globalId": 4481,
+    "word": "infinite",
+    "meaning": "無限の；無数の"
+  },
+  {
+    "uid": "word1900-1382",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1382,
+    "globalId": 4482,
+    "word": "worthwhile",
+    "meaning": "価値がある；立派な"
+  },
+  {
+    "uid": "word1900-1383",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1383,
+    "globalId": 4483,
+    "word": "indispensable",
+    "meaning": "不可欠な"
+  },
+  {
+    "uid": "word1900-1384",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1384,
+    "globalId": 4484,
+    "word": "compulsory",
+    "meaning": "義務的な，強制的な"
+  },
+  {
+    "uid": "word1900-1385",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1385,
+    "globalId": 4485,
+    "word": "probable",
+    "meaning": "十分にありそうな"
+  },
+  {
+    "uid": "word1900-1386",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1386,
+    "globalId": 4486,
+    "word": "ambiguous",
+    "meaning": "あいまいな；多義的な"
+  },
+  {
+    "uid": "word1900-1387",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1387,
+    "globalId": 4487,
+    "word": "obscure",
+    "meaning": "（世に）知られていない；不明瞭な"
+  },
+  {
+    "uid": "word1900-1388",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1388,
+    "globalId": 4488,
+    "word": "skeptical",
+    "meaning": "（～に）懐疑的な"
+  },
+  {
+    "uid": "word1900-1389",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1389,
+    "globalId": 4489,
+    "word": "fragile",
+    "meaning": "壊れやすい；虚弱な"
+  },
+  {
+    "uid": "word1900-1390",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1390,
+    "globalId": 4490,
+    "word": "static",
+    "meaning": "静的な；動きのない"
+  },
+  {
+    "uid": "word1900-1391",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1391,
+    "globalId": 4491,
+    "word": "gradual",
+    "meaning": "徐々の，緩やかな"
+  },
+  {
+    "uid": "word1900-1392",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1392,
+    "globalId": 4492,
+    "word": "vocal",
+    "meaning": "声の，発声の；はっきりものを言う"
+  },
+  {
+    "uid": "word1900-1393",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1393,
+    "globalId": 4493,
+    "word": "vivid",
+    "meaning": "鮮やかな；生き生きとした"
+  },
+  {
+    "uid": "word1900-1394",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1394,
+    "globalId": 4494,
+    "word": "imperial",
+    "meaning": "帝国の；皇帝の"
+  },
+  {
+    "uid": "word1900-1395",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1395,
+    "globalId": 4495,
+    "word": "hostile",
+    "meaning": "敵意のある"
+  },
+  {
+    "uid": "word1900-1396",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1396,
+    "globalId": 4496,
+    "word": "superficial",
+    "meaning": "表面的な"
+  },
+  {
+    "uid": "word1900-1397",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1397,
+    "globalId": 4497,
+    "word": "scarce",
+    "meaning": "乏しい；珍しい"
+  },
+  {
+    "uid": "word1900-1398",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1398,
+    "globalId": 4498,
+    "word": "gross",
+    "meaning": "総計の；甚だしい；粗野な"
+  },
+  {
+    "uid": "word1900-1399",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1399,
+    "globalId": 4499,
+    "word": "inherent",
+    "meaning": "生来の，本来的に備わっている"
+  },
+  {
+    "uid": "word1900-1400",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1400,
+    "globalId": 4500,
+    "word": "notable",
+    "meaning": "注目に値する；著名な"
+  },
+  {
+    "uid": "word1900-1401",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1401,
+    "globalId": 4501,
+    "word": "update",
+    "meaning": "を最新のものにする；をアップデートする"
+  },
+  {
+    "uid": "word1900-1402",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1402,
+    "globalId": 4502,
+    "word": "refresh",
+    "meaning": "（気分）をさわやかにする；（記憶など）を新たにする；を最新のものにする"
+  },
+  {
+    "uid": "word1900-1403",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1403,
+    "globalId": 4503,
+    "word": "bloom",
+    "meaning": "花が咲く；栄える"
+  },
+  {
+    "uid": "word1900-1404",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1404,
+    "globalId": 4504,
+    "word": "conquer",
+    "meaning": "を征服する；を克服する"
+  },
+  {
+    "uid": "word1900-1405",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1405,
+    "globalId": 4505,
+    "word": "induce",
+    "meaning": "を引き起こす；を説得する"
+  },
+  {
+    "uid": "word1900-1406",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1406,
+    "globalId": 4506,
+    "word": "attain",
+    "meaning": "を獲得する，達成する；に達する"
+  },
+  {
+    "uid": "word1900-1407",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1407,
+    "globalId": 4507,
+    "word": "spray",
+    "meaning": "を吹きかける，に吹きつける"
+  },
+  {
+    "uid": "word1900-1408",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1408,
+    "globalId": 4508,
+    "word": "retrieve",
+    "meaning": "（情報）を検索する；を取り戻す；を回復する"
+  },
+  {
+    "uid": "word1900-1409",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1409,
+    "globalId": 4509,
+    "word": "portray",
+    "meaning": "を描く；（の役）を演じる"
+  },
+  {
+    "uid": "word1900-1410",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1410,
+    "globalId": 4510,
+    "word": "scratch",
+    "meaning": "を引っかく；を取り消す，削除する"
+  },
+  {
+    "uid": "word1900-1411",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1411,
+    "globalId": 4511,
+    "word": "designate",
+    "meaning": "を指定する；を任命する"
+  },
+  {
+    "uid": "word1900-1412",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1412,
+    "globalId": 4512,
+    "word": "contradict",
+    "meaning": "と矛盾する；に反対意見を言う"
+  },
+  {
+    "uid": "word1900-1413",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1413,
+    "globalId": 4513,
+    "word": "sigh",
+    "meaning": "ため息をつく"
+  },
+  {
+    "uid": "word1900-1414",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1414,
+    "globalId": 4514,
+    "word": "disrupt",
+    "meaning": "を混乱させる；を分裂させる"
+  },
+  {
+    "uid": "word1900-1415",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1415,
+    "globalId": 4515,
+    "word": "depart",
+    "meaning": "出発する；（～から）それる（from）"
+  },
+  {
+    "uid": "word1900-1416",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1416,
+    "globalId": 4516,
+    "word": "navigate",
+    "meaning": "（を）誘導する；（を）操縦する；（を）航行する"
+  },
+  {
+    "uid": "word1900-1417",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1417,
+    "globalId": 4517,
+    "word": "beg",
+    "meaning": "に（～を）切に頼む（for）；（を）懇願する"
+  },
+  {
+    "uid": "word1900-1418",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1418,
+    "globalId": 4518,
+    "word": "inhabit",
+    "meaning": "に住んでいる；に宿る，存する"
+  },
+  {
+    "uid": "word1900-1419",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1419,
+    "globalId": 4519,
+    "word": "diagnose",
+    "meaning": "（を）診断する"
+  },
+  {
+    "uid": "word1900-1420",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1420,
+    "globalId": 4520,
+    "word": "comprehend",
+    "meaning": "を理解する"
+  },
+  {
+    "uid": "word1900-1421",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1421,
+    "globalId": 4521,
+    "word": "oblige",
+    "meaning": "に義務づける；に恩恵を施す"
+  },
+  {
+    "uid": "word1900-1422",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1422,
+    "globalId": 4522,
+    "word": "cram",
+    "meaning": "に詰め込む；詰め込み勉強をする"
+  },
+  {
+    "uid": "word1900-1423",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1423,
+    "globalId": 4523,
+    "word": "flock",
+    "meaning": "群がる，集まる"
+  },
+  {
+    "uid": "word1900-1424",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1424,
+    "globalId": 4524,
+    "word": "underestimate",
+    "meaning": "（を）過小評価する；（を）軽く見る；を少なく見積もる"
+  },
+  {
+    "uid": "word1900-1425",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1425,
+    "globalId": 4525,
+    "word": "clarify",
+    "meaning": "を明確にする"
+  },
+  {
+    "uid": "word1900-1426",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1426,
+    "globalId": 4526,
+    "word": "spark",
+    "meaning": "を引き起こす；を刺激する；スパークする"
+  },
+  {
+    "uid": "word1900-1427",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1427,
+    "globalId": 4527,
+    "word": "seize",
+    "meaning": "をつかむ；を奪い取る；を没収する"
+  },
+  {
+    "uid": "word1900-1428",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1428,
+    "globalId": 4528,
+    "word": "soar",
+    "meaning": "急上昇する；空高く飛ぶ"
+  },
+  {
+    "uid": "word1900-1429",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1429,
+    "globalId": 4529,
+    "word": "glow",
+    "meaning": "光り［照り］輝く；赤く燃える；紅潮する"
+  },
+  {
+    "uid": "word1900-1430",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1430,
+    "globalId": 4530,
+    "word": "disguise",
+    "meaning": "を（～に）変装させる（as）；を偽る"
+  },
+  {
+    "uid": "word1900-1431",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1431,
+    "globalId": 4531,
+    "word": "distort",
+    "meaning": "を歪める；歪む"
+  },
+  {
+    "uid": "word1900-1432",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1432,
+    "globalId": 4532,
+    "word": "undermine",
+    "meaning": "を徐々にむしばむ；を侵食する"
+  },
+  {
+    "uid": "word1900-1433",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1433,
+    "globalId": 4533,
+    "word": "abolish",
+    "meaning": "を廃止する"
+  },
+  {
+    "uid": "word1900-1434",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1434,
+    "globalId": 4534,
+    "word": "strip",
+    "meaning": "を［から］取り去る；を裸にする"
+  },
+  {
+    "uid": "word1900-1435",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1435,
+    "globalId": 4535,
+    "word": "dispose",
+    "meaning": "〔dispose ofで〕を処分する；を（…する）気にさせる（to do）；を配置する"
+  },
+  {
+    "uid": "word1900-1436",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1436,
+    "globalId": 4536,
+    "word": "dump",
+    "meaning": "を投棄する；をどさっと落とす"
+  },
+  {
+    "uid": "word1900-1437",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1437,
+    "globalId": 4537,
+    "word": "weave",
+    "meaning": "を織る；（計画・物語など）を作り上げる"
+  },
+  {
+    "uid": "word1900-1438",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1438,
+    "globalId": 4538,
+    "word": "refine",
+    "meaning": "を洗練する；を精製する"
+  },
+  {
+    "uid": "word1900-1439",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1439,
+    "globalId": 4539,
+    "word": "enrich",
+    "meaning": "を豊かにする；（物質）を濃縮化する"
+  },
+  {
+    "uid": "word1900-1440",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1440,
+    "globalId": 4540,
+    "word": "coordinate",
+    "meaning": "を調整する；を組織する；（服など）をコーディネートする"
+  },
+  {
+    "uid": "word1900-1441",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1441,
+    "globalId": 4541,
+    "word": "headline",
+    "meaning": "（新聞などの）見出し"
+  },
+  {
+    "uid": "word1900-1442",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1442,
+    "globalId": 4542,
+    "word": "internship",
+    "meaning": "【米】 実務［医学］研修；研修期間"
+  },
+  {
+    "uid": "word1900-1443",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1443,
+    "globalId": 4543,
+    "word": "outlet",
+    "meaning": "直売店，特売店；はけ口；【米】（電気の）コンセント"
+  },
+  {
+    "uid": "word1900-1444",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1444,
+    "globalId": 4544,
+    "word": "remedy",
+    "meaning": "治療（法）；治療薬；解決法"
+  },
+  {
+    "uid": "word1900-1445",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1445,
+    "globalId": 4545,
+    "word": "pill",
+    "meaning": "錠剤，丸薬；〔the ～〕ピル，経口避妊薬"
+  },
+  {
+    "uid": "word1900-1446",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1446,
+    "globalId": 4546,
+    "word": "reception",
+    "meaning": "反応；宴会；受付；受信（状態）"
+  },
+  {
+    "uid": "word1900-1447",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1447,
+    "globalId": 4547,
+    "word": "transaction",
+    "meaning": "（商）取引；（人と人との）交流"
+  },
+  {
+    "uid": "word1900-1448",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1448,
+    "globalId": 4548,
+    "word": "mutation",
+    "meaning": "突然変異（体）；変化"
+  },
+  {
+    "uid": "word1900-1449",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1449,
+    "globalId": 4549,
+    "word": "dairy",
+    "meaning": "〔集合的に〕乳製品；乳製品加工所［販売者］"
+  },
+  {
+    "uid": "word1900-1450",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1450,
+    "globalId": 4550,
+    "word": "compassion",
+    "meaning": "同情"
+  },
+  {
+    "uid": "word1900-1451",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1451,
+    "globalId": 4551,
+    "word": "posture",
+    "meaning": "姿勢；心構え"
+  },
+  {
+    "uid": "word1900-1452",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1452,
+    "globalId": 4552,
+    "word": "curse",
+    "meaning": "悪態，ののしりの言葉；呪い；〔通例a ～〕災い"
+  },
+  {
+    "uid": "word1900-1453",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1453,
+    "globalId": 4553,
+    "word": "funeral",
+    "meaning": "葬式"
+  },
+  {
+    "uid": "word1900-1454",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1454,
+    "globalId": 4554,
+    "word": "census",
+    "meaning": "国勢調査；交通調査"
+  },
+  {
+    "uid": "word1900-1455",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1455,
+    "globalId": 4555,
+    "word": "encyclopedia",
+    "meaning": "百科事典"
+  },
+  {
+    "uid": "word1900-1456",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1456,
+    "globalId": 4556,
+    "word": "cereal",
+    "meaning": "〔通例～s〕穀物；シリアル（穀物加工食品）"
+  },
+  {
+    "uid": "word1900-1457",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1457,
+    "globalId": 4557,
+    "word": "fragment",
+    "meaning": "断片"
+  },
+  {
+    "uid": "word1900-1458",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1458,
+    "globalId": 4558,
+    "word": "patch",
+    "meaning": "（～の）部分，斑点；継ぎ；貼り薬"
+  },
+  {
+    "uid": "word1900-1459",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1459,
+    "globalId": 4559,
+    "word": "rubbish",
+    "meaning": "【英】 ごみ；つまらないもの"
+  },
+  {
+    "uid": "word1900-1460",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1460,
+    "globalId": 4560,
+    "word": "maze",
+    "meaning": "迷路；複雑に込み入ったもの"
+  },
+  {
+    "uid": "word1900-1461",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1461,
+    "globalId": 4561,
+    "word": "outlook",
+    "meaning": "見解；見通し；眺め"
+  },
+  {
+    "uid": "word1900-1462",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1462,
+    "globalId": 4562,
+    "word": "breakthrough",
+    "meaning": "大発見，飛躍的進歩"
+  },
+  {
+    "uid": "word1900-1463",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1463,
+    "globalId": 4563,
+    "word": "triumph",
+    "meaning": "勝利；勝利の喜び；偉業"
+  },
+  {
+    "uid": "word1900-1464",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1464,
+    "globalId": 4564,
+    "word": "ally",
+    "meaning": "同盟国；提携者；援助者；盟友"
+  },
+  {
+    "uid": "word1900-1465",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1465,
+    "globalId": 4565,
+    "word": "spectator",
+    "meaning": "（試合などの）観客"
+  },
+  {
+    "uid": "word1900-1466",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1466,
+    "globalId": 4566,
+    "word": "sphere",
+    "meaning": "領域；球体；天体"
+  },
+  {
+    "uid": "word1900-1467",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1467,
+    "globalId": 4567,
+    "word": "county",
+    "meaning": "【米】 郡；【英】州"
+  },
+  {
+    "uid": "word1900-1468",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1468,
+    "globalId": 4568,
+    "word": "behalf",
+    "meaning": "利益，味方"
+  },
+  {
+    "uid": "word1900-1469",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1469,
+    "globalId": 4569,
+    "word": "interval",
+    "meaning": "（時間の）間隔；合間；隔たり；小休止"
+  },
+  {
+    "uid": "word1900-1470",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1470,
+    "globalId": 4570,
+    "word": "circulation",
+    "meaning": "循環；流通；（新聞・雑誌の）発行部数"
+  },
+  {
+    "uid": "word1900-1471",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1471,
+    "globalId": 4571,
+    "word": "blade",
+    "meaning": "刃；（プロペラなどの）羽根；（草などの）葉"
+  },
+  {
+    "uid": "word1900-1472",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1472,
+    "globalId": 4572,
+    "word": "theft",
+    "meaning": "窃盗（罪）"
+  },
+  {
+    "uid": "word1900-1473",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1473,
+    "globalId": 4573,
+    "word": "vacuum",
+    "meaning": "真空；空虚"
+  },
+  {
+    "uid": "word1900-1474",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1474,
+    "globalId": 4574,
+    "word": "collision",
+    "meaning": "衝突；対立"
+  },
+  {
+    "uid": "word1900-1475",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1475,
+    "globalId": 4575,
+    "word": "bargain",
+    "meaning": "買い得品；取引；契約"
+  },
+  {
+    "uid": "word1900-1476",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1476,
+    "globalId": 4576,
+    "word": "landmark",
+    "meaning": "（ある場所の）目印；画期的な出来事"
+  },
+  {
+    "uid": "word1900-1477",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1477,
+    "globalId": 4577,
+    "word": "revenue",
+    "meaning": "歳入；収益"
+  },
+  {
+    "uid": "word1900-1478",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1478,
+    "globalId": 4578,
+    "word": "treaty",
+    "meaning": "（国家間の）条約；協定"
+  },
+  {
+    "uid": "word1900-1479",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1479,
+    "globalId": 4579,
+    "word": "supreme",
+    "meaning": "最高の"
+  },
+  {
+    "uid": "word1900-1480",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1480,
+    "globalId": 4580,
+    "word": "thorough",
+    "meaning": "徹底的な；まったくの"
+  },
+  {
+    "uid": "word1900-1481",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1481,
+    "globalId": 4581,
+    "word": "naked",
+    "meaning": "裸の"
+  },
+  {
+    "uid": "word1900-1482",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1482,
+    "globalId": 4582,
+    "word": "sincere",
+    "meaning": "心からの；誠実な"
+  },
+  {
+    "uid": "word1900-1483",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1483,
+    "globalId": 4583,
+    "word": "tame",
+    "meaning": "飼いならされた，人に慣れた；退屈な"
+  },
+  {
+    "uid": "word1900-1484",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1484,
+    "globalId": 4584,
+    "word": "insufficient",
+    "meaning": "不十分な；不適当な"
+  },
+  {
+    "uid": "word1900-1485",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1485,
+    "globalId": 4585,
+    "word": "dim",
+    "meaning": "薄暗い；ぼんやりした"
+  },
+  {
+    "uid": "word1900-1486",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1486,
+    "globalId": 4586,
+    "word": "acute",
+    "meaning": "（痛み・感情などが）激しい；（知覚などが）鋭い；急性の"
+  },
+  {
+    "uid": "word1900-1487",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1487,
+    "globalId": 4587,
+    "word": "disabled",
+    "meaning": "障害のある；障害者用の"
+  },
+  {
+    "uid": "word1900-1488",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1488,
+    "globalId": 4588,
+    "word": "metropolitan",
+    "meaning": "大都市の，首都圏の"
+  },
+  {
+    "uid": "word1900-1489",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1489,
+    "globalId": 4589,
+    "word": "monetary",
+    "meaning": "金銭的な；金融の"
+  },
+  {
+    "uid": "word1900-1490",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1490,
+    "globalId": 4590,
+    "word": "alternate",
+    "meaning": "代わりの；交互の"
+  },
+  {
+    "uid": "word1900-1491",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1491,
+    "globalId": 4591,
+    "word": "partial",
+    "meaning": "部分的な；不公平な"
+  },
+  {
+    "uid": "word1900-1492",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1492,
+    "globalId": 4592,
+    "word": "divine",
+    "meaning": "神の；神にささげる"
+  },
+  {
+    "uid": "word1900-1493",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1493,
+    "globalId": 4593,
+    "word": "drastic",
+    "meaning": "徹底的な，抜本的な；極端な"
+  },
+  {
+    "uid": "word1900-1494",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1494,
+    "globalId": 4594,
+    "word": "fierce",
+    "meaning": "猛烈な；どう猛な"
+  },
+  {
+    "uid": "word1900-1495",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1495,
+    "globalId": 4595,
+    "word": "sole",
+    "meaning": "唯一の；単独の；独占的な"
+  },
+  {
+    "uid": "word1900-1496",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1496,
+    "globalId": 4596,
+    "word": "spontaneous",
+    "meaning": "自然発生的な；自発的な"
+  },
+  {
+    "uid": "word1900-1497",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1497,
+    "globalId": 4597,
+    "word": "spatial",
+    "meaning": "空間の"
+  },
+  {
+    "uid": "word1900-1498",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1498,
+    "globalId": 4598,
+    "word": "neat",
+    "meaning": "きちんとした；見事な"
+  },
+  {
+    "uid": "word1900-1499",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1499,
+    "globalId": 4599,
+    "word": "tidy",
+    "meaning": "きちんとした，整頓された；相当の"
+  },
+  {
+    "uid": "word1900-1500",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1500,
+    "globalId": 4600,
+    "word": "loyal",
+    "meaning": "（～に）忠実な（to）；誠実な"
+  },
+  {
+    "uid": "word1900-1501",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1501,
+    "globalId": 4601,
+    "word": "bless",
+    "meaning": "に恩恵を与える；に感謝する"
+  },
+  {
+    "uid": "word1900-1502",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1502,
+    "globalId": 4602,
+    "word": "regain",
+    "meaning": "取り戻す"
+  },
+  {
+    "uid": "word1900-1503",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1503,
+    "globalId": 4603,
+    "word": "conform",
+    "meaning": "順応する；一致する"
+  },
+  {
+    "uid": "word1900-1504",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1504,
+    "globalId": 4604,
+    "word": "enroll",
+    "meaning": "登録する，入会する；を登録させる"
+  },
+  {
+    "uid": "word1900-1505",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1505,
+    "globalId": 4605,
+    "word": "entitle",
+    "meaning": "に権利を与える；に題名をつける"
+  },
+  {
+    "uid": "word1900-1506",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1506,
+    "globalId": 4606,
+    "word": "halt",
+    "meaning": "を止める；止まる"
+  },
+  {
+    "uid": "word1900-1507",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1507,
+    "globalId": 4607,
+    "word": "provoke",
+    "meaning": "（感情・行動など）を引き起こす；を挑発する"
+  },
+  {
+    "uid": "word1900-1508",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1508,
+    "globalId": 4608,
+    "word": "invade",
+    "meaning": "を侵略する；を侵害する；（場所）に殺到する"
+  },
+  {
+    "uid": "word1900-1509",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1509,
+    "globalId": 4609,
+    "word": "squeeze",
+    "meaning": "押し入る；を押し込む；（を）搾る；（を）強く押す"
+  },
+  {
+    "uid": "word1900-1510",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1510,
+    "globalId": 4610,
+    "word": "crawl",
+    "meaning": "はう；ゆっくり進む"
+  },
+  {
+    "uid": "word1900-1511",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1511,
+    "globalId": 4611,
+    "word": "digest",
+    "meaning": "を消化する；を理解する；を要約する"
+  },
+  {
+    "uid": "word1900-1512",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1512,
+    "globalId": 4612,
+    "word": "utter",
+    "meaning": "（声）を発する；（考えなど）を述べる"
+  },
+  {
+    "uid": "word1900-1513",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1513,
+    "globalId": 4613,
+    "word": "refrain",
+    "meaning": "控える"
+  },
+  {
+    "uid": "word1900-1514",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1514,
+    "globalId": 4614,
+    "word": "populate",
+    "meaning": "に住む，の住民である；に人を住まわせる"
+  },
+  {
+    "uid": "word1900-1515",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1515,
+    "globalId": 4615,
+    "word": "accommodate",
+    "meaning": "を収容する；を（～に）適応させる（to）"
+  },
+  {
+    "uid": "word1900-1516",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1516,
+    "globalId": 4616,
+    "word": "steer",
+    "meaning": "（を）操縦する；を（～へ）向ける（to）"
+  },
+  {
+    "uid": "word1900-1517",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1517,
+    "globalId": 4617,
+    "word": "drown",
+    "meaning": "溺死する；を水浸しにする"
+  },
+  {
+    "uid": "word1900-1518",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1518,
+    "globalId": 4618,
+    "word": "dip",
+    "meaning": "を浸す；（手など）を（～に）突っ込む（into / in）；下がる"
+  },
+  {
+    "uid": "word1900-1519",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1519,
+    "globalId": 4619,
+    "word": "soak",
+    "meaning": "を浸す；をずぶぬれにする；浸る"
+  },
+  {
+    "uid": "word1900-1520",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1520,
+    "globalId": 4620,
+    "word": "stir",
+    "meaning": "をかき回す；を揺り動かす"
+  },
+  {
+    "uid": "word1900-1521",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1521,
+    "globalId": 4621,
+    "word": "transplant",
+    "meaning": "を移植する；を移住させる"
+  },
+  {
+    "uid": "word1900-1522",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1522,
+    "globalId": 4622,
+    "word": "reassure",
+    "meaning": "を安心させる"
+  },
+  {
+    "uid": "word1900-1523",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1523,
+    "globalId": 4623,
+    "word": "resume",
+    "meaning": "（を）再開する；を取り戻す"
+  },
+  {
+    "uid": "word1900-1524",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1524,
+    "globalId": 4624,
+    "word": "speculate",
+    "meaning": "（と）推測する；投機する"
+  },
+  {
+    "uid": "word1900-1525",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1525,
+    "globalId": 4625,
+    "word": "surpass",
+    "meaning": "を上回る"
+  },
+  {
+    "uid": "word1900-1526",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1526,
+    "globalId": 4626,
+    "word": "appoint",
+    "meaning": "を任命する；（日時・場所など）を指定する"
+  },
+  {
+    "uid": "word1900-1527",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1527,
+    "globalId": 4627,
+    "word": "intrigue",
+    "meaning": "に興味を持たせる；陰謀を企てる"
+  },
+  {
+    "uid": "word1900-1528",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1528,
+    "globalId": 4628,
+    "word": "decay",
+    "meaning": "腐敗する；（徐々に）衰える"
+  },
+  {
+    "uid": "word1900-1529",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1529,
+    "globalId": 4629,
+    "word": "contaminate",
+    "meaning": "を汚染する；を堕落させる"
+  },
+  {
+    "uid": "word1900-1530",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1530,
+    "globalId": 4630,
+    "word": "swell",
+    "meaning": "膨張する，腫れる；を膨らませる"
+  },
+  {
+    "uid": "word1900-1531",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1531,
+    "globalId": 4631,
+    "word": "delete",
+    "meaning": "を削除する，消す"
+  },
+  {
+    "uid": "word1900-1532",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1532,
+    "globalId": 4632,
+    "word": "tolerate",
+    "meaning": "を許容する，我慢する"
+  },
+  {
+    "uid": "word1900-1533",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1533,
+    "globalId": 4633,
+    "word": "envy",
+    "meaning": "をうらやむ"
+  },
+  {
+    "uid": "word1900-1534",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1534,
+    "globalId": 4634,
+    "word": "pray",
+    "meaning": "（を）祈る"
+  },
+  {
+    "uid": "word1900-1535",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1535,
+    "globalId": 4635,
+    "word": "confess",
+    "meaning": "（を）告白する"
+  },
+  {
+    "uid": "word1900-1536",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1536,
+    "globalId": 4636,
+    "word": "resign",
+    "meaning": "（を）辞任する；を放棄する"
+  },
+  {
+    "uid": "word1900-1537",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1537,
+    "globalId": 4637,
+    "word": "dissolve",
+    "meaning": "（を）溶かす；（議会など）を解散する；（契約など）を解消する；溶ける"
+  },
+  {
+    "uid": "word1900-1538",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1538,
+    "globalId": 4638,
+    "word": "unfold",
+    "meaning": "（閉じたもの）を開く；を明らかにする；開く；明らかになる"
+  },
+  {
+    "uid": "word1900-1539",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1539,
+    "globalId": 4639,
+    "word": "awaken",
+    "meaning": "を目覚めさせる；（～から）覚める（from）"
+  },
+  {
+    "uid": "word1900-1540",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1540,
+    "globalId": 4640,
+    "word": "conceive",
+    "meaning": "（を）思いつく；と想像する；（を）妊娠する"
+  },
+  {
+    "uid": "word1900-1541",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1541,
+    "globalId": 4641,
+    "word": "entrepreneur",
+    "meaning": "起業家，事業家"
+  },
+  {
+    "uid": "word1900-1542",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1542,
+    "globalId": 4642,
+    "word": "stake",
+    "meaning": "利害関係；〔通例～s〕賭け金；杭"
+  },
+  {
+    "uid": "word1900-1543",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1543,
+    "globalId": 4643,
+    "word": "surplus",
+    "meaning": "余剰，過剰；黒字"
+  },
+  {
+    "uid": "word1900-1544",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1544,
+    "globalId": 4644,
+    "word": "inflation",
+    "meaning": "インフレ（ーション）；（物価の）高騰"
+  },
+  {
+    "uid": "word1900-1545",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1545,
+    "globalId": 4645,
+    "word": "sweatshop",
+    "meaning": "搾取工場"
+  },
+  {
+    "uid": "word1900-1546",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1546,
+    "globalId": 4646,
+    "word": "clash",
+    "meaning": "衝突；対立；かち合うこと；ガチャンという音"
+  },
+  {
+    "uid": "word1900-1547",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1547,
+    "globalId": 4647,
+    "word": "sociology",
+    "meaning": "社会学"
+  },
+  {
+    "uid": "word1900-1548",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1548,
+    "globalId": 4648,
+    "word": "ideology",
+    "meaning": "イデオロギー，思想傾向"
+  },
+  {
+    "uid": "word1900-1549",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1549,
+    "globalId": 4649,
+    "word": "margin",
+    "meaning": "余白；差；利ざや"
+  },
+  {
+    "uid": "word1900-1550",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1550,
+    "globalId": 4650,
+    "word": "realm",
+    "meaning": "領域；領土"
+  },
+  {
+    "uid": "word1900-1551",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1551,
+    "globalId": 4651,
+    "word": "domain",
+    "meaning": "分野；領域；ドメイン"
+  },
+  {
+    "uid": "word1900-1552",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1552,
+    "globalId": 4652,
+    "word": "algorithm",
+    "meaning": "アルゴリズム；問題解決の手順"
+  },
+  {
+    "uid": "word1900-1553",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1553,
+    "globalId": 4653,
+    "word": "prairie",
+    "meaning": "大草原"
+  },
+  {
+    "uid": "word1900-1554",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1554,
+    "globalId": 4654,
+    "word": "frontier",
+    "meaning": "〔通例the ～s〕最先端；〔the ～〕 【米】辺境地；国境"
+  },
+  {
+    "uid": "word1900-1555",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1555,
+    "globalId": 4655,
+    "word": "bullet",
+    "meaning": "銃弾"
+  },
+  {
+    "uid": "word1900-1556",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1556,
+    "globalId": 4656,
+    "word": "shield",
+    "meaning": "盾，防御物"
+  },
+  {
+    "uid": "word1900-1557",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1557,
+    "globalId": 4657,
+    "word": "despair",
+    "meaning": "絶望"
+  },
+  {
+    "uid": "word1900-1558",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1558,
+    "globalId": 4658,
+    "word": "radiation",
+    "meaning": "放射能，放射線"
+  },
+  {
+    "uid": "word1900-1559",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1559,
+    "globalId": 4659,
+    "word": "placebo",
+    "meaning": "偽薬，プラシーボ；気休め"
+  },
+  {
+    "uid": "word1900-1560",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1560,
+    "globalId": 4660,
+    "word": "nursery",
+    "meaning": "託児所；苗床"
+  },
+  {
+    "uid": "word1900-1561",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1561,
+    "globalId": 4661,
+    "word": "spouse",
+    "meaning": "配偶者"
+  },
+  {
+    "uid": "word1900-1562",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1562,
+    "globalId": 4662,
+    "word": "makeup",
+    "meaning": "化粧；化粧品；構成；性質"
+  },
+  {
+    "uid": "word1900-1563",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1563,
+    "globalId": 4663,
+    "word": "mummy",
+    "meaning": "ミイラ；【英】ママ，お母さん"
+  },
+  {
+    "uid": "word1900-1564",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1564,
+    "globalId": 4664,
+    "word": "flesh",
+    "meaning": "（人・動物の）肉；果肉"
+  },
+  {
+    "uid": "word1900-1565",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1565,
+    "globalId": 4665,
+    "word": "limb",
+    "meaning": "手足"
+  },
+  {
+    "uid": "word1900-1566",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1566,
+    "globalId": 4666,
+    "word": "odor",
+    "meaning": "におい；気配"
+  },
+  {
+    "uid": "word1900-1567",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1567,
+    "globalId": 4667,
+    "word": "laundry",
+    "meaning": "洗濯（物）；クリーニング店"
+  },
+  {
+    "uid": "word1900-1568",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1568,
+    "globalId": 4668,
+    "word": "tide",
+    "meaning": "潮（の干満）；動向"
+  },
+  {
+    "uid": "word1900-1569",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1569,
+    "globalId": 4669,
+    "word": "questionnaire",
+    "meaning": "アンケート"
+  },
+  {
+    "uid": "word1900-1570",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1570,
+    "globalId": 4670,
+    "word": "nonsense",
+    "meaning": "ばかげた物［話，考え］；無意味な言葉"
+  },
+  {
+    "uid": "word1900-1571",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1571,
+    "globalId": 4671,
+    "word": "revenge",
+    "meaning": "復讐"
+  },
+  {
+    "uid": "word1900-1572",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1572,
+    "globalId": 4672,
+    "word": "intellect",
+    "meaning": "知性；〔the ～（s）〕知識人"
+  },
+  {
+    "uid": "word1900-1573",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1573,
+    "globalId": 4673,
+    "word": "hospitality",
+    "meaning": "親切なもてなし，歓待；受容性"
+  },
+  {
+    "uid": "word1900-1574",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1574,
+    "globalId": 4674,
+    "word": "librarian",
+    "meaning": "司書，図書館員"
+  },
+  {
+    "uid": "word1900-1575",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1575,
+    "globalId": 4675,
+    "word": "manuscript",
+    "meaning": "（手書きの）原稿；写本"
+  },
+  {
+    "uid": "word1900-1576",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1576,
+    "globalId": 4676,
+    "word": "obsession",
+    "meaning": "（考えなどに）取りつかれること；妄想；強迫観念"
+  },
+  {
+    "uid": "word1900-1577",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1577,
+    "globalId": 4677,
+    "word": "hygiene",
+    "meaning": "衛生（状態）；健康法"
+  },
+  {
+    "uid": "word1900-1578",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1578,
+    "globalId": 4678,
+    "word": "paradigm",
+    "meaning": "典型；枠組み；パラダイム"
+  },
+  {
+    "uid": "word1900-1579",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1579,
+    "globalId": 4679,
+    "word": "legitimate",
+    "meaning": "合法的な；妥当な"
+  },
+  {
+    "uid": "word1900-1580",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1580,
+    "globalId": 4680,
+    "word": "authentic",
+    "meaning": "本物の；信頼できる"
+  },
+  {
+    "uid": "word1900-1581",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1581,
+    "globalId": 4681,
+    "word": "empirical",
+    "meaning": "経験的な；経験主義の"
+  },
+  {
+    "uid": "word1900-1582",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1582,
+    "globalId": 4682,
+    "word": "immense",
+    "meaning": "膨大な"
+  },
+  {
+    "uid": "word1900-1583",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1583,
+    "globalId": 4683,
+    "word": "absurd",
+    "meaning": "ばかげた；不合理な"
+  },
+  {
+    "uid": "word1900-1584",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1584,
+    "globalId": 4684,
+    "word": "weird",
+    "meaning": "異様な，奇妙な"
+  },
+  {
+    "uid": "word1900-1585",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1585,
+    "globalId": 4685,
+    "word": "accidental",
+    "meaning": "偶然の；過失による"
+  },
+  {
+    "uid": "word1900-1586",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1586,
+    "globalId": 4686,
+    "word": "uneasy",
+    "meaning": "不安な；落ち着かない；ぎこちない"
+  },
+  {
+    "uid": "word1900-1587",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1587,
+    "globalId": 4687,
+    "word": "jealous",
+    "meaning": "嫉妬深い；用心深い"
+  },
+  {
+    "uid": "word1900-1588",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1588,
+    "globalId": 4688,
+    "word": "feminine",
+    "meaning": "女らしい"
+  },
+  {
+    "uid": "word1900-1589",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1589,
+    "globalId": 4689,
+    "word": "swift",
+    "meaning": "素早い"
+  },
+  {
+    "uid": "word1900-1590",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1590,
+    "globalId": 4690,
+    "word": "hollow",
+    "meaning": "空洞の；空虚な；うわべだけの"
+  },
+  {
+    "uid": "word1900-1591",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1591,
+    "globalId": 4691,
+    "word": "crude",
+    "meaning": "大まかな；粗野な；未精製の"
+  },
+  {
+    "uid": "word1900-1592",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1592,
+    "globalId": 4692,
+    "word": "sore",
+    "meaning": "痛い；腹を立てている"
+  },
+  {
+    "uid": "word1900-1593",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1593,
+    "globalId": 4693,
+    "word": "pessimistic",
+    "meaning": "悲観的な"
+  },
+  {
+    "uid": "word1900-1594",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1594,
+    "globalId": 4694,
+    "word": "vain",
+    "meaning": "無駄な；うぬぼれた"
+  },
+  {
+    "uid": "word1900-1595",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1595,
+    "globalId": 4695,
+    "word": "susceptible",
+    "meaning": "（～の）影響を受けやすい（to）；感染しやすい"
+  },
+  {
+    "uid": "word1900-1596",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1596,
+    "globalId": 4696,
+    "word": "edible",
+    "meaning": "食用の，食べられる"
+  },
+  {
+    "uid": "word1900-1597",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1597,
+    "globalId": 4697,
+    "word": "sheer",
+    "meaning": "純然たる，真の；すごい；（布が）薄地の"
+  },
+  {
+    "uid": "word1900-1598",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1598,
+    "globalId": 4698,
+    "word": "explicit",
+    "meaning": "明白な；率直な"
+  },
+  {
+    "uid": "word1900-1599",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1599,
+    "globalId": 4699,
+    "word": "prone",
+    "meaning": "（～に）なりやすい（to）；（…する）傾向がある（to do）"
+  },
+  {
+    "uid": "word1900-1600",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1600,
+    "globalId": 4700,
+    "word": "affluent",
+    "meaning": "裕福な；豊富な"
+  },
+  {
+    "uid": "word1900-1601",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1601,
+    "globalId": 4701,
+    "word": "collaborate",
+    "meaning": "共同して働く；（～に）協力する（with）"
+  },
+  {
+    "uid": "word1900-1602",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1602,
+    "globalId": 4702,
+    "word": "exert",
+    "meaning": "を及ぼす；（力など）を行使する"
+  },
+  {
+    "uid": "word1900-1603",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1603,
+    "globalId": 4703,
+    "word": "excel",
+    "meaning": "（～で）秀でている（in / at）；に勝る"
+  },
+  {
+    "uid": "word1900-1604",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1604,
+    "globalId": 4704,
+    "word": "prosper",
+    "meaning": "栄える，成功する；繁殖する"
+  },
+  {
+    "uid": "word1900-1605",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1605,
+    "globalId": 4705,
+    "word": "surge",
+    "meaning": "殺到する；（感情が）こみ上げる；急騰する"
+  },
+  {
+    "uid": "word1900-1606",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1606,
+    "globalId": 4706,
+    "word": "intervene",
+    "meaning": "（～に）介入する（in）；介在する"
+  },
+  {
+    "uid": "word1900-1607",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1607,
+    "globalId": 4707,
+    "word": "insert",
+    "meaning": "を挿入する"
+  },
+  {
+    "uid": "word1900-1608",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1608,
+    "globalId": 4708,
+    "word": "overtake",
+    "meaning": "を追い抜く；に追いつく；（災難・強い感情などが）を襲う"
+  },
+  {
+    "uid": "word1900-1609",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1609,
+    "globalId": 4709,
+    "word": "snap",
+    "meaning": "をパチンと鳴らす；をポキッと折る；ポキッと折れる；パチンと音を立てる"
+  },
+  {
+    "uid": "word1900-1610",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1610,
+    "globalId": 4710,
+    "word": "carve",
+    "meaning": "を彫る；を切り開く；（肉）を切り分ける"
+  },
+  {
+    "uid": "word1900-1611",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1611,
+    "globalId": 4711,
+    "word": "addict",
+    "meaning": "〔受身形で〕（～の）中毒になる（to）；（～に）凝る"
+  },
+  {
+    "uid": "word1900-1612",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1612,
+    "globalId": 4712,
+    "word": "condemn",
+    "meaning": "を非難する；〔受身形で〕（～の刑を）宣告される（to）"
+  },
+  {
+    "uid": "word1900-1613",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1613,
+    "globalId": 4713,
+    "word": "convict",
+    "meaning": "に有罪を宣告する"
+  },
+  {
+    "uid": "word1900-1614",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1614,
+    "globalId": 4714,
+    "word": "dictate",
+    "meaning": "を指図する；を書き取らせる；を規定する"
+  },
+  {
+    "uid": "word1900-1615",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1615,
+    "globalId": 4715,
+    "word": "prescribe",
+    "meaning": "（薬など）を処方する；を規定する"
+  },
+  {
+    "uid": "word1900-1616",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1616,
+    "globalId": 4716,
+    "word": "inhibit",
+    "meaning": "を抑制する；を妨げる"
+  },
+  {
+    "uid": "word1900-1617",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1617,
+    "globalId": 4717,
+    "word": "stray",
+    "meaning": "はぐれる，（道に）迷う"
+  },
+  {
+    "uid": "word1900-1618",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1618,
+    "globalId": 4718,
+    "word": "roam",
+    "meaning": "（を）歩き回る；放浪する"
+  },
+  {
+    "uid": "word1900-1619",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1619,
+    "globalId": 4719,
+    "word": "enclose",
+    "meaning": "を同封する；を取り囲む"
+  },
+  {
+    "uid": "word1900-1620",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1620,
+    "globalId": 4720,
+    "word": "execute",
+    "meaning": "を実行する；を処刑する"
+  },
+  {
+    "uid": "word1900-1621",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1621,
+    "globalId": 4721,
+    "word": "coincide",
+    "meaning": "同時に起こる；一致する"
+  },
+  {
+    "uid": "word1900-1622",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1622,
+    "globalId": 4722,
+    "word": "lag",
+    "meaning": "遅れる；徐々に弱まる"
+  },
+  {
+    "uid": "word1900-1623",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1623,
+    "globalId": 4723,
+    "word": "cling",
+    "meaning": "しがみつく；くっつく"
+  },
+  {
+    "uid": "word1900-1624",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1624,
+    "globalId": 4724,
+    "word": "erase",
+    "meaning": "を消す"
+  },
+  {
+    "uid": "word1900-1625",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1625,
+    "globalId": 4725,
+    "word": "grind",
+    "meaning": "（穀物など）をひく"
+  },
+  {
+    "uid": "word1900-1626",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1626,
+    "globalId": 4726,
+    "word": "knit",
+    "meaning": "を編む；を結合する；編み物をする"
+  },
+  {
+    "uid": "word1900-1627",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1627,
+    "globalId": 4727,
+    "word": "inquire",
+    "meaning": "（を）尋ねる"
+  },
+  {
+    "uid": "word1900-1628",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1628,
+    "globalId": 4728,
+    "word": "betray",
+    "meaning": "をうっかり表す；を裏切る"
+  },
+  {
+    "uid": "word1900-1629",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1629,
+    "globalId": 4729,
+    "word": "leak",
+    "meaning": "漏れる；を漏らす"
+  },
+  {
+    "uid": "word1900-1630",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1630,
+    "globalId": 4730,
+    "word": "smash",
+    "meaning": "を粉砕する；を強打する；粉々に壊れる；激突する"
+  },
+  {
+    "uid": "word1900-1631",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1631,
+    "globalId": 4731,
+    "word": "bounce",
+    "meaning": "跳ねる；反射する；を弾ませる；（Ｅメールが）（宛先不明で）返送される"
+  },
+  {
+    "uid": "word1900-1632",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1632,
+    "globalId": 4732,
+    "word": "sprawl",
+    "meaning": "（都市などが）不規則に広がる；だらしなく手足を伸ばす"
+  },
+  {
+    "uid": "word1900-1633",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1633,
+    "globalId": 4733,
+    "word": "converse",
+    "meaning": "（～と）会話をする（with）"
+  },
+  {
+    "uid": "word1900-1634",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1634,
+    "globalId": 4734,
+    "word": "recite",
+    "meaning": "を暗唱する；を詳述する"
+  },
+  {
+    "uid": "word1900-1635",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1635,
+    "globalId": 4735,
+    "word": "disregard",
+    "meaning": "を無視する；を軽視する"
+  },
+  {
+    "uid": "word1900-1636",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1636,
+    "globalId": 4736,
+    "word": "frown",
+    "meaning": "眉をひそめる"
+  },
+  {
+    "uid": "word1900-1637",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1637,
+    "globalId": 4737,
+    "word": "evoke",
+    "meaning": "を呼び起こす"
+  },
+  {
+    "uid": "word1900-1638",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1638,
+    "globalId": 4738,
+    "word": "pledge",
+    "meaning": "を誓う，約束する；を与えることを約束する"
+  },
+  {
+    "uid": "word1900-1639",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1639,
+    "globalId": 4739,
+    "word": "aspire",
+    "meaning": "（～を）熱望する（to）"
+  },
+  {
+    "uid": "word1900-1640",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1640,
+    "globalId": 4740,
+    "word": "contemplate",
+    "meaning": "（を）熟考する；を予想する"
+  },
+  {
+    "uid": "word1900-1641",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1641,
+    "globalId": 4741,
+    "word": "grace",
+    "meaning": "優美，優雅；分別；（神の）恩寵"
+  },
+  {
+    "uid": "word1900-1642",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1642,
+    "globalId": 4742,
+    "word": "enlightenment",
+    "meaning": "啓蒙，啓発"
+  },
+  {
+    "uid": "word1900-1643",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1643,
+    "globalId": 4743,
+    "word": "commerce",
+    "meaning": "商業；貿易"
+  },
+  {
+    "uid": "word1900-1644",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1644,
+    "globalId": 4744,
+    "word": "draft",
+    "meaning": "下書き；為替手形；隙間風"
+  },
+  {
+    "uid": "word1900-1645",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1645,
+    "globalId": 4745,
+    "word": "barrel",
+    "meaning": "バレル（液量の単位）；たる"
+  },
+  {
+    "uid": "word1900-1646",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1646,
+    "globalId": 4746,
+    "word": "timber",
+    "meaning": "【英】 木材；樹木"
+  },
+  {
+    "uid": "word1900-1647",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1647,
+    "globalId": 4747,
+    "word": "garment",
+    "meaning": "衣服"
+  },
+  {
+    "uid": "word1900-1648",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1648,
+    "globalId": 4748,
+    "word": "thread",
+    "meaning": "糸；（議論などの）筋道"
+  },
+  {
+    "uid": "word1900-1649",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1649,
+    "globalId": 4749,
+    "word": "cabinet",
+    "meaning": "〔しばしばthe C-〕内閣；戸棚"
+  },
+  {
+    "uid": "word1900-1650",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1650,
+    "globalId": 4750,
+    "word": "bureau",
+    "meaning": "（官庁の）局；事務局；案内所"
+  },
+  {
+    "uid": "word1900-1651",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1651,
+    "globalId": 4751,
+    "word": "autonomy",
+    "meaning": "（個人の）自律；自治（権）；自治体"
+  },
+  {
+    "uid": "word1900-1652",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1652,
+    "globalId": 4752,
+    "word": "toll",
+    "meaning": "損害（の程度）；死傷者数；通行料"
+  },
+  {
+    "uid": "word1900-1653",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1653,
+    "globalId": 4753,
+    "word": "discourse",
+    "meaning": "話し合い，会話；講演；論説"
+  },
+  {
+    "uid": "word1900-1654",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1654,
+    "globalId": 4754,
+    "word": "superstition",
+    "meaning": "迷信"
+  },
+  {
+    "uid": "word1900-1655",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1655,
+    "globalId": 4755,
+    "word": "glimpse",
+    "meaning": "ちらりと見えること"
+  },
+  {
+    "uid": "word1900-1656",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1656,
+    "globalId": 4756,
+    "word": "arithmetic",
+    "meaning": "計算；算数"
+  },
+  {
+    "uid": "word1900-1657",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1657,
+    "globalId": 4757,
+    "word": "glossary",
+    "meaning": "用語小辞典；用語集"
+  },
+  {
+    "uid": "word1900-1658",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1658,
+    "globalId": 4758,
+    "word": "archive",
+    "meaning": "〔しばしば～s〕記録文書，公文書；公文書保管所；（コンピューターの）アーカイブ"
+  },
+  {
+    "uid": "word1900-1659",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1659,
+    "globalId": 4759,
+    "word": "legacy",
+    "meaning": "遺産"
+  },
+  {
+    "uid": "word1900-1660",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1660,
+    "globalId": 4760,
+    "word": "anthropology",
+    "meaning": "人類学"
+  },
+  {
+    "uid": "word1900-1661",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1661,
+    "globalId": 4761,
+    "word": "rage",
+    "meaning": "激怒；猛威"
+  },
+  {
+    "uid": "word1900-1662",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1662,
+    "globalId": 4762,
+    "word": "sorrow",
+    "meaning": "悲しみ"
+  },
+  {
+    "uid": "word1900-1663",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1663,
+    "globalId": 4763,
+    "word": "psychiatrist",
+    "meaning": "精神科医"
+  },
+  {
+    "uid": "word1900-1664",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1664,
+    "globalId": 4764,
+    "word": "ward",
+    "meaning": "行政区；病棟"
+  },
+  {
+    "uid": "word1900-1665",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1665,
+    "globalId": 4765,
+    "word": "stall",
+    "meaning": "露店；エンスト；失速"
+  },
+  {
+    "uid": "word1900-1666",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1666,
+    "globalId": 4766,
+    "word": "flame",
+    "meaning": "炎；情熱"
+  },
+  {
+    "uid": "word1900-1667",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1667,
+    "globalId": 4767,
+    "word": "moisture",
+    "meaning": "水分；湿気"
+  },
+  {
+    "uid": "word1900-1668",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1668,
+    "globalId": 4768,
+    "word": "irony",
+    "meaning": "皮肉"
+  },
+  {
+    "uid": "word1900-1669",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1669,
+    "globalId": 4769,
+    "word": "warrior",
+    "meaning": "戦士"
+  },
+  {
+    "uid": "word1900-1670",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1670,
+    "globalId": 4770,
+    "word": "astronomy",
+    "meaning": "天文学"
+  },
+  {
+    "uid": "word1900-1671",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1671,
+    "globalId": 4771,
+    "word": "probe",
+    "meaning": "（無人）宇宙探査機；（～の）精査（into）；探り針"
+  },
+  {
+    "uid": "word1900-1672",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1672,
+    "globalId": 4772,
+    "word": "altitude",
+    "meaning": "高度，標高"
+  },
+  {
+    "uid": "word1900-1673",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1673,
+    "globalId": 4773,
+    "word": "tumor",
+    "meaning": "腫瘍；腫れ物"
+  },
+  {
+    "uid": "word1900-1674",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1674,
+    "globalId": 4774,
+    "word": "defect",
+    "meaning": "欠陥；不足"
+  },
+  {
+    "uid": "word1900-1675",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1675,
+    "globalId": 4775,
+    "word": "sanitation",
+    "meaning": "公衆衛生（学）；下水［衛生］設備"
+  },
+  {
+    "uid": "word1900-1676",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1676,
+    "globalId": 4776,
+    "word": "longevity",
+    "meaning": "長寿；寿命；長年勤続"
+  },
+  {
+    "uid": "word1900-1677",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1677,
+    "globalId": 4777,
+    "word": "scope",
+    "meaning": "（活動・能力などの）範囲；余地"
+  },
+  {
+    "uid": "word1900-1678",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1678,
+    "globalId": 4778,
+    "word": "sentiment",
+    "meaning": "感情；感想；感傷"
+  },
+  {
+    "uid": "word1900-1679",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1679,
+    "globalId": 4779,
+    "word": "plausible",
+    "meaning": "もっともらしい"
+  },
+  {
+    "uid": "word1900-1680",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1680,
+    "globalId": 4780,
+    "word": "vigorous",
+    "meaning": "精力的な；激しい；活力のある"
+  },
+  {
+    "uid": "word1900-1681",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1681,
+    "globalId": 4781,
+    "word": "masculine",
+    "meaning": "男らしい"
+  },
+  {
+    "uid": "word1900-1682",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1682,
+    "globalId": 4782,
+    "word": "rigid",
+    "meaning": "厳しい；硬直した"
+  },
+  {
+    "uid": "word1900-1683",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1683,
+    "globalId": 4783,
+    "word": "adverse",
+    "meaning": "不都合な；逆の"
+  },
+  {
+    "uid": "word1900-1684",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1684,
+    "globalId": 4784,
+    "word": "coherent",
+    "meaning": "一貫した，筋の通った；結束した"
+  },
+  {
+    "uid": "word1900-1685",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1685,
+    "globalId": 4785,
+    "word": "literal",
+    "meaning": "文字どおりの；逐語的な；散文的な"
+  },
+  {
+    "uid": "word1900-1686",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1686,
+    "globalId": 4786,
+    "word": "arbitrary",
+    "meaning": "恣意的な；独断的な"
+  },
+  {
+    "uid": "word1900-1687",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1687,
+    "globalId": 4787,
+    "word": "anonymous",
+    "meaning": "匿名の"
+  },
+  {
+    "uid": "word1900-1688",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1688,
+    "globalId": 4788,
+    "word": "antique",
+    "meaning": "骨董の，アンティークの；古風な"
+  },
+  {
+    "uid": "word1900-1689",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1689,
+    "globalId": 4789,
+    "word": "eternal",
+    "meaning": "永遠の；不変の"
+  },
+  {
+    "uid": "word1900-1690",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1690,
+    "globalId": 4790,
+    "word": "intermediate",
+    "meaning": "中級の；中間の"
+  },
+  {
+    "uid": "word1900-1691",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1691,
+    "globalId": 4791,
+    "word": "subordinate",
+    "meaning": "（～より）下位の（to）；副次的な"
+  },
+  {
+    "uid": "word1900-1692",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1692,
+    "globalId": 4792,
+    "word": "gloomy",
+    "meaning": "陰気な；薄暗い；悲観的な"
+  },
+  {
+    "uid": "word1900-1693",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1693,
+    "globalId": 4793,
+    "word": "thermal",
+    "meaning": "熱の，熱による；保温用の"
+  },
+  {
+    "uid": "word1900-1694",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1694,
+    "globalId": 4794,
+    "word": "faint",
+    "meaning": "かすかな；めまいがする；弱々しい"
+  },
+  {
+    "uid": "word1900-1695",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1695,
+    "globalId": 4795,
+    "word": "naive",
+    "meaning": "お人よしの，愚直な；純朴な"
+  },
+  {
+    "uid": "word1900-1696",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1696,
+    "globalId": 4796,
+    "word": "apt",
+    "meaning": "（…する）傾向がある（to do）；適切な；利発な"
+  },
+  {
+    "uid": "word1900-1697",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1697,
+    "globalId": 4797,
+    "word": "arrogant",
+    "meaning": "横柄な，傲慢な"
+  },
+  {
+    "uid": "word1900-1698",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1698,
+    "globalId": 4798,
+    "word": "extrovert",
+    "meaning": "外向的な；社交的な"
+  },
+  {
+    "uid": "word1900-1699",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1699,
+    "globalId": 4799,
+    "word": "conspicuous",
+    "meaning": "目立つ"
+  },
+  {
+    "uid": "word1900-1700",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1700,
+    "globalId": 4800,
+    "word": "intact",
+    "meaning": "損なわれていない，手つかずの"
+  },
+  {
+    "uid": "word1900-1701",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1701,
+    "globalId": 4801,
+    "word": "embody",
+    "meaning": "を具現する；を包含する"
+  },
+  {
+    "uid": "word1900-1702",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1702,
+    "globalId": 4802,
+    "word": "illuminate",
+    "meaning": "を照らす；を解明する"
+  },
+  {
+    "uid": "word1900-1703",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1703,
+    "globalId": 4803,
+    "word": "console",
+    "meaning": "を慰める"
+  },
+  {
+    "uid": "word1900-1704",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1704,
+    "globalId": 4804,
+    "word": "verify",
+    "meaning": "の正しさを証明［確認］する"
+  },
+  {
+    "uid": "word1900-1705",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1705,
+    "globalId": 4805,
+    "word": "disclose",
+    "meaning": "を公表する，暴く"
+  },
+  {
+    "uid": "word1900-1706",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1706,
+    "globalId": 4806,
+    "word": "stack",
+    "meaning": "を積む，積み重ねる；〔～ upで〕（車が）渋滞する"
+  },
+  {
+    "uid": "word1900-1707",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1707,
+    "globalId": 4807,
+    "word": "rotate",
+    "meaning": "回転する；循環する；を回転させる"
+  },
+  {
+    "uid": "word1900-1708",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1708,
+    "globalId": 4808,
+    "word": "constrain",
+    "meaning": "に（…することを）強いる（to do）；を抑える"
+  },
+  {
+    "uid": "word1900-1709",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1709,
+    "globalId": 4809,
+    "word": "hinder",
+    "meaning": "を妨げる"
+  },
+  {
+    "uid": "word1900-1710",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1710,
+    "globalId": 4810,
+    "word": "withstand",
+    "meaning": "に耐える"
+  },
+  {
+    "uid": "word1900-1711",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1711,
+    "globalId": 4811,
+    "word": "tweet",
+    "meaning": "（を）ツイートする，つぶやく"
+  },
+  {
+    "uid": "word1900-1712",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1712,
+    "globalId": 4812,
+    "word": "sneeze",
+    "meaning": "くしゃみをする"
+  },
+  {
+    "uid": "word1900-1713",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1713,
+    "globalId": 4813,
+    "word": "erupt",
+    "meaning": "（火山が）噴火する；勃発する"
+  },
+  {
+    "uid": "word1900-1714",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1714,
+    "globalId": 4814,
+    "word": "blur",
+    "meaning": "をぼかす；を曇らせる；をあいまいにする"
+  },
+  {
+    "uid": "word1900-1715",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1715,
+    "globalId": 4815,
+    "word": "overlap",
+    "meaning": "（一部）重なる；（と）重複［共通］する"
+  },
+  {
+    "uid": "word1900-1716",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1716,
+    "globalId": 4816,
+    "word": "embed",
+    "meaning": "〔通例受身形で〕埋め込まれる，はめ込まれる"
+  },
+  {
+    "uid": "word1900-1717",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1717,
+    "globalId": 4817,
+    "word": "displace",
+    "meaning": "に取って代わる；を移動させる"
+  },
+  {
+    "uid": "word1900-1718",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1718,
+    "globalId": 4818,
+    "word": "render",
+    "meaning": "を（ある状態に）する；（援助など）を与える"
+  },
+  {
+    "uid": "word1900-1719",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1719,
+    "globalId": 4819,
+    "word": "plunge",
+    "meaning": "（～に）（を）突っ込む（into）；没頭する；陥る"
+  },
+  {
+    "uid": "word1900-1720",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1720,
+    "globalId": 4820,
+    "word": "surrender",
+    "meaning": "を放棄する，引き渡す；（～に）屈する（to）"
+  },
+  {
+    "uid": "word1900-1721",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1721,
+    "globalId": 4821,
+    "word": "plug",
+    "meaning": "〔plug inで〕のプラグを電源に差し込む；を（～で）ふさぐ（with）"
+  },
+  {
+    "uid": "word1900-1722",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1722,
+    "globalId": 4822,
+    "word": "suck",
+    "meaning": "（を）吸う；（を）しゃぶる"
+  },
+  {
+    "uid": "word1900-1723",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1723,
+    "globalId": 4823,
+    "word": "mock",
+    "meaning": "をばかにする；のまねをしてからかう"
+  },
+  {
+    "uid": "word1900-1724",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1724,
+    "globalId": 4824,
+    "word": "tease",
+    "meaning": "（を）からかう；をいじめる"
+  },
+  {
+    "uid": "word1900-1725",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1725,
+    "globalId": 4825,
+    "word": "soothe",
+    "meaning": "をなだめる；を和らげる"
+  },
+  {
+    "uid": "word1900-1726",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1726,
+    "globalId": 4826,
+    "word": "stain",
+    "meaning": "を汚す；に着色する"
+  },
+  {
+    "uid": "word1900-1727",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1727,
+    "globalId": 4827,
+    "word": "shun",
+    "meaning": "を避ける"
+  },
+  {
+    "uid": "word1900-1728",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1728,
+    "globalId": 4828,
+    "word": "stumble",
+    "meaning": "よろけながら歩く；（～に）つまずく（on / over）"
+  },
+  {
+    "uid": "word1900-1729",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1729,
+    "globalId": 4829,
+    "word": "flush",
+    "meaning": "を紅潮させる；を水で流す；紅潮する"
+  },
+  {
+    "uid": "word1900-1730",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1730,
+    "globalId": 4830,
+    "word": "impair",
+    "meaning": "を損なう"
+  },
+  {
+    "uid": "word1900-1731",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1731,
+    "globalId": 4831,
+    "word": "presume",
+    "meaning": "と思う；と推定する；を前提とする"
+  },
+  {
+    "uid": "word1900-1732",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1732,
+    "globalId": 4832,
+    "word": "contend",
+    "meaning": "と主張する；競う"
+  },
+  {
+    "uid": "word1900-1733",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1733,
+    "globalId": 4833,
+    "word": "roar",
+    "meaning": "うなる，ほえる；大笑いする"
+  },
+  {
+    "uid": "word1900-1734",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1734,
+    "globalId": 4834,
+    "word": "haunt",
+    "meaning": "（記憶・考えなどが）につきまとう；（幽霊などが）に出る；によく行く"
+  },
+  {
+    "uid": "word1900-1735",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1735,
+    "globalId": 4835,
+    "word": "divert",
+    "meaning": "（注意など）をそらす；を迂回させる；（資金など）を転用する"
+  },
+  {
+    "uid": "word1900-1736",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1736,
+    "globalId": 4836,
+    "word": "await",
+    "meaning": "を待つ"
+  },
+  {
+    "uid": "word1900-1737",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1737,
+    "globalId": 4837,
+    "word": "fetch",
+    "meaning": "を（行って）持って［連れて］くる"
+  },
+  {
+    "uid": "word1900-1738",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1738,
+    "globalId": 4838,
+    "word": "unify",
+    "meaning": "を統合［統一］する；統一される"
+  },
+  {
+    "uid": "word1900-1739",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1739,
+    "globalId": 4839,
+    "word": "inspect",
+    "meaning": "を点検する；を視察する"
+  },
+  {
+    "uid": "word1900-1740",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1740,
+    "globalId": 4840,
+    "word": "entail",
+    "meaning": "を伴う，引き起こす；（…すること）を含む（doing）"
+  },
+  {
+    "uid": "word1900-1741",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1741,
+    "globalId": 4841,
+    "word": "tactics",
+    "meaning": "作戦，方策；戦術，戦法"
+  },
+  {
+    "uid": "word1900-1742",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1742,
+    "globalId": 4842,
+    "word": "feat",
+    "meaning": "偉業，功績；妙技"
+  },
+  {
+    "uid": "word1900-1743",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1743,
+    "globalId": 4843,
+    "word": "prestige",
+    "meaning": "名声；〔形容詞的に〕名声のある"
+  },
+  {
+    "uid": "word1900-1744",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1744,
+    "globalId": 4844,
+    "word": "analogy",
+    "meaning": "類推；類似"
+  },
+  {
+    "uid": "word1900-1745",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1745,
+    "globalId": 4845,
+    "word": "conscience",
+    "meaning": "良心；分別"
+  },
+  {
+    "uid": "word1900-1746",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1746,
+    "globalId": 4846,
+    "word": "textile",
+    "meaning": "織物；繊維（産業）"
+  },
+  {
+    "uid": "word1900-1747",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1747,
+    "globalId": 4847,
+    "word": "deficit",
+    "meaning": "赤字，不足；欠陥"
+  },
+  {
+    "uid": "word1900-1748",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1748,
+    "globalId": 4848,
+    "word": "plague",
+    "meaning": "疫病；（害虫などの）異常発生"
+  },
+  {
+    "uid": "word1900-1749",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1749,
+    "globalId": 4849,
+    "word": "hazard",
+    "meaning": "危険（要素）；偶然"
+  },
+  {
+    "uid": "word1900-1750",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1750,
+    "globalId": 4850,
+    "word": "metabolism",
+    "meaning": "（新陳）代謝，代謝作用"
+  },
+  {
+    "uid": "word1900-1751",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1751,
+    "globalId": 4851,
+    "word": "paralysis",
+    "meaning": "麻痺；〔比喩的に〕麻痺（状態）"
+  },
+  {
+    "uid": "word1900-1752",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1752,
+    "globalId": 4852,
+    "word": "grid",
+    "meaning": "（電気などの）供給網；格子（模様）；碁盤目"
+  },
+  {
+    "uid": "word1900-1753",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1753,
+    "globalId": 4853,
+    "word": "carriage",
+    "meaning": "馬車；車両；立ち居振舞い；【英】輸送"
+  },
+  {
+    "uid": "word1900-1754",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1754,
+    "globalId": 4854,
+    "word": "friction",
+    "meaning": "不和；摩擦"
+  },
+  {
+    "uid": "word1900-1755",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1755,
+    "globalId": 4855,
+    "word": "rebel",
+    "meaning": "反逆者"
+  },
+  {
+    "uid": "word1900-1756",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1756,
+    "globalId": 4856,
+    "word": "regime",
+    "meaning": "政権，政体；体制"
+  },
+  {
+    "uid": "word1900-1757",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1757,
+    "globalId": 4857,
+    "word": "monopoly",
+    "meaning": "独占（権）"
+  },
+  {
+    "uid": "word1900-1758",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1758,
+    "globalId": 4858,
+    "word": "staple",
+    "meaning": "必需食品；主要産物"
+  },
+  {
+    "uid": "word1900-1759",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1759,
+    "globalId": 4859,
+    "word": "merchandise",
+    "meaning": "商品"
+  },
+  {
+    "uid": "word1900-1760",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1760,
+    "globalId": 4860,
+    "word": "vendor",
+    "meaning": "物売り，行商人；自動販売機"
+  },
+  {
+    "uid": "word1900-1761",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1761,
+    "globalId": 4861,
+    "word": "supervisor",
+    "meaning": "監督者；指導教員"
+  },
+  {
+    "uid": "word1900-1762",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1762,
+    "globalId": 4862,
+    "word": "predecessor",
+    "meaning": "前任者；前のもの"
+  },
+  {
+    "uid": "word1900-1763",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1763,
+    "globalId": 4863,
+    "word": "personnel",
+    "meaning": "〔集合的に〕職員，社員"
+  },
+  {
+    "uid": "word1900-1764",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1764,
+    "globalId": 4864,
+    "word": "vessel",
+    "meaning": "船舶；容器；（体液が通る）脈管"
+  },
+  {
+    "uid": "word1900-1765",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1765,
+    "globalId": 4865,
+    "word": "liver",
+    "meaning": "肝臓"
+  },
+  {
+    "uid": "word1900-1766",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1766,
+    "globalId": 4866,
+    "word": "duration",
+    "meaning": "（時間の）継続，持続（時間）"
+  },
+  {
+    "uid": "word1900-1767",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1767,
+    "globalId": 4867,
+    "word": "certificate",
+    "meaning": "証明書；免許状"
+  },
+  {
+    "uid": "word1900-1768",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1768,
+    "globalId": 4868,
+    "word": "geometry",
+    "meaning": "幾何学"
+  },
+  {
+    "uid": "word1900-1769",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1769,
+    "globalId": 4869,
+    "word": "symmetry",
+    "meaning": "（左右）対称；調和"
+  },
+  {
+    "uid": "word1900-1770",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1770,
+    "globalId": 4870,
+    "word": "biography",
+    "meaning": "伝記"
+  },
+  {
+    "uid": "word1900-1771",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1771,
+    "globalId": 4871,
+    "word": "masterpiece",
+    "meaning": "傑作"
+  },
+  {
+    "uid": "word1900-1772",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1772,
+    "globalId": 4872,
+    "word": "rhyme",
+    "meaning": "押韻詩；韻；〔通例～s〕詩歌"
+  },
+  {
+    "uid": "word1900-1773",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1773,
+    "globalId": 4873,
+    "word": "premium",
+    "meaning": "保険料；プレミア；景品"
+  },
+  {
+    "uid": "word1900-1774",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1774,
+    "globalId": 4874,
+    "word": "breakdown",
+    "meaning": "崩壊；（神経）衰弱；故障；内訳"
+  },
+  {
+    "uid": "word1900-1775",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1775,
+    "globalId": 4875,
+    "word": "courtesy",
+    "meaning": "礼儀正しさ；好意；優遇"
+  },
+  {
+    "uid": "word1900-1776",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1776,
+    "globalId": 4876,
+    "word": "protocol",
+    "meaning": "（条約）議定書；外交儀礼；プロトコル"
+  },
+  {
+    "uid": "word1900-1777",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1777,
+    "globalId": 4877,
+    "word": "specimen",
+    "meaning": "標本；実例"
+  },
+  {
+    "uid": "word1900-1778",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1778,
+    "globalId": 4878,
+    "word": "thesis",
+    "meaning": "論文；命題，テーゼ"
+  },
+  {
+    "uid": "word1900-1779",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1779,
+    "globalId": 4879,
+    "word": "eligible",
+    "meaning": "適格の，資格のある；（結婚相手として）望ましい"
+  },
+  {
+    "uid": "word1900-1780",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1780,
+    "globalId": 4880,
+    "word": "intrinsic",
+    "meaning": "固有の，本質的な"
+  },
+  {
+    "uid": "word1900-1781",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1781,
+    "globalId": 4881,
+    "word": "diligent",
+    "meaning": "勤勉な；入念な"
+  },
+  {
+    "uid": "word1900-1782",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1782,
+    "globalId": 4882,
+    "word": "vocational",
+    "meaning": "職業の，職業訓練の（ための）"
+  },
+  {
+    "uid": "word1900-1783",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1783,
+    "globalId": 4883,
+    "word": "bankrupt",
+    "meaning": "破産宣告を受けた；破綻している"
+  },
+  {
+    "uid": "word1900-1784",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1784,
+    "globalId": 4884,
+    "word": "stern",
+    "meaning": "厳しい；いかめしい"
+  },
+  {
+    "uid": "word1900-1785",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1785,
+    "globalId": 4885,
+    "word": "stubborn",
+    "meaning": "頑固な，強情な；手に負えない"
+  },
+  {
+    "uid": "word1900-1786",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1786,
+    "globalId": 4886,
+    "word": "maternal",
+    "meaning": "母の，母親らしい；妊婦の"
+  },
+  {
+    "uid": "word1900-1787",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1787,
+    "globalId": 4887,
+    "word": "fertile",
+    "meaning": "肥沃な；多産の"
+  },
+  {
+    "uid": "word1900-1788",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1788,
+    "globalId": 4888,
+    "word": "ripe",
+    "meaning": "熟した；成熟した"
+  },
+  {
+    "uid": "word1900-1789",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1789,
+    "globalId": 4889,
+    "word": "stiff",
+    "meaning": "硬直した，凝った；堅い"
+  },
+  {
+    "uid": "word1900-1790",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1790,
+    "globalId": 4890,
+    "word": "obsolete",
+    "meaning": "廃れた，使われなくなった；古くなった"
+  },
+  {
+    "uid": "word1900-1791",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1791,
+    "globalId": 4891,
+    "word": "vacant",
+    "meaning": "空いている"
+  },
+  {
+    "uid": "word1900-1792",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1792,
+    "globalId": 4892,
+    "word": "acoustic",
+    "meaning": "音響の；聴覚の；（楽器が）アコースティックの"
+  },
+  {
+    "uid": "word1900-1793",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1793,
+    "globalId": 4893,
+    "word": "preliminary",
+    "meaning": "予備の，準備の"
+  },
+  {
+    "uid": "word1900-1794",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1794,
+    "globalId": 4894,
+    "word": "approximate",
+    "meaning": "おおよその"
+  },
+  {
+    "uid": "word1900-1795",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1795,
+    "globalId": 4895,
+    "word": "implicit",
+    "meaning": "暗黙の；内在する"
+  },
+  {
+    "uid": "word1900-1796",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1796,
+    "globalId": 4896,
+    "word": "punctual",
+    "meaning": "時間を守る"
+  },
+  {
+    "uid": "word1900-1797",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1797,
+    "globalId": 4897,
+    "word": "compatible",
+    "meaning": "矛盾しない；互換性のある；気が合う"
+  },
+  {
+    "uid": "word1900-1798",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1798,
+    "globalId": 4898,
+    "word": "ample",
+    "meaning": "十分すぎるほどの；広い"
+  },
+  {
+    "uid": "word1900-1799",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1799,
+    "globalId": 4899,
+    "word": "pervasive",
+    "meaning": "隅々に広がった；浸透する；充満する"
+  },
+  {
+    "uid": "word1900-1800",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1800,
+    "globalId": 4900,
+    "word": "ubiquitous",
+    "meaning": "至る所にある"
+  },
+  {
+    "uid": "word1900-1801",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1801,
+    "globalId": 4901,
+    "word": "deduce",
+    "meaning": "を推測する，演繹する"
+  },
+  {
+    "uid": "word1900-1802",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1802,
+    "globalId": 4902,
+    "word": "simulate",
+    "meaning": "を模擬実験する；を装う；をまねる"
+  },
+  {
+    "uid": "word1900-1803",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1803,
+    "globalId": 4903,
+    "word": "merge",
+    "meaning": "（を）合併する；を融合させる；溶け込む"
+  },
+  {
+    "uid": "word1900-1804",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1804,
+    "globalId": 4904,
+    "word": "penetrate",
+    "meaning": "（に）浸透する；（に）進出する；（を）貫く；（を）見抜く"
+  },
+  {
+    "uid": "word1900-1805",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1805,
+    "globalId": 4905,
+    "word": "cater",
+    "meaning": "（の）料理をまかなう；（要望などに）応える"
+  },
+  {
+    "uid": "word1900-1806",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1806,
+    "globalId": 4906,
+    "word": "assault",
+    "meaning": "に暴行する；を攻撃する"
+  },
+  {
+    "uid": "word1900-1807",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1807,
+    "globalId": 4907,
+    "word": "torture",
+    "meaning": "を拷問にかける；を苦しめる"
+  },
+  {
+    "uid": "word1900-1808",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1808,
+    "globalId": 4908,
+    "word": "bleed",
+    "meaning": "出血する"
+  },
+  {
+    "uid": "word1900-1809",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1809,
+    "globalId": 4909,
+    "word": "erect",
+    "meaning": "を建てる；を直立させる"
+  },
+  {
+    "uid": "word1900-1810",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1810,
+    "globalId": 4910,
+    "word": "cherish",
+    "meaning": "を大切にする；を心に抱く"
+  },
+  {
+    "uid": "word1900-1811",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1811,
+    "globalId": 4911,
+    "word": "arouse",
+    "meaning": "（感情など）を引き起こす；を目覚めさせる"
+  },
+  {
+    "uid": "word1900-1812",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1812,
+    "globalId": 4912,
+    "word": "doom",
+    "meaning": "〔通例受身形で〕運命にある"
+  },
+  {
+    "uid": "word1900-1813",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1813,
+    "globalId": 4913,
+    "word": "mourn",
+    "meaning": "（を）悼む；（を）嘆く"
+  },
+  {
+    "uid": "word1900-1814",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1814,
+    "globalId": 4914,
+    "word": "dread",
+    "meaning": "をひどく恐れる"
+  },
+  {
+    "uid": "word1900-1815",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1815,
+    "globalId": 4915,
+    "word": "nourish",
+    "meaning": "に栄養を与える；をはぐくむ"
+  },
+  {
+    "uid": "word1900-1816",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1816,
+    "globalId": 4916,
+    "word": "inject",
+    "meaning": "（人）に注射する，を注入する；を導入する"
+  },
+  {
+    "uid": "word1900-1817",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1817,
+    "globalId": 4917,
+    "word": "swear",
+    "meaning": "（～を）ののしる（at）；（を）誓う"
+  },
+  {
+    "uid": "word1900-1818",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1818,
+    "globalId": 4918,
+    "word": "bid",
+    "meaning": "（～に）の値をつける；（挨拶）を述べる"
+  },
+  {
+    "uid": "word1900-1819",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1819,
+    "globalId": 4919,
+    "word": "corrupt",
+    "meaning": "を堕落させる；を買収する；堕落する"
+  },
+  {
+    "uid": "word1900-1820",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1820,
+    "globalId": 4920,
+    "word": "preoccupy",
+    "meaning": "の心を奪う，を夢中にさせる"
+  },
+  {
+    "uid": "word1900-1821",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1821,
+    "globalId": 4921,
+    "word": "browse",
+    "meaning": "（を）拾い読みする；（を）閲覧する；（商品など）を見て歩く"
+  },
+  {
+    "uid": "word1900-1822",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1822,
+    "globalId": 4922,
+    "word": "compile",
+    "meaning": "を編集する；（資料など）をまとめる"
+  },
+  {
+    "uid": "word1900-1823",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1823,
+    "globalId": 4923,
+    "word": "allocate",
+    "meaning": "を割り当てる，分配する"
+  },
+  {
+    "uid": "word1900-1824",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1824,
+    "globalId": 4924,
+    "word": "offset",
+    "meaning": "を相殺する，埋め合わせる；をオフセット印刷にする"
+  },
+  {
+    "uid": "word1900-1825",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1825,
+    "globalId": 4925,
+    "word": "restrain",
+    "meaning": "を制止する；を規制する"
+  },
+  {
+    "uid": "word1900-1826",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1826,
+    "globalId": 4926,
+    "word": "comply",
+    "meaning": "従う，応じる"
+  },
+  {
+    "uid": "word1900-1827",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1827,
+    "globalId": 4927,
+    "word": "expire",
+    "meaning": "期限が切れる"
+  },
+  {
+    "uid": "word1900-1828",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1828,
+    "globalId": 4928,
+    "word": "embark",
+    "meaning": "（～に）乗り出す（on）；乗船［搭乗］する"
+  },
+  {
+    "uid": "word1900-1829",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1829,
+    "globalId": 4929,
+    "word": "flap",
+    "meaning": "パタパタ動く；羽ばたく；をパタパタ動かす"
+  },
+  {
+    "uid": "word1900-1830",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1830,
+    "globalId": 4930,
+    "word": "furnish",
+    "meaning": "に（～を）備えつける（with）"
+  },
+  {
+    "uid": "word1900-1831",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1831,
+    "globalId": 4931,
+    "word": "forge",
+    "meaning": "を偽造する；（関係など）を築く；を鍛造する"
+  },
+  {
+    "uid": "word1900-1832",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1832,
+    "globalId": 4932,
+    "word": "thrust",
+    "meaning": "を押しつける；を突き刺す；押し進む"
+  },
+  {
+    "uid": "word1900-1833",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1833,
+    "globalId": 4933,
+    "word": "dispatch",
+    "meaning": "を派遣する；を発送する；を処理する"
+  },
+  {
+    "uid": "word1900-1834",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1834,
+    "globalId": 4934,
+    "word": "resent",
+    "meaning": "に憤慨する"
+  },
+  {
+    "uid": "word1900-1835",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1835,
+    "globalId": 4935,
+    "word": "reconcile",
+    "meaning": "を（～と）一致させる（with）；を和解させる"
+  },
+  {
+    "uid": "word1900-1836",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1836,
+    "globalId": 4936,
+    "word": "allege",
+    "meaning": "を主張する"
+  },
+  {
+    "uid": "word1900-1837",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1837,
+    "globalId": 4937,
+    "word": "oppress",
+    "meaning": "を抑圧［迫害］する；を悩ませる"
+  },
+  {
+    "uid": "word1900-1838",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1838,
+    "globalId": 4938,
+    "word": "expel",
+    "meaning": "を追放する；を吐き出す"
+  },
+  {
+    "uid": "word1900-1839",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1839,
+    "globalId": 4939,
+    "word": "ascend",
+    "meaning": "（を）上がる"
+  },
+  {
+    "uid": "word1900-1840",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1840,
+    "globalId": 4940,
+    "word": "commence",
+    "meaning": "始まる；を開始する；…し始める（to do / doing）"
+  },
+  {
+    "uid": "word1900-1841",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1841,
+    "globalId": 4941,
+    "word": "advent",
+    "meaning": "〔the ～〕出現，到来"
+  },
+  {
+    "uid": "word1900-1842",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1842,
+    "globalId": 4942,
+    "word": "reign",
+    "meaning": "治世；統治"
+  },
+  {
+    "uid": "word1900-1843",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1843,
+    "globalId": 4943,
+    "word": "diplomacy",
+    "meaning": "外交（的手腕）"
+  },
+  {
+    "uid": "word1900-1844",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1844,
+    "globalId": 4944,
+    "word": "embassy",
+    "meaning": "大使館；大使一行"
+  },
+  {
+    "uid": "word1900-1845",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1845,
+    "globalId": 4945,
+    "word": "exile",
+    "meaning": "亡命（者）；（国外）追放"
+  },
+  {
+    "uid": "word1900-1846",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1846,
+    "globalId": 4946,
+    "word": "refuge",
+    "meaning": "避難（所）；保護"
+  },
+  {
+    "uid": "word1900-1847",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1847,
+    "globalId": 4947,
+    "word": "plight",
+    "meaning": "窮状；（悪い）状態"
+  },
+  {
+    "uid": "word1900-1848",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1848,
+    "globalId": 4948,
+    "word": "solitude",
+    "meaning": "ひとりでいること；孤独"
+  },
+  {
+    "uid": "word1900-1849",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1849,
+    "globalId": 4949,
+    "word": "fallacy",
+    "meaning": "誤った考え，誤信；錯誤"
+  },
+  {
+    "uid": "word1900-1850",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1850,
+    "globalId": 4950,
+    "word": "latitude",
+    "meaning": "緯度；（行動・思想などの）許容範囲"
+  },
+  {
+    "uid": "word1900-1851",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1851,
+    "globalId": 4951,
+    "word": "eclipse",
+    "meaning": "（日食・月食などの）食；（名声などの）失墜"
+  },
+  {
+    "uid": "word1900-1852",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1852,
+    "globalId": 4952,
+    "word": "basin",
+    "meaning": "流域；盆地，海盆；洗面器［台］"
+  },
+  {
+    "uid": "word1900-1853",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1853,
+    "globalId": 4953,
+    "word": "erosion",
+    "meaning": "浸食；衰退"
+  },
+  {
+    "uid": "word1900-1854",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1854,
+    "globalId": 4954,
+    "word": "archaeology",
+    "meaning": "考古学"
+  },
+  {
+    "uid": "word1900-1855",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1855,
+    "globalId": 4955,
+    "word": "errand",
+    "meaning": "（人の）使い，使い走り；用件"
+  },
+  {
+    "uid": "word1900-1856",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1856,
+    "globalId": 4956,
+    "word": "mercy",
+    "meaning": "慈悲；〔通例a ～〕幸運"
+  },
+  {
+    "uid": "word1900-1857",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1857,
+    "globalId": 4957,
+    "word": "rhetoric",
+    "meaning": "修辞（法）；美辞麗句"
+  },
+  {
+    "uid": "word1900-1858",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1858,
+    "globalId": 4958,
+    "word": "verse",
+    "meaning": "韻文；詩"
+  },
+  {
+    "uid": "word1900-1859",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1859,
+    "globalId": 4959,
+    "word": "congestion",
+    "meaning": "混雑"
+  },
+  {
+    "uid": "word1900-1860",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1860,
+    "globalId": 4960,
+    "word": "sewage",
+    "meaning": "下水"
+  },
+  {
+    "uid": "word1900-1861",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1861,
+    "globalId": 4961,
+    "word": "complement",
+    "meaning": "（～の）補完物，補足（to）；（文法の）補語"
+  },
+  {
+    "uid": "word1900-1862",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1862,
+    "globalId": 4962,
+    "word": "subsidy",
+    "meaning": "補助金；報奨金"
+  },
+  {
+    "uid": "word1900-1863",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1863,
+    "globalId": 4963,
+    "word": "mortgage",
+    "meaning": "住宅ローン；抵当（権）"
+  },
+  {
+    "uid": "word1900-1864",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1864,
+    "globalId": 4964,
+    "word": "attorney",
+    "meaning": "【米】 弁護士；代理人"
+  },
+  {
+    "uid": "word1900-1865",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1865,
+    "globalId": 4965,
+    "word": "outfit",
+    "meaning": "衣装一式；装備［道具］一式；組織"
+  },
+  {
+    "uid": "word1900-1866",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1866,
+    "globalId": 4966,
+    "word": "bulk",
+    "meaning": "〔the ～〕（～の）大半（of）；大きさ；大量"
+  },
+  {
+    "uid": "word1900-1867",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1867,
+    "globalId": 4967,
+    "word": "reunion",
+    "meaning": "再会（の集い）；再結合"
+  },
+  {
+    "uid": "word1900-1868",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1868,
+    "globalId": 4968,
+    "word": "synthesis",
+    "meaning": "合成；総合"
+  },
+  {
+    "uid": "word1900-1869",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1869,
+    "globalId": 4969,
+    "word": "mold",
+    "meaning": "鋳型；鋳物；性格；かび"
+  },
+  {
+    "uid": "word1900-1870",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1870,
+    "globalId": 4970,
+    "word": "thirst",
+    "meaning": "（のどの）渇き；（～に対する）渇望（for）"
+  },
+  {
+    "uid": "word1900-1871",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1871,
+    "globalId": 4971,
+    "word": "greed",
+    "meaning": "強欲"
+  },
+  {
+    "uid": "word1900-1872",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1872,
+    "globalId": 4972,
+    "word": "bribe",
+    "meaning": "賄賂"
+  },
+  {
+    "uid": "word1900-1873",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1873,
+    "globalId": 4973,
+    "word": "contempt",
+    "meaning": "軽蔑；恥辱"
+  },
+  {
+    "uid": "word1900-1874",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1874,
+    "globalId": 4974,
+    "word": "texture",
+    "meaning": "感触，手触り；本質；質感"
+  },
+  {
+    "uid": "word1900-1875",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1875,
+    "globalId": 4975,
+    "word": "orphan",
+    "meaning": "孤児"
+  },
+  {
+    "uid": "word1900-1876",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1876,
+    "globalId": 4976,
+    "word": "harassment",
+    "meaning": "嫌がらせ，ハラスメント"
+  },
+  {
+    "uid": "word1900-1877",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1877,
+    "globalId": 4977,
+    "word": "hay",
+    "meaning": "干し草"
+  },
+  {
+    "uid": "word1900-1878",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1878,
+    "globalId": 4978,
+    "word": "doctrine",
+    "meaning": "教義；【米】（政策上の）主義"
+  },
+  {
+    "uid": "word1900-1879",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1879,
+    "globalId": 4979,
+    "word": "holistic",
+    "meaning": "全体論の；（医療が）ホリスティックの"
+  },
+  {
+    "uid": "word1900-1880",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1880,
+    "globalId": 4980,
+    "word": "liable",
+    "meaning": "しがちな；責任がある；受けやすい"
+  },
+  {
+    "uid": "word1900-1881",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1881,
+    "globalId": 4981,
+    "word": "earnest",
+    "meaning": "まじめな，熱心な"
+  },
+  {
+    "uid": "word1900-1882",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1882,
+    "globalId": 4982,
+    "word": "intelligible",
+    "meaning": "（簡単に）理解できる"
+  },
+  {
+    "uid": "word1900-1883",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1883,
+    "globalId": 4983,
+    "word": "abrupt",
+    "meaning": "突然の"
+  },
+  {
+    "uid": "word1900-1884",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1884,
+    "globalId": 4984,
+    "word": "reckless",
+    "meaning": "無謀な；（～を）顧みない（of）"
+  },
+  {
+    "uid": "word1900-1885",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1885,
+    "globalId": 4985,
+    "word": "furious",
+    "meaning": "激怒した；猛烈な"
+  },
+  {
+    "uid": "word1900-1886",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1886,
+    "globalId": 4986,
+    "word": "eloquent",
+    "meaning": "雄弁な；説得力のある"
+  },
+  {
+    "uid": "word1900-1887",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1887,
+    "globalId": 4987,
+    "word": "juvenile",
+    "meaning": "青少年の"
+  },
+  {
+    "uid": "word1900-1888",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1888,
+    "globalId": 4988,
+    "word": "notorious",
+    "meaning": "悪名高い"
+  },
+  {
+    "uid": "word1900-1889",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1889,
+    "globalId": 4989,
+    "word": "timid",
+    "meaning": "臆病な；内気な"
+  },
+  {
+    "uid": "word1900-1890",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1890,
+    "globalId": 4990,
+    "word": "humid",
+    "meaning": "湿気のある"
+  },
+  {
+    "uid": "word1900-1891",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1891,
+    "globalId": 4991,
+    "word": "contagious",
+    "meaning": "感染（性）の；病気を伝染する"
+  },
+  {
+    "uid": "word1900-1892",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1892,
+    "globalId": 4992,
+    "word": "cynical",
+    "meaning": "冷笑的な，皮肉な"
+  },
+  {
+    "uid": "word1900-1893",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1893,
+    "globalId": 4993,
+    "word": "dumb",
+    "meaning": "ばかな；口のきけない；無言の"
+  },
+  {
+    "uid": "word1900-1894",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1894,
+    "globalId": 4994,
+    "word": "monotonous",
+    "meaning": "単調な"
+  },
+  {
+    "uid": "word1900-1895",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1895,
+    "globalId": 4995,
+    "word": "perpetual",
+    "meaning": "永続的な；ひっきりなしの"
+  },
+  {
+    "uid": "word1900-1896",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1896,
+    "globalId": 4996,
+    "word": "dizzy",
+    "meaning": "目まいがする；当惑した"
+  },
+  {
+    "uid": "word1900-1897",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1897,
+    "globalId": 4997,
+    "word": "weary",
+    "meaning": "疲れ果てた；（～に）うんざりした（of）"
+  },
+  {
+    "uid": "word1900-1898",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1898,
+    "globalId": 4998,
+    "word": "numb",
+    "meaning": "麻痺した，無感覚な；ぼう然とした"
+  },
+  {
+    "uid": "word1900-1899",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1899,
+    "globalId": 4999,
+    "word": "mortal",
+    "meaning": "致命的な；死すべき（運命の）"
+  },
+  {
+    "uid": "word1900-1900",
+    "groupId": "word1900",
+    "groupName": "1900語リスト",
+    "id": 1900,
+    "globalId": 5000,
+    "word": "zealous",
+    "meaning": "熱心な；熱狂的な"
   }
 ];

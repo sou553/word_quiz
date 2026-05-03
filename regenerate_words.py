@@ -8,6 +8,7 @@ DOCS = ROOT / "docs"
 SOURCES = [
     {"id": "system", "name": "システム英単語", "csv": "system_wordbook.csv"},
     {"id": "pass_pre1", "name": "英検準1級", "csv": "pass_pre1_words_meanings.csv"},
+    {"id": "word1900", "name": "1900語リスト", "csv": "1900_words_meanings.csv"},
 ]
 
 all_words = []
@@ -20,8 +21,8 @@ for source in SOURCES:
     with path.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            word = (row.get("単語") or row.get("word") or "").strip()
-            meaning = (row.get("意味") or row.get("meaning") or "").strip()
+            word = (row.get("単語") or row.get("word") or row.get("Word") or "").strip()
+            meaning = (row.get("意味") or row.get("meaning") or row.get("Meaning") or "").strip()
             if not word or not meaning:
                 continue
             local_no = len(rows) + 1

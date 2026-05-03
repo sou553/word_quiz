@@ -31,3 +31,13 @@ GitHub Pagesで公開できる静的な四択単語テストです。
 
 CSVは `単語,意味` の2列にしてください。
 `regenerate_words.py` の `SOURCES` にCSVファイル名・単語群ID・表示名を追加して実行すると、`docs/words.js` が再生成されます。
+
+## 単語群
+
+- システム英単語：1,200語
+- 英検準1級：1,900語
+- 1900語リスト：1,900語
+- 全単語：5,000語
+
+`docs/1900_words_meanings.csv` を追加し、`docs/words.js` に反映済みです。
+CSVを更新した場合は、`python regenerate_words.py` で `words.js` を再生成できます。

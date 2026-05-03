@@ -24,6 +24,7 @@
     status: $("print-status"),
     shuffle: $("print-shuffle"),
     showNo: $("print-show-no"),
+    printQr: $("print-qr"),
     rangeStart: $("range-start"),
     rangeEnd: $("range-end"),
     wrongOnly: $("wrong-only"),
@@ -39,7 +40,7 @@
     els.printAnswerBtn.addEventListener("click", () => printQuiz(true));
 
     document.addEventListener("change", (event) => {
-      if (!event.target.matches('input[name="group"], input[name="count"], input[name="mode"], #range-start, #range-end, #wrong-only, #print-shuffle, #print-show-no')) return;
+      if (!event.target.matches('input[name="group"], input[name="count"], input[name="mode"], #range-start, #range-end, #wrong-only, #print-shuffle, #print-show-no, #print-qr')) return;
       setPrintButtons(false);
       if (els.status) els.status.textContent = "設定が変更されました。必要なら小テストを作り直してください。";
     });
@@ -107,7 +108,8 @@
       end: Math.max(start, end),
       wrongOnly: Boolean(els.wrongOnly?.checked),
       shuffle: els.shuffle ? els.shuffle.checked : true,
-      showNo: els.showNo ? els.showNo.checked : true,
+      showNo: els.showNo ? els.showNo.checked : false,
+      printQr: els.printQr ? els.printQr.checked : true,
     };
   }
 
@@ -174,6 +176,7 @@
             <thead><tr><th>No.</th><th>問題</th><th>解答</th></tr></thead>
             <tbody>${answerRows}</tbody>
           </table>
+          ${settings.printQr ? buildQrBlock(siteUrl) : ""}
           ${footer}
         </section>
       ` : ""}
@@ -190,6 +193,20 @@
         <span>単語トレーニング</span>
         <span>${escapeHtml(siteUrl)}</span>
         <span>作成日：${dateText}</span>
+      </div>
+    `;
+  }
+
+
+  function buildQrBlock(siteUrl) {
+    const qrSrc = `https://api.qrserver.com/v1/create-qr-code/?size=120x120&margin=8&data=${encodeURIComponent(siteUrl)}`;
+    return `
+      <div class="answer-qr-block">
+        <div>
+          <p class="answer-qr-title">サイトQRコード</p>
+          <p class="answer-qr-url">${escapeHtml(siteUrl)}</p>
+        </div>
+        <img class="answer-qr-img" src="${qrSrc}" alt="サイトURLのQRコード">
       </div>
     `;
   }

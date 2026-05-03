@@ -457,6 +457,7 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
 /* =========================
    小テスト作成・印刷
+   v4: 単語No.を問題番号セルから分離し、はみ出しを防止
 ========================= */
 .print-card .print-options {
   display: flex;
@@ -485,7 +486,6 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
 .print-preview .answer-sheet {
   margin-top: 14px;
-  page-break-before: auto;
 }
 
 .print-area {
@@ -494,7 +494,7 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
 .print-sheet {
   width: 210mm;
-  min-height: 297mm;
+  min-height: auto;
   margin: 0 auto;
   padding: 11mm;
   background: #fff;
@@ -542,7 +542,7 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
 .print-question {
   display: grid;
-  grid-template-columns: 26px minmax(0, 1.08fr) minmax(0, .92fr);
+  grid-template-columns: 22px minmax(0, 1.08fr) minmax(0, .92fr);
   min-height: 31px;
   border: 1px solid #222;
   page-break-inside: avoid;
@@ -556,30 +556,51 @@ button:active { transform: translate(0, 0); box-shadow: none; }
   justify-content: center;
   border-right: 1px solid #222;
   color: #555;
-  font-size: 10px;
-  line-height: 1.2;
+  font-size: 9px;
+  line-height: 1;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .print-word {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 3px;
   min-width: 0;
   padding: 3px 5px;
   border-right: 1px solid #222;
   font-size: 12.5px;
   line-height: 1.25;
   word-break: break-word;
+  overflow: hidden;
 }
 
-.print-dir {
+.print-dir,
+.print-qno {
   flex: 0 0 auto;
-  padding: 1px 3px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 13px;
+  padding: 0 3px;
   border: 1px solid #888;
   color: #555;
-  font-size: 8.5px;
-  line-height: 1.2;
+  font-size: 7.5px;
+  line-height: 1;
   white-space: nowrap;
+}
+
+.print-qno {
+  max-width: 30px;
+  overflow: hidden;
+  text-overflow: clip;
+  border-color: #bbb;
+  color: #666;
+}
+
+.print-word-text {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .print-blank {
@@ -590,8 +611,21 @@ button:active { transform: translate(0, 0); box-shadow: none; }
   word-break: break-word;
 }
 
+.print-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 8px;
+  padding-top: 4px;
+  border-top: 1px solid #777;
+  color: #555;
+  font-size: 8.5px;
+  line-height: 1.35;
+}
+
 .answer-sheet {
-  page-break-before: always;
+  page-break-before: auto;
+  break-before: auto;
 }
 
 .answer-sheet h1 {
@@ -636,8 +670,11 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
   html,
   body {
-    width: 210mm;
-    min-height: 297mm;
+    width: auto !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
     background: #fff !important;
   }
 
@@ -649,12 +686,34 @@ button:active { transform: translate(0, 0); box-shadow: none; }
 
   body.printing .print-area {
     display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
-  .print-sheet {
-    width: 210mm;
-    min-height: 297mm;
-    margin: 0;
-    box-shadow: none;
+  body.printing .print-sheet {
+    width: auto !important;
+    min-height: 0 !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 9mm 10mm !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+    page-break-inside: auto !important;
+    break-inside: auto !important;
+  }
+
+  body.printing .answer-sheet {
+    page-break-before: auto !important;
+    break-before: auto !important;
+  }
+
+  body.printing .print-area .print-sheet + .print-sheet {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
+  body.printing .print-area .print-sheet:last-child {
+    break-after: auto !important;
+    page-break-after: auto !important;
   }
 }

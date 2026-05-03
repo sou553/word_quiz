@@ -2,6 +2,7 @@
   "use strict";
 
   const STORAGE_KEY = "system-wordbook-quiz-v1";
+  const FALLBACK_SITE_URL = "https://sou553.github.io/word_quiz/";
   const $ = (id) => document.getElementById(id);
 
   const allWords = Array.isArray(window.WORDBOOK)
@@ -116,18 +117,20 @@
     const dateText = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, "0")}/${String(now.getDate()).padStart(2, "0")}`;
     const modeLabel = modeText(settings.mode);
     const note = settings.wrongOnly ? " / ミスだけ" : "";
+    const siteUrl = getSiteUrl();
+    const footer = buildFooter(siteUrl, dateText);
 
     const questionRows = printQueue.map((item, index) => {
       const isEnJa = item.direction === "en-ja";
       const q = isEnJa ? item.word : item.meaning;
       const no = getQuestionNo(item, settings.group);
       const label = isEnJa ? "英→日" : "日→英";
-      const noText = settings.showNo ? `<br><small>No.${escapeHtml(no)}</small>` : "";
+      const noBadge = settings.showNo ? `<span class="print-qno" title="No.${escapeHtml(no)}">No.${escapeHtml(no)}</span>` : "";
 
       return `
         <div class="print-question">
-          <div class="print-no">${index + 1}${noText}</div>
-          <div class="print-word"><span class="print-dir">${label}</span>${escapeHtml(q)}</div>
+          <div class="print-no">${index + 1}</div>
+          <div class="print-word"><span class="print-dir">${label}</span>${noBadge}<span class="print-word-text">${escapeHtml(q)}</span></div>
           <div class="print-blank"></div>
         </div>
       `;
@@ -162,6 +165,7 @@
           </div>
         </div>
         <div class="print-grid">${questionRows}</div>
+        ${footer}
       </section>
       ${showAnswers ? `
         <section class="print-sheet answer-sheet">
@@ -170,6 +174,7 @@
             <thead><tr><th>No.</th><th>問題</th><th>解答</th></tr></thead>
             <tbody>${answerRows}</tbody>
           </table>
+          ${footer}
         </section>
       ` : ""}
     `;
@@ -177,6 +182,22 @@
     els.preview.innerHTML = html;
     els.preview.classList.remove("hidden");
     els.printArea.innerHTML = html;
+  }
+
+  function buildFooter(siteUrl, dateText) {
+    return `
+      <div class="print-footer">
+        <span>単語トレーニング</span>
+        <span>${escapeHtml(siteUrl)}</span>
+        <span>作成日：${dateText}</span>
+      </div>
+    `;
+  }
+
+  function getSiteUrl() {
+    const href = window.location.href || "";
+    if (href.startsWith("http://") || href.startsWith("https://")) return href.split("#")[0];
+    return FALLBACK_SITE_URL;
   }
 
   function setPrintButtons(enabled) {
